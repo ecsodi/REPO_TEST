@@ -2296,16 +2296,46 @@ VNUM	LOCALE_NAME
 12397	Glugã de orc+7
 12398	Glugã de orc+8
 12399	Glugã de orc+9
-12400	Coif suflet safir+0
-12401	Coif suflet safir+1
-12402	Coif suflet safir+2
-12403	Coif suflet safir+3
-12404	Coif suflet safir+4
-12405	Coif suflet safir+5
-12406	Coif suflet safir+6
-12407	Coif suflet safir+7
-12408	Coif suflet safir+8
-12409	Coif suflet safir+9
+12400	Coif suflet cristal+0
+12401	Coif suflet cristal+1
+12402	Coif suflet cristal+2
+12403	Coif suflet cristal+3
+12404	Coif suflet cristal+4
+12405	Coif suflet cristal+5
+12406	Coif suflet cristal+6
+12407	Coif suflet cristal+7
+12408	Coif suflet cristal+8
+12409	Coif suflet cristal+9
+13400	Glugã suflet cristal+0
+13401	Glugã suflet cristal+1
+13402	Glugã suflet cristal+2
+13403	Glugã suflet cristal+3
+13404	Glugã suflet cristal+4
+13405	Glugã suflet cristal+5
+13406	Glugã suflet cristal+6
+13407	Glugã suflet cristal+7
+13408	Glugã suflet cristal+8
+13409	Glugã suflet cristal+9
+14400	Cascã suflet cristal+0
+14401	Cascã suflet cristal+1
+14402	Cascã suflet cristal+2
+14403	Cascã suflet cristal+3
+14404	Cascã suflet cristal+4
+14405	Cascã suflet cristal+5
+14406	Cascã suflet cristal+6
+14407	Cascã suflet cristal+7
+14408	Cascã suflet cristal+8
+14409	Cascã suflet cristal+9
+13400	Glugã suflet cristal+0
+13401	Glugã suflet cristal+1
+15402	Pãlãrie suflet cristal+2
+15403	Pãlãrie suflet cristal+3
+15404	Pãlãrie suflet cristal+4
+15405	Pãlãrie suflet cristal+5
+15406	Pãlãrie suflet cristal+6
+15407	Pãlãrie suflet cristal+7
+15408	Pãlãrie suflet cristal+8
+15409	Pãlãrie suflet cristal+9
 12480	Coif însângerat+0
 12481	Coif însângerat+1
 12482	Coif însângerat+2
@@ -7320,7 +7350,7 @@ VNUM	LOCALE_NAME
 4429	Cufãr talisman întuneric
 4430	Cufãr talisman pãmânt
 4431	Cufãr talisman vânt
-4432	Floare Rouã (+)
+4432	Floare Rouã II
 
 41171	Sabie Orientalã Roºie
 41172	Pumnal Oriental Roºu

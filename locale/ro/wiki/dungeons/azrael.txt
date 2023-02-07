@@ -1,0 +1,50 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/azrael.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 75
+*Entrance Ticket: Shrunken Head (not for the entrance but for the 3rd floor)
+[RIGHT_ALIGN]Shrunken Head
+[IMG=d:/ymir work/ui/wiki/30319.tga; Y=5; X=493]
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Devil's Catacomb is both accessible with and without a group. 
+*Within an hour, the Dungeon must be completed.
+*With a Boss Room Ticket (Azrael) you get straight into the last level and you can kill Azrael.
+*The Devil's Catacomb has a 60-minutes cooldown.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Levels:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 1
+
+[X_PADDING=20]Kill monsters until you drop a Soul Crystal Key. 
+[X_PADDING=20]You can must drag the key to the Kud Statue in the end of this floor.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 2
+
+[X_PADDING=20]You must fight your way through the Gate of Perdition until you reach the 
+[X_PADDING=20]Tortoise Rock in the end of the floor. Only one person needs to click on the Tortoise. 
+[X_PADDING=20](All group members need a Shrunken Head)
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 3
+
+[X_PADDING=20]In this floor you'll find 7 metinstones, called Metin of Retaliation, 
+[X_PADDING=20]which must be destroyed. There is only 1 correct that will allow you to move to the next level.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 4
+
+[X_PADDING=20]Find and kill Tartaros, he is in one of the rooms beneath the temple. 
+[X_PADDING=20]Take the dropped Grimace Totem to the top of the temple, drag & drop it to the Basalt Obelisk.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 5
+
+[X_PADDING=20]Kill all the monsters on this floor, then, focus on Charon. After all the monsters have been defeated, 
+[X_PADDING=20]you will move on to the next level.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 6
+
+[X_PADDING=20]Kill Azrael
+
+
+

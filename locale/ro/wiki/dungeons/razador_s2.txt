@@ -1,0 +1,62 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/razador.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 100 - 105
+*Entrance Ticket: Passageticket
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/71095.tga; Y=15; X=482]
+
+
+[X_PADDING=469]Passageticket
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Red Dragon Fortress has a 3 hours cooldown.
+*The Red Dragon Fortress can be entered with or without a group.
+*The Red Dragon Fortress has a time limit of 60 minutes.
+*Every Player needs a Passageticket.
+
+[CENTER_ALIGN;COLOR=0xffd700]Its always random which level you get next, that does not include the boss!
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 1
+
+[X_PADDING=20]Kill all monster.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 2
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=255; X=490]
+[IMG=d:/ymir work/ui/wiki/30329.tga; Y=261; X=496]
+
+[X_PADDING=20]Kill all monster until you drop the Golden Cog Wheel
+[X_PADDING=20]Drag and Drog the Golden Cog Wheel at the Isfet Stele until you get the correct one
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 3
+
+[X_PADDING=20]Kill all monster.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 4
+
+[X_PADDING=20]Kill Ignator.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 5
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=455; X=490]
+[IMG=d:/ymir work/ui/wiki/30306.tga; Y=461; X=496]
+
+[X_PADDING=20]Kill ll monster until you drop the Maat Stones.
+[X_PADDING=20]Drag and Drop the Maat Stones on all 7 Isfet Steles until all Isfet Steles are gone.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 6
+
+[X_PADDING=20]Kill the Purgatory Fire Metin.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 7
+
+[X_PADDING=20]Kill Razador.
+[IMG=d:/ymir work/ui/wiki/Razador.tga; Y=520; X=402]
+
+

@@ -1,0 +1,114 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costume_sash.tga]
+[CENTER_ALIGN]A Costume Sash is a valueable piece of equipment to decorate your normal sash with some useful bonuses on it. 
+[CENTER_ALIGN]The costume sash is equipped in the costume system tab, which opens with the costume system button
+[CENTER_ALIGN]on the player's inventory.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Different Types of Costume Sash.
+*2. How to obtain a Costume Sash.
+*3. How to combine a Costume Sash.
+*4. Bonuses.
+*5. How to transfer the bonuses of a Costume Sash.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=150; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Different Types of Costume Sash.
+
+Costume Sashes represent the 12 Gods of the Chinese Zodiac and therefore there are the following 
+available Costume Sashes: Sash of Zi, Sash of Chou, Sash of Yin, Sash of Mao, Sash of Chen, 
+Sash of Si, Sash of Wu, Sash of Wei, Sash of Shen, Sash of Yu, Sash of Xu, Sash of Hai
+In addition there are also some special Costume Sashes as Special Offer or Special Action like Angel Wings, 
+Devil Wings, Sash of the Demon, Each type has 4 different grades: (basic), (fine), (noble), (custom).
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=265; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How to obtain a Costume Sash.
+
+Costume Sashes are sold from the Theowahdan 'Sash Shop' and they require 25x Fine Cloth and 5x of the 
+corresponding Medallion. For example, to buy a Sash of Hai (basic) you need 5x Hai Medallion and 25x Fine Cloth.
+The corresponding Medallions are dropped from the final boss of each portal of the Zodiac Temple.
+The Special Costume Sashes you can get from Special Itemshop Offers or from Events. 
+You can get them there on the stage (basic).
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=395; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. How to combine a Costume Sash.
+
+The combination process is pretty much the same as the one from the Shoulder Sash System. 
+Costume Sashes of the same grade of quality can be combined to craft a higher quality costume sash, 
+although this process can fail. When it does so, the second costume sash in the Combination Window is destroyed.
+The Combination Window is reachable through the "Combination" option from Theowahdan. 
+Angel & Devil Wings can also be combined with costume sashes of the same grade but different type.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=525; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Bonuses
+
+A Costume Sash can take up to 5 bonuses depending on it's grade. Their bonuses are added with the help of 
+Dream & Sky stones. The bonuses have to be inserted in the order mentioned below.
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1 Dream Stones
+
+There are 5 different grades of a Dream Stone, each providing a PvM bonus to your costume sash. 
+Dream Soul Stones (dropped from Wukong's Temple metinstones) can be exchanged for a Dream Soul 
+from Chuk-Sal. Dream Souls of the same grade can be combined to craft a higher quality 
+Dream Stone from Chuk-Sal. The process can fail.
+
+[COLOR=0xffd700]Dream Soul
+*Strong against Monsters 4,6,8,10 %
+
+[COLOR=0xffd700]Shimmering Dream Soul
+*Strong against Bosses 4,6,8,10 %
+
+[COLOR=0xffd700]Iridescent Dream Soul
+*Strong against Elements 4,6,8,10 %
+
+[COLOR=0xffd700]Prismatic Dream Soul
+*Strong against Metinstones 4,6,8,10 %
+
+[COLOR=0xffd700]Enlightened Dream Soul
+*Average Damage 2, 4, 6, 8%
+
+[COLOR=ef4f00;FONT_SIZE=15]4.2 Sky Stones
+
+There are 5 different grades of a Sky Stone, each providing a PvP bonus to your costume sash. 
+Sky Soul Stones (dropped from Wukong's Temple metinstones) can be exchanged for a Sky Soul 
+from Chuk-Sal (Wukong's Temple). Sky Souls of the same grade can be combined to craft a 
+higher quality Sky Stone from Chuk-Sal (Wukong's Temple). The process can fail.
+
+[COLOR=0xffd700]Sky Soul
+*Max. HP +500, +1000, +1500, +2000
+
+[COLOR=0xffd700]Shimmering Sky Soul
+*Casting Speed 5, 10, 15, 20%
+
+[COLOR=0xffd700]Iridescent Sky Soul
+*Chance to block a close-combat attack 2, 4, 6 , 8%
+
+[COLOR=0xffd700]Prismatic Sky Soul
+*Strong against Half Humans 4, 6, 8, 10%
+
+[COLOR=0xffd700]Enlightened Sky Soul
+*Resistance against Half Humans 4, 6, 8, 10%
+
+
+[COLOR=ef4f00;FONT_SIZE=15]4.3 Prunous Enchanting
+
+You can switch the bonuses of a costume sash using a Prunous Enchanting. 
+This will switch all available bonuses in the Costume Sash.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1220; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. How to transfer the bonuses of a Costume Sash.
+
+You can transfer the bonuses of a Costume Sash to another using a Costume Bonus Transfer at Theowahdan. 
+The costume in the left slot will be emptied and the bonuses will be transfered to the costume in the right slot.
+
+
+

@@ -1,0 +1,53 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shipdefense.tga]
+[COLOR=0xffd700;FONT_SIZE=15]General:
+*Wymagany poziom: 105 - 115
+*Odstęp: 3 godziny
+*Czas: Brak limitu czasowego
+*Bonus: -
+*Element: Lód
+*Przepustka: Kamień hydry
+[X_PADDING=20]*Pochodzenie: Maester Aemon
+[X_PADDING=425;Y_PADDING=-100;FONT_SIZE=15;COLOR=0xffd700;]Stone of Hydra:
+[IMG=d:/ymir work/ui/wiki/pictures/31181.png; Y=17; X=444]
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=108; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+[COLOR=0xffd700;FONT_SIZE=15;CENTER_ALIGN]Dungeon Stages:
+Celem obrony statku jest jego ochrona przed zatonięciem. Potwory próbują zniszczyć maszt,
+musisz zabić wszytskie, żeby chronić statego. Jeśli zniszczą maszt, to statek zatonie a wyprawa zakończy się niepowodzeniem.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 1
+[X_PADDING=20]Zabij wszystkie potwory i broń maszt.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 2
+[X_PADDING=20]Zabij wszystkie potwory i broń maszt.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 3
+[X_PADDING=20]Zabij wszystkie potwory and metiny. Pokonaj pierwszą głowę hydry.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 4
+[X_PADDING=20]Zabij wszystkie potwory i broń maszt.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 5
+[X_PADDING=20]Zabij wszystkie potwory i broń maszt.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 6
+[X_PADDING=20]Zabij wszystkie potwory and metiny. Pokonaj drugą głowę hydry.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 7
+[X_PADDING=20]Zabij wszystkie potwory i broń maszt.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 8
+[X_PADDING=20]Zabij wszystkie potwory i broń maszt.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 9
+[X_PADDING=20]Zabij wszystkie potwory and metiny. Pokonaj ostatnią głowę hydry.
+[IMG=d:/ymir work/ui/wiki/pictures/Hydra.tga; Y=165; X=390]

@@ -1,0 +1,209 @@
+Group	Costum-Incepator-M
+{
+	vnum	43000
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Costum-Incepator-F
+{
+	vnum	43001
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Frizura-Incepator-M
+{
+	vnum	43002
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	43	3	30
+}
+
+Group	Frizura-Incepator-F
+{
+	vnum	43003
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	43	3	30
+}
+
+Group	Costum-Incepator-M
+{
+	vnum	43028
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Costum-Incepator-F
+{
+	vnum	43029
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Frizura-Incepator-M
+{
+	vnum	43030
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	43	3	30
+}
+
+Group	Frizura-Incepator-F
+{
+	vnum	43031
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	43	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40185
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40186
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40187
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40188
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40189
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40190
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Gheare
+{
+	vnum	40191
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Mount-Incepator-N
+{
+	vnum	8756
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Mount-Incepator-A
+{
+	vnum	8757
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Pet-Incepator-N
+{
+	vnum	8758
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Pet-Incepator-A
+{
+	vnum	8759
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40206
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40207
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40208
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40209
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40210
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Urgia-lui-Durendal
+{
+	vnum	40211
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+
+Group	Tunet
+{
+	vnum	40212
+	1	0	0	63	165	2500
+	2	0	1	110	5	75
+	3	0	2	111	3	30
+}
+

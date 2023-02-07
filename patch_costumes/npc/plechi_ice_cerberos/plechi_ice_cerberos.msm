@@ -1,0 +1,121 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\ymir work\npc\plechi_ice_cerberos\plechi_ice_cerberos.GR2"
+
+Group ShapeData
+{
+	PathName 		 "d:/ymir work/npc/plechi_ice_cerberos/"
+	ShapeDataCount 		 1
+	Group ShapeData00
+	{
+		ShapeIndex			0
+		Model				"plechi_ice_cerberos.GR2"
+		SourceSkin			"plechito_tex.dds"
+		TargetSkin			"plechito_tex.dds"
+	}
+}
+Group AttachingData
+{
+    AttachingDataCount       7
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip001 Spine1"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           75.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip001 Spine1"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           90.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData02
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "effect_tail"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_ice_cerberos\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData03
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "effect_foot2"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_ice_cerberos\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData04
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "effect_foot1"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_ice_cerberos\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData05
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "effect_hand2"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_ice_cerberos\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData06
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "effect_hand1"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_ice_cerberos\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+}

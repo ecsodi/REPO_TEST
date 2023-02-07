@@ -1,0 +1,45 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/nemere.tga]
+[COLOR=0xffd700;FONT_SIZE=15]General:
+*Wymagany poziom: 95 - 115
+*Odstęp: 1 godzina 30min
+*Czas 1 godzina
+*Bonus: -
+*Element: Lód
+*Przepustka: Bilet wstępu
+[X_PADDING=20]*Pochodzenie: Maester Aemon
+[X_PADDING=422;Y_PADDING=-100;FONT_SIZE=15;COLOR=0xffd700;]Passage Ticket
+[IMG=d:/ymir work/ui/wiki/pictures/71095.tga; Y=17; X=444]
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=108; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+[COLOR=0xffd700;FONT_SIZE=15;CENTER_ALIGN]Dungeon Stages:
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 1
+[X_PADDING=20]Zabij wszystkie metiny mrozu i przeciągnij północne gwiazdy na kostki.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 2
+[X_PADDING=20]Zabij Potwory.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 3
+[X_PADDING=20]Zabij metiny. Wskazówka: Metiny się teleportują
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 4
+[X_PADDING=20]Zabij Szela.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 5
+[X_PADDING=20]Zabij potwory i zdobądź mroźne klucze. 10 kluczy mrozu staję się 1 kluczem lodowego kwiatu.
+[X_PADDING=20]Przeciągnij klucz lodowego kwiatu na lodowego lwa.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 6
+[X_PADDING=20]Zabij Nemere
+[IMG=d:/ymir work/ui/wiki/pictures/Nemere.tga; Y=150; X=385]
+
+

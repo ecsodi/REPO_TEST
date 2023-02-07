@@ -1,0 +1,26 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners2/eveniment_litere.png]
+[CENTER_ALIGN;FONT_SIZE=18]Eveniment Litere
+
+[COLOR=0xffd700;FONT_SIZE=15]Conþinut:
+*1. Informaþii despre eveniment
+*2. Drop eveniment litere
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=110; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informaþii despre eveniment
+
+Acest eveniment va fi activ în fiecare Vineri de la 20:00 pânã la 22:00.
+În acest eveniment trebuie sã colectaþi literele pentru a forma "Deimos"
+ºi sã vã colectaþi premiul!
+Literele le dropaþi la toþi mobii apropiaþi de nivelul dvs.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Drop eveniment litere
+Acest eveniment vã oferã o ºansã foarte mare sã adunaþi mai multe
+iteme de upgrade.
+
+[IMG=d:/ymir work/ui/wiki/banners2/drop_eveniment_litere.png; Y=400; CENTER_ALIGN]

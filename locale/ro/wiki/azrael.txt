@@ -1,0 +1,32 @@
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/azrael.tga]
+[X=1;Y=0;COLOR=0xffd700;FONT_SIZE=15]General:
+[X=1; Y=15;]|Ed:/ymir work/ui/wiki/arrow_2.tga|e Nivel Necesar: 75 - 105
+[X=1; Y=25;]|Ed:/ymir work/ui/wiki/arrow_2.tga|e Timp de reincarcare: 1 ora
+[X=1; Y=35;]|Ed:/ymir work/ui/wiki/arrow_2.tga|e Daune min. pentru boss-ul final: 15.000
+[X=1; Y=45;]|Ed:/ymir work/ui/wiki/arrow_2.tga|e Bonus: Vampiri
+[X=1; Y=55;]|Ed:/ymir work/ui/wiki/arrow_2.tga|e Element: Intuneric
+[X=1; Y=65;]|Ed:/ymir work/ui/wiki/arrow_2.tga|e Obiect de intrare: Cap mumificat
+[X=20; Y=75;]|Ed:/ymir work/ui/wiki/arrow_2.tga|e Origin: Maester Aemon
+
+[X=420; Y=15;FONT_SIZE=15;COLOR=0xffd700;]Cap mumificat
+[X=445; Y=35; IMG=d:/ymir work/ui/wiki/pictures/30319.tga;]
+
+[X=1; Y=90; IMG=d:/ymir work/ui/wiki/divider_long.tga;]
+
+[X=245; Y=95; COLOR=0xffd700;FONT_SIZE=15;]Stagiile Temnitei:
+
+[X=1; Y=105;COLOR=ef4f00;FONT_SIZE=15] |Ed:/ymir work/ui/wiki/arrow_2.tga|e Stagiu 1
+[X=15; Y=119;]Distruge pietrele metin.
+
+[X=1; Y=129;COLOR=ef4f00;FONT_SIZE=15] |Ed:/ymir work/ui/wiki/arrow_2.tga|e Stagiu 2
+[X=15; Y=139;]Omoara toti monstrii.
+
+[X=1; Y=149;COLOR=ef4f00;FONT_SIZE=15] |Ed:/ymir work/ui/wiki/arrow_2.tga|e Stagiu 3
+[X=15; Y=159;]Distruge x6 Metine.
+[X=15; Y=169;]Omoara x100 Monstrii.
+[X=15; Y=179;]Omoara-l pe Charon.
+
+[X=1; Y=189;COLOR=ef4f00;FONT_SIZE=15] |Ed:/ymir work/ui/wiki/arrow_2.tga|e Stagiu 4
+[X=15; Y=199;]Omoara-l pe Azrael.
+
+[X=360; Y=125; IMG=d:/ymir work/ui/wiki/pictures/Azrael.tga;]

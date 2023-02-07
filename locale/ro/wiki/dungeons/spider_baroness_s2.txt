@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/spiderbaroness.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 60 - 85
+*Entrance Ticket: Arachnids Key 
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/30324.tga; Y=15; X=482]
+
+
+[X_PADDING=467]Arachnids Key
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Spider Baroness's Nest has a 1 hour cooldown.
+*The Spider Baroness's Nest can be entered with or without a group.
+*The Spider Baroness's Nest has a time limit of 20 minutes.
+*Only the groupleader needs a Arachnids Key.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=148; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1
+
+[X_PADDING=20]Kill the Spider Baron and activate the Arachnids Whistle that he drops.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 2
+
+[X_PADDING=20]Kill the Spider Baroness.
+[IMG=d:/ymir work/ui/wiki/Spinnenbaroness.tga; Y=160; X=320]

@@ -1,0 +1,66 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners2/clar_de_hexagon.png]
+[CENTER_ALIGN;FONT_SIZE=18]Eveniment cufere lumina lunii / Eveniment cufere hexagonale
+
+[COLOR=0xffd700;FONT_SIZE=15]Conþinut:
+*1. Informaþii despre eveniment
+*2. Cum se desfãºoarã acest eveniment?
+*3. Drop cufere lumina lunii / Eveniment cufere hexagonale
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=110; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informaþii despre eveniment
+
+Acest eveniment este împãrþit în 2 etape: 
+Evenimentul cufere lumina lunii, respectiv cufere hexagonale se va
+þine o datã la 2 sãptãmâni.
+Într-o duminicã va fi eveniment cufãr clar de lunã, în cealaltã va fi
+eveniment cufere hexagonale.
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cum se desfãºoarã acest eveniment?
+
+Acest eveniment va fi activ în fiecare Duminicã de la 20:00 pânã la 22:00.
+Puteþi dropa cufere lumina lunii / cufere hexagonale la toþi
+monºtrii apropiaþi de nivelul dvs.
+Cufere se vor dropa pe jos, aºa cã va trebui sã le luaþi cu tasta Z!
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Drop cufere lumina lunii / Eveniment cufere hexagonale
+
+Drop cufãr lumina lunii
+*Cel mai rar item: MD Voucher (1)
+[IMG=d:/ymir work/ui/wiki/banners2/drop_lumina_lunii.png; Y=430; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drop cufere hexagonale
+*Cel mai rar item: MD Voucher (1)
+[IMG=d:/ymir work/ui/wiki/banners2/drop_cufere_hexa.png; Y=630; CENTER_ALIGN]

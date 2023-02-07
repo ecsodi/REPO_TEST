@@ -1,0 +1,82 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shoulder.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. The different types of Shoulder Sashes and how to obtain one
+*2. How to improve a Shoulder Sash
+*3. How to add a Weapon to the Shoulder Sash
+*4. How to remove the bonuses from a Shoulder Sash
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=80; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. The different types of Sashes and how to obtain one
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 The Shoulder Sashes:
+There are 4 different Shoulder Sashes:
+*Lord Sash
+*Master Sash
+*Sovereign Sash
+*Royal Sash
+
+The difference between the Shoulder Sashes are only the look.
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=250; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 From where the Shoulder Sash?
+The Shoulder Sash can be crafted at Theowahdan with different cloath's
+The Cloath's can be dropped from the metinstones in the Cape Dragon Fire, Nephrite Bay, 
+Thunder Mountains and Gautama Cliff.
+There are 4 different cloaths, every cloath is for one Shoulder Sash:
+*10x Green Cloath -> Lord Sash
+*10x Purple Cloath -> Master Sash
+*10x Blue Cloath -> Sovereign Sash
+*10x Yellow Cloath -> Royal Sash
+To craft the Shoulder Sashes you need 250.000 Yang and 10x cloath of one color, it can't fail.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How to improve a Shoulder Sash
+
+[COLOR=ef4f00]The Shoulder Sash has 4 different levels:
+*basic
+*fine
+*noble
+*custom
+
+To Shoulder Sashes of the same level can be combinded at Theowahdan to get a higher level.
+At the combination process the Shoulder Sash at the top will be upgraded and the one at the bottom will be destroyed.
+The upgrade from the Shoulder Sash can fail.
+It's possible to add the Shoulder Sashes in the combinationwindow with Drag and Drop or "ALT + left mouseklick".
+A custom Shoulder Sash can be combined with a other custom Shoulder Sash to get the maximum 25%.
+Each upgrade on the level custom with a other custom Shoulder Sash is 100% and will give you 1% more.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=620; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. How to add a Weapon to the Shoulder Sash
+
+You can add the bonuses of your weapon to your Shoulder Sash.
+You can add your weapon to a Shoulder Sash at Theowahdan under Inclusion of Bonuses.
+> The Weapon will be destroyed in this process!
+
+The Shoulder Sash will only gives you a specific % of the bonuses.
+*Shoulder Sash (basic) will absorb 1% of the bonuses from the weapon.
+*Shoulder Sash (fine) will absorb 5% of the bonuses from the weapon.
+*Shoulder Sash (noble) will absorb 10% of the bonuses from the weapon.
+*Shoulder Sash (custom) will absorb 11 - 25% of the bonuses from the weapon.
+
+The Bonuses will be rounded downwards.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=830; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. How to remove the bonuses from a Shoulder Sash
+When you add a wrong Weapon to your Sash or the Shoulder Sash hat the wrong bonuses there is only 1 option:
+To remove the bonuses of your Shoulder Sash with the Certificate of Reversal which can be bought in the itemshop.
+The Certificate of Reversal will remove all bonuses from the Shoulder Sash.
+You will not get the weapon back which got absorbed from the Shoulder Sash.
+

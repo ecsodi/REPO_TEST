@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/gaya.tga]
+[CENTER_ALIGN]The Gaya system introduces a new currency in the game for valueable trades.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information.
+*2. How can I get Gaya?
+*3. What can I buy with Gaya?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=90; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Information.
+
+Your Gaya balance is the amount written in the left side of the Money Bar (next to your yang balance). 
+You can use Gaya to buy items from Gaya Market. Gaya can't be moved in other characters and can't be traded. 
+Gaya can be obtained by refining Gemstones at the Gaya Merchant.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How can I get Gaya?
+
+You can get 1 Gaya by giving 10x Gemstones, 500.000 yang and a stone +0 - +3 to the Gaya Merchant 
+(Pyungmoo, Yongan, Joan). The process cannot fail. Alternative, you can directly craft 10x Gaya by 
+giving 100x Gemstones, 5.000.000 yang and 10 stones +0 - +3 to the Gaya Merchant. Again, the process cannot fail.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=280; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 How can I get Gemstones?
+
+Gemstones are obtained from:
+ 
+Chief Orc, Nine Tails, Giant Tortoise, Flame King, Spider Queen, Yellow Tiger Ghost, 
+Death Reaper, Spider Baroness, Azrael, Beran Setaou, Ice Witch, Razador, Nemere, 
+King of Crystal Dragons, Jotun Thrym's Chest.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. What can I buy with Gaya?
+
+With Gaya you can buy items from a selection of 12 Items. The most important Item is the Gold Metallic Dye. 
+A Ring, Pet and a 14-Day mount can also be purchased.  The Gaya dealer also likes to swap the selection 
+of items, so always keep an Eye on the Gaya dealer.
+
+
+

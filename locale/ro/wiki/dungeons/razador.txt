@@ -1,0 +1,42 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/banner_weapons.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 95 - 109
+*Entrance Ticket: Fire Ticket
+[RIGHT_ALIGN]Fire Ticket
+[IMG=d:/ymir work/ui/wiki/31089.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*Red Dragon Fortress has a 90-minutes cooldown.
+*The dungeon can be entered with or without a group.
+*You have a total of 60 minutes to successfully complete Red Dragon Fortress.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Phases:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1
+
+[X_PADDING=20]Defeat all the Ignators and put the Golden Cog Wheels in the Pillar.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 2
+
+[X_PADDING=20]Defeat all the monsters and drag the key to the Stele.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 3
+
+[X_PADDING=20]Destroy the Metinstones in the correct order.
+[X_PADDING=20]A red arrow above the Metinstone will help you.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 4
+
+[X_PADDING=20]Defeat all the monsters.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 5
+
+[X_PADDING=20]Destroy the Metinstone. 
+[X_PADDING=20]Unique Feature: At 45% HP, a monster wave will spawn. Defeat it to proceed.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 6
+
+[X_PADDING=20]Defeat Razador.

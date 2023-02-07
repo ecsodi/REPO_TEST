@@ -1,0 +1,5 @@
+ScriptType               MotionData
+
+MotionFileName           "D:\ymir work\npc\plechi_lava_cerberos\damage.GR2"
+MotionDuration           0.666667
+Accumulation             0.00	0.00	0.00

@@ -1,0 +1,76 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\ymir work\npc\draiken_slade\draiken_slade.GR2"
+
+Group ShapeData
+{
+	PathName 		 "d:/ymir work/npc/draiken_slade/"
+	ShapeDataCount 		 2
+	Group ShapeData00
+	{
+		ShapeIndex			0
+		Model				"draiken_slade.GR2"
+		SourceSkin			"textura_alba_caracter.dds"
+		TargetSkin			"textura_neagra_caracter.dds"
+	}
+	Group ShapeData01
+	{
+		ShapeIndex			0
+		Model				"draiken_slade.GR2"
+		SourceSkin			"textura_alba_arma.dds"
+		TargetSkin			"textura_neagra_arma.dds"
+	}
+}
+Group AttachingData
+{
+    AttachingDataCount       3
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           40.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           45.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData02
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01"
+        
+        EffectScriptName     "d:/ymir work/npc/draiken_slade/draiken_alb.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+}

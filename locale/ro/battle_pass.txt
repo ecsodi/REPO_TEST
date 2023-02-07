@@ -1,0 +1,9 @@
+0	50258	Foloseºte obiectele 	none	Foloseºte obiectele ºi primeºte recompensã!
+1	0	Ucigãtor monºtrii 	d:/ymir work/ui/game/normal_interface/battle_pass/icons/monster_slayer.png	Ucide monºtrii ºi primeºte recompensã!
+3	0	Spintecãtor ºefi 	d:/ymir work/ui/game/normal_interface/battle_pass/icons/boss_hunter.png	Spintecã ºefii ºi primeºte recompensã!
+2	0	Distrugator de metine 	d:/ymir work/ui/game/normal_interface/battle_pass/icons/metin_slayer.png	Distruge pietrele metin ºi primeºte recompensã!
+4	0	Atacator monºtrii 	d:/ymir work/ui/game/normal_interface/battle_pass/icons/damage_mobs.png	Atacã monºtrii ºi primeºte recompensã!
+5	0	Atacator jucãtori 	d:/ymir work/ui/game/normal_interface/battle_pass/icons/damage_players.png	Atacã jucatori ºi primeºte recompensã!
+6	0	Craft obiecte 	d:/ymir work/ui/game/normal_interface/battle_pass/icons/craft_objects.png	Crafteazã obiectele ºi primeºte recompensã!
+7	0	Scrie pe chat 	d:/ymir work/ui/game/normal_interface/battle_pass/icons/chatter.png	Scrie pe chat ºi primeºte recompensã!
+9	0	Miner 	d:/ymir work/ui/game/normal_interface/battle_pass/icons/miner.png	Mineazã ºi primeºte recompensã!

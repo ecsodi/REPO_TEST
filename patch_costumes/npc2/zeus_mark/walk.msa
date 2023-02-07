@@ -1,0 +1,5 @@
+ScriptType               MotionData
+
+MotionFileName           "D:/Ymir Work/npc2/zeus_mark/walk.gr2"
+MotionDuration           2.000000
+Accumulation             0.00	-502.05	0.00

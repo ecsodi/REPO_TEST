@@ -1,0 +1,172 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/battlepass.tga]
+[CENTER_ALIGN] Battlepass is a series of missions which are rewarded upon successful completion.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Monthly Battlepass
+*2. Starterpass
+*3. Battlepass of the Tree
+*4. Battlepass (Dungeons)
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Monthly Battlepass
+
+[CENTER_ALIGN]In the beginning of each month, a Battlepass is on sale from the Item Shop which, like the rest Battlepasses,
+[CENTER_ALIGN]contains 7 normal missions and 3 Legendary missions. The highlight of each Battlepass is usually 
+[CENTER_ALIGN]2x Costume Vouchers along with many other rewards. The Monthly Battlepass is NOT tradeable and it is limited
+[CENTER_ALIGN]to 1 per ID. You can find informations about the newest battlepass at our board at the Itemshop News
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=180; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Starterpass
+
+[CENTER_ALIGN]By clicking this item, you will receive 7 normal missions & 3 Legendary missions. 
+[CENTER_ALIGN]This is probably the most important feature you have as a beginner. Completing 
+[CENTER_ALIGN]each mission is quite simple and will reward you with fundamental equipment, such as: 
+[CENTER_ALIGN]Rune Items, Master Sash(custom), Cor Draconis(Legendary), etc... Make sure to start 
+[CENTER_ALIGN]the missions as soon as possible.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.1 The Worries of Uriel
+[X_PADDING=20]Quest: Talk to Uriel
+[X_PADDING=20]Reward: 100x Green Magic, 20x Green Strength
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.2 The Skills
+[X_PADDING=20]Quest: Defeat 30 Map2 Metinstones
+[X_PADDING=20]Reward: 10x Emerald Crystal, 20x Exorcism Scroll, 20x Concentrated Reading
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.3 Boss Monsters
+[X_PADDING=20]Quest: Destroy 30 low level bosses (Orc Chief, Spider Queen, Flame King...)
+[X_PADDING=20]Reward: 3x Experience Ring+, 1x Thief's Glove, 10x White Dew, 5x Soul Stone
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.4 The Mission Books
+[X_PADDING=20]Quest: Find and complete 5 Mission Books. Can be any grade
+[X_PADDING=20]Reward: 25x Dragon God Defense, 25x Dragon God Attack, 25x Dragon God Life, 
+[X_PADDING=20]25x Dragon God Intelligence
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.5 The Red Forest
+[X_PADDING=20]Quest: Destroy 100 Metinstones at Red Forest
+[X_PADDING=20]Reward: Orc Parchment, Arachnids Key, Boss Room Ticket (Azrael)
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.6 Equipment Progress
+[X_PADDING=20]Quest: Defeat 10 Boss Monster (Death Reaper, Azrael, Beran Setaou, Spider Baroness, Orc Maze Chief)
+[X_PADDING=20]Reward: 200x Enchant Item, 25x Gemstone, 2x Potion of Thief, 2x Potion of Wisdom
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.7 The Runes
+[X_PADDING=20]Quest: Destroy 50 Metinstone on the Lv90 Maps
+[X_PADDING=20]Reward: 60x all rune items
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.8 Progress 1
+[X_PADDING=20]Quest: Reach Lv50
+[X_PADDING=20]Reward: 5x Cor Draconis (Legendary)
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.9 Progress 2
+[X_PADDING=20]Quest: Reach Lv75
+[X_PADDING=20]Reward: Master Sash(custom)[11%], 25x Gemstone
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.10 Progress 3
+[X_PADDING=20]Quest: Reach Lv90
+[X_PADDING=20]Reward: 10x Blacksmith Handbook, 10x Potion of Oblivion, 10x Researcher's Elixir
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=833; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Battlepass of the Tree
+
+[CENTER_ALIGN]It includes 7 normal missions and 3 Legendary missions. The rewards are adjusted to your needs, 
+[CENTER_ALIGN]so work on them as soon as possible.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.1 Destroy
+[X_PADDING=20]Description: Kill 1000 En-Tai Destoyers
+[X_PADDING=20]Hint: You can easily find En-Tai Destroyers in Enchanted Forest & Dark Forest or from Metin of Tree Beings
+[X_PADDING=20]Reward: 10x Polymorph Bag (b)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.2 Power of the Druids
+[X_PADDING=20]Description: Kill 300 En-Tai Druids
+[X_PADDING=20]Hint: You can easily find En-Tai Druids in Enchanted Forest & Dark Forest or from Metin of Tree Beings
+[X_PADDING=20]Reward: 3x Root of the Tree
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.3 Mermaid Island
+[X_PADDING=20]Description: Kill 250 Siren Queens
+[X_PADDING=20]Hint: You can easily find Siren Queens inside Ship Defense
+[X_PADDING=20]Reward: 4x Time Elixir (L)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.4 Kappa
+[X_PADDING=20]Description: Kill 500 Kappa Leaders
+[X_PADDING=20]Hint: You can easily find Kappa Leaders inside Ship Defense
+[X_PADDING=20]Reward: 1x Blue Dragon Bean
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.5 More than One Head?
+[X_PADDING=20]Description: Kill 25 Hydra Heads
+[X_PADDING=20]Hint: You can easily find Hydra Heads inside Ship Defense
+[X_PADDING=20]Reward: 1x Black Pearl Treasure Chest
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.6 Jotun's Revenge
+[X_PADDING=20]Description: Kill 5x Jotun Thrym
+[X_PADDING=20]Hint: You can easily find Jotun Thrym inside Jotun Thrym's Dungeon or from Boss Roll (expert)
+[X_PADDING=20]Reward: 1x Boss Roll (expert)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.7 Crystal Dragon
+[X_PADDING=20]Description: Kill 5x King of the Crystal Dragon
+[X_PADDING=20]Hint: You can easily find the King of the Crystal Dragons inside Crystal Dragon dungeon or from Boss Roll (expert)
+[X_PADDING=20]Reward: 1x Legendary Soulstone
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.8 Shadow King
+[X_PADDING=20]Description: Kill 3x En-Tai Shadow King
+[X_PADDING=20]Hint: You can easily find En-Tai Shadow King in Enchanted Forest or from Boss Roll (expert)
+[X_PADDING=20]Reward: 1x Soul Stone of the Trees
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.9 Light King
+[X_PADDING=20]Description: Kill 3x En-Tai Light King
+[X_PADDING=20]Hint: You can easily find En-Tai Light King in Enchanted Forest or from Boss Roll (expert)
+[X_PADDING=20]Reward: 3x Magic Talisman
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.10 Meteor Shower
+[X_PADDING=20]Description: Destroy 1000x Metins of the Tree Beings
+[X_PADDING=20]Hint: You can easily find Metin of the Tree Begins in Enchanted Forest & Dark Forest
+[X_PADDING=20]Reward: 25x Experience Balls
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Battlepass (Dungeons)
+
+[CENTER_ALIGN]It includes 7 normal missions and 3 Legendary missions. The rewards are really rare for absolving 
+[CENTER_ALIGN]different dungeons.
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.1 Soul of the Dryads
+[X_PADDING=20]Description: Kill 25x Jotun Thrym
+[X_PADDING=20]Reward: 10x Dungeon Shard (Jotun), 10x Elixir of Time (L)
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.2 Infected Plants
+[X_PADDING=20]Description: Kill 25x Garden Tyrant
+[X_PADDING=20]Reward: 10x Dungeon Shard (Infected Garden), 3x Animasphic Voucher
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.3 A Dragon with Crystals?
+[X_PADDING=20]Description: Kill 25x Crystaldragon
+[X_PADDING=20]Reward: 10x Dungeon Shard (Crystaldragon), 3x Legendary Soulstone
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.4 Tree or Stone?
+[X_PADDING=20]Description: Kill 25x Thranduil
+[X_PADDING=20]Reward: 10x Dungeon Shard (Thranduil), 25x Prunous enchanting	
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.5 How much heads?
+[X_PADDING=20]Description: Kill 25x Hydra
+[X_PADDING=20]Reward: 10x Dungeon Shard (Hydra), 25x Gaya Voucher (1)
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.6 Nemere
+[X_PADDING=20]Description: Kill 25x Nemere
+[X_PADDING=20]Reward: 10x Dungeon Shard (Nemere), 1x Stone of Ice
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.7 Razador
+[X_PADDING=20]Description: Kill 25x Razador
+[X_PADDING=20]Reward: 10x Dungeon Shard (Razador), 1x Stone of Lava
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.8 Missions? Missions!
+[X_PADDING=20]Description: Complete 150 Missionbooks
+[X_PADDING=20]Reward: 1x Costume Shard, 2x Stone of Hope
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.9 Dungeonmaster
+[X_PADDING=20]Description: Complete 150 Dungeons
+[X_PADDING=20]Reward: 1x Fullmoonring, 2x Scroll of Hope
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.10 Bosses, overall Bosses!
+[X_PADDING=20]Description: Kill 150 Bosses over Lv. 100
+[X_PADDING=20]Reward: 1x Nickname Roll (Pet), 1x Nickname Roll (Mount)

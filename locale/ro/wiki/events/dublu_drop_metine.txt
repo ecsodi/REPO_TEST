@@ -1,0 +1,14 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners2/dublu_drop_metine.png]
+[CENTER_ALIGN;FONT_SIZE=18]Dublu Drop Metine
+
+[COLOR=0xffd700;FONT_SIZE=15]Conþinut:
+*1. Informaþii despre eveniment
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=85; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informaþii despre eveniment
+
+Acest eveniment va fi activ în fiecare Miercuri de la 20:00 pânã la 22:00.
+Acest eveniment vã oferã o ºansã de 50% sã aveþi dublu drop la metine.
+
+

@@ -1,0 +1,23 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners2/cult_intunecat.png]
+[CENTER_ALIGN;FONT_SIZE=18]Eveniment Cult Întunecat
+
+[COLOR=0xffd700;FONT_SIZE=15]Conþinut:
+*1. Informaþii despre eveniment
+*2. Cum se desfãºoarã acest eveniment?
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informaþii despre eveniment
+Acest eveniment este împãrþit în 2 etape: 
+*1. Luni *Evenimentul Cult Întunecat
+*2. Marþi *Evenimentul Ruletã Cult Întunecat
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=220; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cum se desfãºoarã acest eveniment?
+Acest eveniment va fi activ în ficare Luni de la 20:00 pânã la 22:00.
+Acest eveniment constã în droparea obiectului Piatrã Cult Întunecat, acest obiect
+îl puteþi dropa de la monºtrii apropiaþi de nivelul dvs.

@@ -1,0 +1,249 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/thestart.tga]
+[CENTER_ALIGN]Hooray newbie. 
+[CENTER_ALIGN]In this guide you will find information regarding your fresh beginning in the server 
+[CENTER_ALIGN]and how to get stronger day by day. 
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Basic server features/systems before you start.
+*2. Battlepass, First Missions & Education.
+*3. Items you start collecting & must-buy items.
+*4. Leveling Paths: 30Lv, 50Lv, 75Lv+.
+*5. How do I increase my damage?
+*6. My first dungeons.
+*7. How to become a millionaire...
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Basic server features/systems before you start
+
+In your beginning, you should take your time to discover what's new in our server and how to use basic features. 
+Don't rush to level up, it's not a race! Also, make sure to walk around the city and explore the NPCs before 
+you start your adventures in Aeldra... As a gift from us, you got a 7 days mount, pet, Ring of Joy, and others 
+to provide you a smooth beginning.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1. Storerooms, Shop Search & Switchbot
+
+By opening your Inventory (I), you should see 3 new buttons in the top right corner of it. Let's see what they are.
+The first one opens your Storerooms. There are 5 different Storerooms: Materials, Books, Stones, Enchants & Costumes. 
+Items that you collect will be automatically assigned to a storeroom to keep your inventory clear and organized. 
+The second button opens the Shop Search. This will be your favorite feature, since you'll use it all the time. 
+It searchers all around, finds the item that you want in the best price & lets you buy it without a lot of troubles. 
+Click on the name of the item you searched to mark the location of theshop. Give it a try, it's free...  The last 
+button opens the Switch Bot. Things are simple here. Drag and drop an item, choose the bonuses you want and let 
+the system roll it until you have them.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2. F6 Shortcut - Quest Timer
+
+We have designed a unique tab to gather as much information as possible and make it super functional. 
+By pressing the F6 button, you have it infront of your eyes. Now you'll find your Biologist Missions and your 
+dungeons entrances & cooldowns. Super cool huh? Use it to check timers & teleport to places.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Vote4Buff
+By now, you might have noticed that you have a mission called "Vote4Buff". By logging in our website 
+you can vote our server and receive a 24 hours buff from your panel. Don't worry... After 24h, you can 
+repeat the process to enjoy permanently 1 of the following buffs: 
+
+*20% Experience Bonus
+*20% Monsters
+*20% Increased Item drop
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.4 Private Shop
+
+You have surely noticed there's a Shop button in your Inventory. With 100.000 yang, 
+you can open a Shop. From there, you can sell items without even being online. 
+Just add them there and wait for someone to make you rich.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=703; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Battlepass, First Missions & Education
+
+You might have also noticed that you don't have the classic Apprentice Chests. Who needs them? 
+You got the Battlepass.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Battlepass
+
+By clicking this item, you will 7 normal missions & 3 Legendary missions. This is probably 
+the most important feature you have as a beginner. Completing each mission is quite simple and will 
+reward you with fundamental equipment, such as: Rune Items, Master Sash(custom), Cor Draconis(Legendary), etc...
+Make sure to start the missions as soon as possible.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 First Missions
+Okay, all set with the Battlepass. What about the other missions?
+Well, the moment you reach 5Lv your missions journey begins. Uriel & Biologist will always keep 
+in touch with you so make sure to check what they need everytime. Alchemy will also assign you 
+a mission to unlock the Dragon Stone Alchemy system. Keep an eye for his mission at 30Lv.
+It's recommended that you start the missions early enough to enjoy some valuable rewards later on.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.3 Education
+When you reach 5Lv, you are able to choose your class and start your education. Add points to train 
+skills up to M1 and then use books provided from the Teachers to train them further.
+Don't forget to buy Exorcism Scrolls & Concentrated Reading from Hong-Hae. Everything is on your demand...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1025; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Items you start collecting & must-buy items
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Crystals
+By this time you must have destroyed a couple of metin stones and realised that they drop plenty of 
+crystals (in your Materials Storeroom). There's a great reason for that. Tourmaline, Emerald, Sapphire, 
+Ruby & Garnet crystals work as a second-currency in many NPCs. That's why we start providing a lot, 
+so that you always buy what you need. It is recommended that you keep them for you personal use, 
+but selling them comes handy when you're out of money. Make sure to check the average price from your 
+shop to have a better idea of the prices. Don't get fooled...
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Enchantment Chest, Herb Chest
+These nice looking chests are really worth for you. 
+Enchantment chests provide you with Reinforce Item, Enchant Item & Blessing Marble 
+to customize your equipment bonuses. Herb chests include all kinds of ingredients 
+for your potion manufactoring from Huahn-So (Jayang, Bokjung, Bakra).
+Both are extremely useful for beginners and even for pros. 
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Must-buy items
+It is quite early to mention these items, but having a solid target will help you redirect:
+
+*Level 80 Helmet for you´re Race
+[COLOR=808476;X_PADDING=20]*Can be obtained from Beran-Setaou
+
+*Titanshield
+[COLOR=808476;X_PADDING=20]*Can be obtained from Beran-Setaou and Azrael
+
+*Soul Crystal Necklace
+[COLOR=808476;X_PADDING=20]*Can be obtained from Azrael and Orc Maze
+
+*Soul Crystal Braclet
+[COLOR=808476;X_PADDING=20]*Can be obtained from Azrael and Orc Maze
+
+*Soul Crystal Earrings
+[COLOR=808476;X_PADDING=20]*Can be obtained from Azrael and Orc Maze
+
+*Linen Belt
+[COLOR=808476;X_PADDING=20]*Can be can be crafted at the Alchemist
+
+The ones you receive in the beginning will not last forever, so you better start 
+collecting money for these 3 permanent companions...
+
+*Brave Boar Seal:
+[COLOR=808476;X_PADDING=20]*30% Strength against Metinstones.
+
+*Baby Lion Seal:
+[COLOR=808476;X_PADDING=20]*Max. HP 2.000
+[COLOR=808476;X_PADDING=20]*Stength against monsters 15%
+[COLOR=808476;X_PADDING=20]*Strength against Metinstones 10%
+
+*Buffi:
+[COLOR=808476;X_PADDING=20]*A shaman companion following you everywhere and giving you buffs.
+[COLOR=808476;X_PADDING=20]*max. Skill level is P
+[COLOR=808476;X_PADDING=20]*on the max Skill Level it has a max. Buff of 35%
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1720; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Leveling Paths: 30Lv, 50Lv, 75Lv+
+
+Here are the leveling paths which at the moment are the most viable and easy ways to level up yourself:
+
+[COLOR=ef4f00]Level 1 - Level 30
+*Shinsoo
+*Yajang
+
+*Chunjo
+*Bokjung
+
+*Jinno
+*Bakra
+
+[COLOR=ef4f00]Level 30 - Level 42
+*Valley of Seungryong
+*Spider Dungeon 1
+*Spider Dungeon 2
+
+[COLOR=ef4f00]Level 42 - Level 61
+*Mount Sohan
+*Hwang Temple
+*Spider Dungeon 2
+*Spider Dungeon 3
+
+[COLOR=ef4f00]Level 61 - Level 81
+*Ghost Woods
+*Red Forest
+*Spider Dungeon 3
+
+[COLOR=ef4f00]Level 81 - Level 90
+*Red Forest 
+*Grotto of Exile 1
+*Grotto of Exile 2
+
+Remember, pushing yourself to gain levels over dropping items is not always good. For example, 
+taking your time and farming in Ghost Woods & Red Forest is preferred than leveling up
+in Spider Dungeon, because Ghost Woods & Red Forest will be your yang-paradise at this point. 
+This guide is all about "The Start", so let's not extend to further level paths for now...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2230; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. How do I increase my damage?
+
+At this point, your damage should start to bother you. 
+You realise that time is money and you want the best result possible. 
+Well, here's your guidance:
+
+[COLOR=ef4f00;FONT_SIZE=15]5.1 Aura of the Sword / Enchanted Blade L
+If you're Sura Weaponry or Warrior Body, you want these 2 skills at the maximum stage. 
+Which, surprisingly, is not P. Skills extend up to L (Legendary) and can be 
+trained with Legendary Soulstones.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.2 Vote4Buff (20% Strength against Monsters)
+Up to this point, 20% Experience bonus was really not bad. If you want to maximize your profits from metinstones, 
+20% Strength against Monsters is your way to go...
+
+[COLOR=ef4f00;FONT_SIZE=15]5.3 Dragon Stone Alchemy
+You should have enough Cor Draconis to start blending. Your goal for now is to make a 
+Legendary Dragon Ruby (Excellent)+6, with at least 15% Average Damage, 120 Attack Value & Defense. Work on it...
+
+[COLOR=ef4f00;FONT_SIZE=15]5.4 Sash with at least 13% Average Damage
+A sash would fit perfect on you, it's true. Start searching for one with at 
+least 13% Averag Damage and +3 Strength to improve your damage.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.5 Rune System (F5)
+The Rune System is a complex one and is described thoroughly in another guide. Although, in a sum, 
+it provides you with 20% PvE bonuses & status points that you are surely intrested. Take a look.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.6 Dews
+Dews manufactoring is a big aspect of the game and you should definitely try at Huahn-So. 
+Later on, you can use these dews to produce the permanent versions of them.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2650; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. My first dungeons
+
+You might be thinking that you are nowhere near a dungeon, right? Wrong! You can start completing dungeons 
+from as early as 30Lv. Orc Maze, Spider Baroness & Devil's Catacombs are some casual dungeons to start with. 
+Make sure to check for guides before you do so...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2750; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]7. How to become a millionaire
+
+At this point, there's a great chance that you're already a 'millionaire'. 
+But what's going to make you rich enough in your early stages of the server? 
+Well, there are surely some tips. Ghost Woods & Red Forest as mentioned before, 
+is a yang-paradise for players around 85Lv. Why's that? Because you can easily drop 
+Emerald Crystals and Yang Coupons from metinstones. The Emerald Crystals are only 
+droppable up until the 90Lv metinstones, so you're pretty much in the best map to farm them. 
+They are sold in prices that will let you easily grab some Soul Crystal items and also make enough money
+to craft/buy a good 75Lv weapon & other equipment for your future maps. A wise old man once said: 
+Stay in Red Forest until you have all the must-buy items menntioned above. 
+Then continue your adventures in the 90Lv+ maps. From now on, you can visit the guide 
+'105 and what now?' to continue your adventures... Have fun!
+
+
+
+ 

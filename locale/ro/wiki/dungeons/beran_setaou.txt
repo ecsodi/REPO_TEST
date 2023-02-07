@@ -1,0 +1,30 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/beransetoul.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 75
+*Entrance Ticket: Twisted Key
+[RIGHT_ALIGN]Twisted Key
+[IMG=d:/ymir work/ui/wiki/30179.tga; Y=5; X=493]
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Dragon Room has a 60-minutes cooldown.
+*Each Group member needs a Twisted Key.
+*Each Metin has a special effect, which is increased by the existence of the same metin.
+[X_PADDING=20]*The HP regeneration amount of the Dragon is increased by the Metin of Arrogance.
+[X_PADDING=20]*The Damage dealt by the Dragon is increased by the Metin of Vengeance.
+[X_PADDING=20]*The HP regeneration speed is increased by the Metin of Solitude.
+[X_PADDING=20]*The Dragon's Defense is increased by the Metin of Mountain.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Phases:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1
+
+[X_PADDING=20]Destroy Metin Stones until your desired Metin Stones appear.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 2
+
+[X_PADDING=20]Kill Beran-Setaou.

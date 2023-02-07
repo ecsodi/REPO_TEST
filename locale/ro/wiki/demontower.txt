@@ -1,0 +1,39 @@
+
+[BANNER_IMG =  d:/ymir work/ui/wiki/banners/demontower.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Ogólne:
+*Wymagany poziom: 40 - 115
+*Odstępy: -
+*Czas: -
+*Bonus: Nieumarli
+*Element: Mrok
+*Przepustka:: -
+[X_PADDING=20]*Pochodzenie: -
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=108; CENTER_ALIGN]
+
+
+[COLOR=0xffd700;FONT_SIZE=15;CENTER_ALIGN]Etapy:
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 1
+[X_PADDING=20]Zabij metin Twardości.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 2
+[X_PADDING=20]Zabij wszystkie potwory i Króla Demonów.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 3
+[X_PADDING=20]Zdobądź klucze z potworów i odblokuj wszystkie filary.
+[X_PADDING=20]Po użyciu klucza, potwory odrodzą się odrazu.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 4
+[X_PADDING=20]Zabij Podłego Króla Demonów.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 5
+[X_PADDING=20]Zabij wszystkie metiny Śmierci a następnie Morderstwa
+[X_PADDING=20]Wciśnij w mapę Zin, aby przejść dalej
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 6
+[X_PADDING=20]Wydrop klucz Zin i zniszcz nim filar.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 7
+[X_PADDING=20]Zabij Umarłego Rozpruwacza
+[IMG=d:/ymir work/ui/wiki/pictures/Sensenmann.tga; Y=185; X=360]
+

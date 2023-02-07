@@ -1,0 +1,592 @@
+STORAGE_BOOKS	Cãrþi
+STORAGE_CHESTS	Cufere
+STORAGE_MATERIAL	Materiale
+STORAGE_STONES	Pietre
+ACCEPT	OK
+ATTACH_METIN_INFO	Doreºti sã utilizezi piatra spiritului?
+ATTACH_METIN_TITLE	Foloseºte piatra spiritului
+BANNER_FISH_BUTTON	Pescuit Jigsaw
+CANCEL	Anulare
+UPGRADE	Pastreazã fereastra deschisã
+CHANGE_PASSWORD_CONFIRM	Confirmã noua parolã
+CHANGE_PASSWORD_NEW	Parolã nouã
+CHANGE_PASSWORD_OLD	Parolã veche
+CHANGE_PASSWORD_TITLE	Schimbare parolã
+CHARACTER_ACTION	Acþiuni
+CHARACTER_EMOTICON	Emoþie
+CHARACTER_MAIN	Caracter
+CHARACTER_MUTUAL_ACTION	Acþiuni interactive
+CHARACTER_NORMAL_ACTION	Acþiuni normale
+CHARACTER_QUEST	Misiuni
+CHARACTER_SKILL	Abilitate
+CHEST_DROP_TITLE	Vizualizare drop
+CHEST_OPEN_COUNT	Deschide %d cufere
+CLOSE	Închide
+COSTUME_TITLE	Costume
+COSTUME_WINDOW_TITLE	Costume
+CREATE_ATT_GRADE	STR
+CREATE_CREATE	Creeazã
+CREATE_DEX_GRADE	DEX
+CREATE_HP	VIT
+CREATE_LAST_POINT	Puncte
+CREATE_MAN	Bãrbat
+CREATE_NAME	Nume
+CREATE_NEXT	Continuã
+CREATE_PREV	Înapoi
+CREATE_SEX	Sex
+CREATE_SHAPE	Aspect
+CREATE_SP	INT
+CREATE_STAT_RESET	Reseteazã
+CREATE_WOMAN	Femeie
+CUBE_INFO_TITLE	Manualul îmbunãtãþirii
+CUBE_REQUIRE_MATERIAL	Materiale necesare
+CUBE_REQUIRE_MATERIAL_OR	sau
+CUBE_TITLE	Fereastra rafinament
+DESTROY	ªterge
+DO_REFINE	Rafineazã
+DRAGONSOUL_ACTIVATE	Activeazã
+DRAGONSOUL_PAGE_BUTTON_1	Brut
+DRAGONSOUL_PAGE_BUTTON_2	Taiat
+DRAGONSOUL_PAGE_BUTTON_3	Rar
+DRAGONSOUL_PAGE_BUTTON_4	Antic
+DRAGONSOUL_PAGE_BUTTON_5	Legendar
+DRAGONSOUL_REFINE_WINDOW_TITLE	Fereastrã rafinament
+DRAGONSOUL_TAP_TITLE_1	Diamant dragon
+DRAGONSOUL_TAP_TITLE_2	Rubin dragon
+DRAGONSOUL_TAP_TITLE_3	Jad dragon
+DRAGONSOUL_TAP_TITLE_4	Ametist dragon
+DRAGONSOUL_TAP_TITLE_5	Granat dragon
+DRAGONSOUL_TAP_TITLE_6	Onyx dragon
+DRAGONSOUL_TITLE	Alchimie piatrã dragon
+DROP_ITEM	Vrei sã arunci acest obiect?
+EMPIRE_EXIT	Sfârºit
+EMPIRE_NEXT	Continuã
+EMPIRE_PREV	Înapoi
+EMPIRE_SELECT	Alege
+EXCHANGE_ACCEPT	Acceptã
+CHARACTER_CREATE_MODE	Creeazã Caracter
+CHARACTER_SELECT_MODE	Selecteazã Caracter
+CHARACTER_CREATE_MALE	Masculin
+CHARACTER_CREATE_FEMALE	Feminin
+CHARACTER_CREATE_APPEARANCE1	Aspect 1
+CHARACTER_CREATE_APPEARANCE2	Aspect 2
+EXCHANGE_TITLE	Negociazã
+GAMEOPTION_TITLE	Opþiuni joc
+GAME_EXIT_OBSERVER	Închide modul spectator
+GAME_QUEST	Sarcini
+GAME_SKILL_UP	Creºte Abilitãþile
+GAME_STAT_UP	Creºte statusul
+GRADE	Clasa
+GRADE_SELECT	Clasa
+GUILD_BASENAME	Nume bazã
+GUILD_BOARD_ID	Nume
+GUILD_BOARD_REFRESH	Actualizeazã
+GUILD_BOARD_TEXT	Mesaj
+GUILD_BUILDING_CATEGORY_TITLE	Unitãþi de construcþie
+GUILD_BUILDING_CHANGE	Schimbã
+GUILD_BUILDING_DIRECTION	Orientare
+GUILD_BUILDING_GRADE	Grad
+GUILD_BUILDING_INFO	Informaþii clãdire si costuri
+GUILD_BUILDING_LIST_TITLE	Listã de clãdiri
+GUILD_BUILDING_LOG	Buºtean
+GUILD_BUILDING_NAME	Nume clãdire
+GUILD_BUILDING_OPERATE	Opereazã
+GUILD_BUILDING_PLY	Placaj
+GUILD_BUILDING_POSITION	Poziþie
+GUILD_BUILDING_PREVIEW	Preview
+GUILD_BUILDING_PRICE	Preþ
+GUILD_BUILDING_REFRESH	Actualizeazã
+GUILD_BUILDING_STONE	Piatrã
+GUILD_BUILDING_TITLE	Construcþie casa breslei
+GUILD_CRYSTAL	Cristal
+GUILD_DEPOSIT	Plãteºte
+GUILD_DROP_RESOURCE1	Aici
+GUILD_DROP_RESOURCE2	Aruncã resursa
+GUILD_GEM	Piatrã preþioasã
+GUILD_GRADE_CHANGE_GRADE_NAME	Nume rang nou
+GUILD_GRADE_NUM	Nr.
+GUILD_GRADE_PERMISSION_DELETE	Concediazã
+GUILD_GRADE_PERMISSION_JOIN	Invitã
+GUILD_GRADE_PERMISSION_NOTICE	Scrie
+GUILD_GRADE_PERMISSION_SKILL	Aptitudini
+GUILD_GRADE_RANK	Poziþie
+GUILD_GRADE_WRITE	Scrie
+GUILD_INFO	Informaþii breaslã
+GUILD_INFO_CUR_EXP	Experienþã
+GUILD_INFO_DECALRE_WAR	Declarã rãzboi
+GUILD_INFO_ENEMY_GUILD	Breaslã inamicã
+GUILD_INFO_ENEMY_GUILD_EMPTY	Niciuna
+GUILD_INFO_LEVEL	Nivel breaslã
+GUILD_INFO_MARK	Simbol breaslã
+GUILD_INFO_MASTER	Conducãtor
+GUILD_INFO_MASTER_VALUE	Conducãtor
+GUILD_INFO_MEMBER_AVG_LEVEL	Nivel mediu
+GUILD_INFO_MEMBER_NUM	Nr. membrii
+GUILD_INFO_NAME	Nume breaslã
+GUILD_INFO_NAME_VALUE	Acesta este un nume de breaslã
+GUILD_INFO_OFFER_EXP	Invest.
+GUILD_INFO_REST_EXP	Exp. necesarã
+GUILD_INFO_UPLOAD_MARK	Upload simbol
+GUILD_INFO_UPLOAD_SYMBOL	Upload steag
+GUILD_MARK	Simbol breaslã
+GUILD_MEMBER_JOB	Clasã
+GUILD_MEMBER_KNIGHT	Combatant
+GUILD_MEMBER_LEVEL	Nivel
+GUILD_MEMBER_NAME	Nume
+GUILD_MEMBER_RANK	Grad
+GUILD_MEMBER_SPECIFIC_GRAVITY	Investi.
+GUILD_METIN_STONE	Piatra spiritului
+GUILD_MINENAL	Mineral
+GUILD_MONEY	Yang
+GUILD_NAME	Alianþã
+GUILD_RESOURCE_INFO	Informaþii resurse
+GUILD_SKILL_ACTIVE	Activ
+GUILD_SKIlL_HEAL_GSP	Încarcã
+GUILD_SKILL_PASSIVE	Pasiv
+GUILD_SKILL_POWER	Energie
+GUILD_SKILL_STATE	Competenþa breslei
+GUILD_SYMBOL	Steag breaslã
+GUILD_WAR_ACCEPT	Acceptã declaraþia de rãzboi a breslei
+GUILD_WAR_BATTLE_TYPE	Stil de luptã
+GUILD_WAR_CTF	Steag
+GUILD_WAR_DECLARE	Declarã rãzboi breaslã
+GUILD_WAR_ENEMY	Inamic
+GUILD_WAR_NORMAL	Camp
+GUILD_WAR_WARP	Arena
+GUILD_WATER	Apã
+GUILD_WATER_STONE	Piatrã acvaticã
+GUILD_WITHDRAW	Ia
+HELP_ATTACK_KEY	Atac: buton stânga mouse sau space
+HELP_CHANGE_PK_MODE	Schimbare mod de atac: schimbã setãrile butonului stînga de la mouse.
+HELP_CHARACTER_BUTTON1	(Fereastrã caracter, Fereastrã inventar,
+HELP_CHARACTER_BUTTON2	Lista prieteni ºi Opþiuni)
+HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON	Camerã vedere standard: butonul din mijloc al mouse-ului
+HELP_CONTROL_CAMERA_BY_RIGHTBUTTON	Camerã vedere alternativã: botonul drept sau stâng al mouse-ului
+HELP_EXP	Experienþã
+HELP_FURY	Magazin obiecte în joc
+HELP_GUILD_WINDOW	Pentru a deschide fereastra breslei: ALT + G
+HELP_HELP	Ajutor: H
+HELP_HP	Puncte de viaþã (PV)
+HELP_MESSENGER_WINDOW	Deschide lista de prieteni: ALT + M
+HELP_MOUSE_LEFT	Funcþie buton maus stâng
+HELP_MOUSE_RIGHT	Funcþie buton maus drept
+HELP_MOVE_KEY	Panou control: W, A, S, D sau sãgeþile de pe tastaturã
+HELP_OPEN_CHARACTER	Pentru a deschide fereastra caracterului: C
+HELP_OPEN_CHAT	Pentru a deschide fereastra de chat: Enter
+HELP_OPEN_INVENTORY	Pentru a deschide inventarul: I
+HELP_OPEN_LOG	Pentru a deschide logul de chat: L
+HELP_OPEN_MINIMAP	Pentru a deschide mini-harta: SHIFT + M
+HELP_OPEN_QUEST	Pentru a deschide fereastra cu sarcini: N
+HELP_OPEN_SKILL	Pentru a deschide fereastra pentru aptitudini: V
+HELP_OPEN_WHISPER	Pentru a deschide fereastra pentru ºoaptã: SHIFT + ENTER
+HELP_OPEN_ZONEMAP	Pentru a deschide harta mare: M
+HELP_PICK_ITEM	Adunã obiectele: ` sau Z sau butonul stâng al mouse-ului
+HELP_QUICKSLOT	Câmp acces rapid
+HELP_SCREEN_CAPTURE	Pentru a salva screenshoturile: Print (se va salva în "Metin2\screenshot")
+HELP_SHOW_ALL_NAME	Afiºeazã nume: ALT
+HELP_SP	Puncte de mana (PM)
+HELP_SYSTEM_BUTTON	Taste sistem
+INVENTORY_PAGE_BUTTON_TOOLTIP_1	1. Inventar
+INVENTORY_PAGE_BUTTON_TOOLTIP_2	2. Inventar
+INVENTORY_PAGE_BUTTON_TOOLTIP_3	3. Inventar
+INVENTORY_PAGE_BUTTON_TOOLTIP_4	4. Inventar
+INVENTORY_TITLE	Inventar
+ITEM_MALL	Magazin de obiecte
+LANGUAGE_CHANGED	Ai schimbat limba cu succes.
+LOAD_ERROR	Fiºierul cu date este stricat. Instaleazã din nou clientul. Apasã acum tasta ESC.
+LOGIN_CHANGE_CHANNEL	Alege canalul
+LOGIN_CONNECT	Conecteazã
+LOGIN_CONNECTING	Conectarea la server ruleazã.
+LOGIN_DEFAULT_SERVERADDR	Nume server, Canal 1
+LOGIN_EXIT	Închide
+LOGIN_ID	Nume utilizator
+LOGIN_PASSWORD	Parolã
+LOGIN_REGION_TITLE	Alege regiunea pentru facturã
+LOGIN_SELECT_BUTTON	Alege
+LOGIN_SELECT_EXIT	Închide
+LOGIN_SELECT_OK	OK
+LOGIN_SELECT_TITLE	Alege server
+MALL_PASSWORD_TITLE	Parola
+MALL_TITLE	Depozit Magazin Obiecte
+MARKET_TITLE	Magazin
+MARKLIST_REFRESH	Actualizeazã
+MARKLIST_TITLE	Înregistreazã simbolul breslei
+MESSAGE	Acesta este un mesaj
+MESSENGER_ADD_FRIEND	Adaugã prieten
+MESSENGER_DELETE_FRIEND	ªterge prieten
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1	%s te-a acceptat ca prieten.
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2	Accepþi?
+MESSENGER_DO_YOU_DELETE	ªterge?
+MESSENGER_DO_YOU_MOVE	Mai departe?
+MESSENGER_EMPTY_LIST	Gol
+MESSENGER_FAMILY	Familie
+MESSENGER_FRIEND	Prieteni
+MESSENGER_GUILD	Breaslã
+MESSENGER_MOBILE	Trimite SMS
+MESSENGER_OPEN_GUILD	Deschide fereastra breslei
+MESSENGER_TITLE	Prieteni
+MESSENGER_USE_GUILD_MOVE_SKILL	Foloseºte competenþa de miºcare a breslei
+MESSENGER_WHISPER	ªoaptã
+MINIGAME_FISH_EVENT_USE_COUNT	Cantitate
+MINIMIZE	Minimeazã
+MINI_GAME_FISH_HELP_TEXT	Ajutor
+MINI_GAME_FISH_START_TEXT	Start
+MINI_GAME_FISH_TITLE	Pescuit Jigsaw
+MINI_GAME_RUMI_DISCARD_TEXT	Modul Sigur
+MINI_GAME_RUMI_EXIT	Sfârºit
+MINI_GAME_RUMI_LBUTTON_DESC	Stânga mouse sã adaugi card
+MINI_GAME_RUMI_RBUTTON_DESC	Dreapta mouse sã renunþi la card
+MINI_GAME_RUMI_SCORE	Scor
+MINI_GAME_RUMI_START_TEXT	Start
+MINI_GAME_RUMI_TITLE	Metin2 Jocul Okey cu Carduri
+MOUSEBUTTON_ATTACK	Atacã
+MOUSEBUTTON_AUTO_ATTACK	Atacã automat
+MOUSEBUTTON_CAMERA	Camerã
+MOUSEBUTTON_SKILL	Abilitãþi
+MUSICLIST_TITLE	Alege muzica
+NEW_EXCHANGE_YOU	Tu
+NO	Nu
+OK	OK
+OPTION_ALWAYS_SHOW_NAME	Nume
+OPTION_ALWAYS_SHOW_NAME_OFF	Limitat
+OPTION_ALWAYS_SHOW_NAME_ON	Totdeauna
+OPTION_BLOCK	Blocheazã
+OPTION_BLOCK_EXCHANGE	Negociazã
+OPTION_BLOCK_FRIEND	Prieteni
+OPTION_BLOCK_GUILD	Alianþã
+OPTION_BLOCK_PARTY	Grup
+OPTION_BLOCK_PARTY_REQUEST	Cerere
+OPTION_BLOCK_WHISPER	ªoaptã
+OPTION_CAMERA_DISTANCE	Camerã
+OPTION_CAMERA_DISTANCE_LONG	Departe
+OPTION_CAMERA_DISTANCE_SHORT	Aproape
+OPTION_COUNTRYFLAG_OFF	Ascunde
+OPTION_COUNTRYFLAG_ON	Aratã
+OPTION_COUNTRYFLAG_TEXT	Steag
+OPTION_DELETE_MOBILE_BUTTON	ªterge numãr mobil
+OPTION_EFFECT	Afiºare lovituri
+OPTION_FOG	Ceaþã
+OPTION_FOG_DENSE	Mult
+OPTION_FOG_LIGHT	Puþin
+OPTION_FOG_MIDDLE	Mediu
+OPTION_HIDE_EFFECTS	Efecte
+OPTION_HIDE_EFFECTS_GENERAL	General
+OPTION_HIDE_EFFECTS_SKILLS	Abilitãþi
+OPTION_HIDE_EFFECTS_BUFFS	Buff
+OPTION_MOBILE	Mobil
+OPTION_MOB_INFO	Info Mob
+OPTION_MOB_INFO_AGGR	Agresiv
+OPTION_MOB_INFO_LEVEL	Nivel
+OPTION_MUSIC	Muzicã
+OPTION_MUSIC_CHANGE	Schimbã
+OPTION_MUSIC_DEFAULT_THEMA	Muzicã standard Metin2
+OPTION_NAME_COLOR	Nume culoare
+OPTION_NAME_COLOR_EMPIRE	Culoare regat
+OPTION_NAME_COLOR_NORMAL	Normal
+OPTION_NIGHT	Noapte
+OPTION_PVPMODE	Mod PvP
+OPTION_PVPMODE_FREE	Liber
+OPTION_PVPMODE_FREE_TOOLTIP	Poþi ataca toþi jucãtorii.
+OPTION_PVPMODE_GUILD	Alianþã
+OPTION_PVPMODE_GUILD_TOOLTIP	Poþi ataca toþi jucãtorii cu excepþia membrilor breslei.
+OPTION_PVPMODE_PEACE	Pace
+OPTION_PVPMODE_PEACE_TOOLTIP	Nu poþi ataca jucãtori din regatul tãu.
+OPTION_PVPMODE_REVENGE	Inamic
+OPTION_PVPMODE_REVENGE_TOOLTIP	Poþi ataca doar jucãtori cu grad negativ.
+OPTION_SALESTEXT	Numele magazinului
+OPTION_SALESTEXT_VIEW_OFF	Închide
+OPTION_SALESTEXT_VIEW_ON	Deschide
+OPTION_SOUND	Efecte
+OPTION_TARGET_BOARD	Meniu þintã
+OPTION_TARGET_BOARD_NO_VIEW	Închide
+OPTION_TARGET_BOARD_VIEW	Afiºeazã
+OPTION_TILING	Memorie graficã
+OPTION_TILING_APPLY	Aplicã
+OPTION_TILING_CPU	CPU
+OPTION_TILING_GPU	GPU
+OPTION_TITLE	Opþiuni
+OPTION_VIEW_CHAT	Linie de chat
+OPTION_VIEW_CHAT_OFF	Închide
+OPTION_VIEW_CHAT_ON	Deschide
+PARTY_MEMBER_INFO_NAME	Nume membru grupã
+PASSWORD_DESC_1	Introdu parola
+PASSWORD_DESC_2	pentru a deschide depozitul.
+PASSWORD_DESC_3	Ai schimbat parola deja?
+PASSWORD_DESC_4	Daca nu, parola ta va fi '000000'.
+PASSWORD_DESC_5	Schimbã parola la depozit.
+PASSWORD_TITLE	Salvare parolã
+PICK_MONEY_TITLE	Împarte
+PRIVATE_SHOP_CLOSE_BUTTON	Închide magazin
+PRIVATE_SHOP_NAME	Numele magazinului
+PRIVATE_SHOP_TITLE	Deschide propriul magazin
+REFINE_COST	Costuri de îmbunãtãþire: 0 Yang
+REFINE_INFO	ªansã de upgrade: 100%
+REFINE_MONEY	Cost rafinare
+REFINE_SELECT	Rafinare
+REFINE_TTILE	Îmbunãtãþiri
+REPORT_VIOLENT_WHISPER	
+RESTART_HERE	Restarteazã aici
+RESTART_TOWN	Restarteazã în oraº
+SAFE_CHANGE_PASSWORD	Schimbã parola
+SAFE_TITLE	Depozit
+SELECT_ATT_GRADE	STR
+SELECT_CREATE	Creeazã
+SELECT_DELETE	ªterge
+SELECT_DEX_GRADE	DEX
+SELECT_EMPIRE_NAME	Numele regatului
+SELECT_EXIT	Ieºire
+SELECT_HP	VIT
+SELECT_LEVEL	Nivel
+SELECT_METIN_STONE_TITLE	Selecteazã Piatra Spiritului
+SELECT_NAME	Nume
+SELECT_NO_GUILD	Nicio breaslã
+SELECT_PLAYTIME	Timp de joc
+SELECT_SELECT	Start
+SELECT_SP	INT
+SELECT_TITLE	Alege titlu
+SELECT_YES_GUILD	Numele breslei: %s
+SHOP_BUY	Cumpãrã
+SHOP_CLOSE	Închide magazinul
+SHOP_CLOSE_QUEST	Eºti sigur cã vrei sã închizi magazinul "%s"?
+SHOP_SELL	Vinde
+SHOP_TITLE	Magazin
+SKILL_SUPPORT_TITLE	Abilitãþi standard
+STEP	Grad de claritate
+STEP_SELECT	Grad de claritate
+STRENGTH	Întãrire
+STRENGTH_SELECT	Nivel
+SYSTEMOPTION_TITLE	Opþiuni sistem
+SYSTEM_CHANGE	Schimbã caracterul
+SYSTEM_EXIT	Ieºire joc
+SYSTEM_HELP	Ajutor
+SYSTEM_LOGOUT	Logout
+SYSTEM_MALL	Magazin obiecte
+SYSTEM_OPTION	Opþiuni sistem
+TARGET_BUTTON_INVENTORY_VIEW	Inventar
+TASKBAR_CHARACTER	Caracter[C/V/B/N]
+TASKBAR_CHAT	Fereastrã chat [ENTER ]
+TASKBAR_DISABLE	Dezactivat
+TASKBAR_DRAGON_SOUL	Alchimie Piatra Dragon
+TASKBAR_EXPAND	Extinde fereastra
+TASKBAR_INVENTORY	Inventar [I]
+TASKBAR_MESSENGER	Prieteni [ALT + M]
+TASKBAR_MONEY_EXPAND	Bani
+TASKBAR_NEXT_QUICKSLOT	Urmãtorul câmp de acces rapid [Shift+Numãr, Alt]
+TASKBAR_PREV_QUICKSLOT	Ultimul câmp de acces rapid [Shift+Numãr]
+TASKBAR_SYSTEM	Opþiuni[ESC]
+WHISPER_BAN	Blocheazã
+WHISPER_NAME	ªopteºte
+WHISPER_REPORT	
+WHISPER_SEND	Trimite
+YES	Da
+ZONE_MAP	Hartã mare
+SASH_ABSORB	Bonus de absorbþie
+SASH_COMBINE	Combinaþie
+SASH_MAIN	Eºarfã 1
+SASH_RESULT	Rezultat
+SASH_SERVE	Eºarfã 2
+ACCOUNT_NAME	Nume cont/ID
+ACCOUNT_PASSWORD	Parolã
+ACCOUNT_SAVED	[Loc Liber]
+SAVE_ACCOUNT	Salveazã contul
+CH1	Canal 1
+CH2	Canal 2
+CH3	Canal 3
+CH4	Canal 4
+CH5	Canal 5
+LOGIN	Login
+LANGUAGE	Limbã
+REMAINING_TIME_OFFSHOP	Timp rãmas: Permanent
+OFFSHOP_BUYER	Cumpãrãtor
+LOGS_HISTORY	Istoric Vânzãri
+HOME_PAGE_OFFSHOP	Magazin privat
+OFFSHOP_TOTAL_PRICE	Preþul total al obiectelor: 
+OFFSHOP_WITHDRAWALL	Doreºti sã retragi toate obiectele?
+OFFSHOP_WITHDRAW_YANG	Cat doreºti sã retragi?
+OFFSHOP_AMOUNT	Sumã: 
+SEND_ITEMS_BIOLOG	Trimite obiectul
+RESET_TIME_BIOLOG	Reseteazã timpul
+REWARD_BIOLOG	Recompensã misiune
+MISSION_INFO_BIOLOG	Informaþii misiune
+STAGE_INFO_BIOLOG	Stagiu misiune
+REMAINING_TIME_BIOLOG	Timp rãmas: %s
+CAN_DELIVER_BIOLOG	Poþi trimite un nou obiect!
+CHRISTMAS_WHEEL	Roata Norocului
+MAP_NOT_REQUIRED_ITEM	Harta nu necesitã un obiect!
+THIS_MAP_HAS_BOSS	Aceastã hartã are ºeful:|cff00ff00 %s!
+MAP_BEGGINING	Început
+SPIDERZONE	Temniþa pãienjenilor
+MINING_MAP	Tãrâmul Minereelor
+GAME_STATISTICS_TITLE	Statistici Joc
+GAME_STATISTICS_STONES_DMG	Cel mai mare damage dat \n într-o piatrã (hit)
+GAME_STATISTICS_STONES_KILL	Numãrul total de \n pietre distruse
+GAME_STATISTICS_LEADERS_DMG	Cel mai mare damage dat \n într-un lider (hit)
+GAME_STATISTICS_LEADERS_KILL	Numãrul total de \n lideri uciºi
+GAME_STATISTICS_FISHES_CAUGHT	Numãrul total de \n peºti capturaþi
+GAME_STATISTICS_REFINE_ITEMS	Numãrul total de \n rafinãri importante
+GAME_STATISTICS_COMPLETED_DUNGEONS	Numãrul total de \n temniþe finalizate
+GAME_STATISTICS_PLAYER_DMG_SKILL	Cel mai mare damage dat \n într-un jucãtor (abilitate)
+GAME_STATISTICS_PLAYER_DMG_HIT	Cel mai mare damage dat \n într-un jucãtor (hit)
+GAME_STATISTICS_PLAYER_KILL	Numãrul total de \n jucatori uciºi
+GAME_STATISTICS_PLAYER_DUELS	Numãrul total de \n dueluri câºtigate
+GAME_STATISTICS_PLAYER_KILLED	Numãrul total de \n ucideri suferite
+GAME_STATISTICS_PVM_TEXT	Jucãtori vs Monºtri
+GAME_STATISTICS_PVP_TEXT	Jucãtori vs Jucãtori
+GAME_STATISTICS_RANKING_NAME	Nume
+GAME_STATISTICS_RANKING_LEVEL	Nivel
+GAME_STATISTICS_RANKING_VALUE	Valoare
+GAME_STATISTICS_RANKING_BTN_0	Cele mai puternice lovituri date în pietre
+GAME_STATISTICS_RANKING_BTN_1	Numãrul total de pietre distruse
+GAME_STATISTICS_RANKING_BTN_2	Cele mai puternice lovituri date în lideri
+GAME_STATISTICS_RANKING_BTN_3	Numãrul total de lideri uciºi
+GAME_STATISTICS_RANKING_BTN_4	Numãrul total de peºti capturaþi
+GAME_STATISTICS_RANKING_BTN_5	Numãrul total de rafinãri importante
+GAME_STATISTICS_RANKING_BTN_6	Numãrul total de temniþe finalizate
+GAME_STATISTICS_RANKING_BTN_7	Cel mai mare damage dat într-un jucãtor (abilitate)
+GAME_STATISTICS_RANKING_BTN_8	Cel mai mare damage dat într-un jucãtor (hit)
+GAME_STATISTICS_RANKING_BTN_9	Numãrul total de jucãtori ucisi
+GAME_STATISTICS_RANKING_BTN_10	Numãrul total de dueluri câºtigate
+GAME_STATISTICS_RANKING_BTN_11	Numãrul total de ucideri suferite
+GAME_STATISTICS_RANKING_BTN_12	Numãrul total de ucideri într-un rãzboi
+GAME_STATISTICS_WEEKLY_RANKING	Statistici Sãptãmânale
+GAME_STATISTICS_TOTAL_RANKING	Statistici Generale
+GAME_STATISTICS_PERSONAL_STATISTICS	Statistici Personale
+SUPPORTWND_TITLE	Support Shaman
+SUPPORTWND_CNAME	Nume:
+SUPPORTWND_LEVEL	Nivel:
+SUPPORTWND_CBEC	Abilitãþi:
+SUPPORTWND_BECINT	Inteligenþã:
+SUPPORTWND_BONUS	Rezistenþã:
+SUPPORTWND_CTECRUBE	EXP:
+FIRST_BUY_ITEM	Doreºti sã cumperi %s x%s pentru %s |?
+SECOND_BUY_ITEM	Doreºti sã cumperi %s x%s pentru %s| ºi %s |?
+EXTEND_INVENTORY_TOOLTIP_01	Aici vei gãsi cãrþile ºi obiectele necesare,
+EXTEND_INVENTORY_TOOLTIP_02	pentru a-þi evolua abilitãþile.
+EXTEND_INVENTORY_TOOLTIP_03	Aici vei gãsi obiectele de upgrade,
+EXTEND_INVENTORY_TOOLTIP_04	dar ºi alte obiecte generale.
+EXTEND_INVENTORY_TOOLTIP_05	Aici vei gãsi pietrele,
+EXTEND_INVENTORY_TOOLTIP_06	pe care le adaugi pe armã/armurã.
+EXTEND_INVENTORY_TOOLTIP_07	Aici vei gãsi cuferele.
+DUNGEON_INFO_1	Informaþii temniþã
+DUNGEON_INFO_2	Timp de aºteptare: 
+DUNGEON_INFO_3	Limitã de nivel: 
+FREEDOM_FLAG_DECO	Steagul libertãþii
+X1001_NIGHTS_DECO	1001 nopþi
+KING_BBQ_DECO	Regele BBQ
+TREASURE_HUNTER_DECO	Vânãtorul comorilor
+ECONOMIC_FLAME_DECO	Flacãrã economicã
+ARMS_DEALER_DECO	Vânzãtor de arme
+ARMOR_DEALER_DECO	Vânzãtor de armuri
+ALCHEMY_DEALER_DECO	Vânzãtor de alchimie
+ASK_DROP_ITEM	Ce doreºti sã faci cu acest obiect?
+ASK_DROP_TEXT	Aruncã
+WHISPER_BOT_WARNING	[!] Alege o întrebare din lista din dreapta.
+OFFLINE_SHOP_BUTTON_LOCK	Blocheazã
+OFFLINE_SHOP_BUTTON_UNLOCK	Deblocheazã
+OFFLINE_SHOP_BUTTON_RENEW	Reînnoire
+OFFLINE_SHOP_BUTTON_RENAME	Redenumeºte
+OFFLINE_SHOP_BUTTON_CLOSE	Închide
+OFFLINE_SHOP_INPUT_SIGN_TITLE	Change Shop Sign
+OFFLINE_SHOP_INPUT_SIGN_DESC	Nume Magazin: %s
+OFFLINE_SHOP_RENEW_CONFIRM	Reînnoirea magazinului va costa 1.000.000 Yang
+OFFLINE_SHOP_TIME_LEFT	%d Zile %02d Ore %02d Minute
+SEARCH_SHOP_TITLE	Cautã în magazine
+SEARCH_SHOP_BUY_CONFIGM	Doreºti sã cumperi acest obiect?
+SEARCH_SHOP_BOOKMARK_EMPTY	Liber
+SEARCH_SHOP_BOOKMARK_FULL	Nu existã spaþii goale pentru a marca o cãutare.
+SHOW_NAME_COLOR	Afiºeazã numele jucãtorilor ºi culoarea regatului
+SHOW_NAME	Afiºeazã mereu numele jucãtorilor
+GRAPHIC_MODE	Animaþie ferestre
+GRAPHIC_SETTINGS	Setãri Grafice
+GAME_SETTINGS	Setãri Joc
+DISPLAY_SETTINGS	Opþiuni Joc
+GAME_OPTIONS_TITLE	Opþiuni
+GAME_OPTIONS_TEXTURE	Texturã
+GAME_OPTIONS_CAMERA_DISTANCE	Distanþã camerã
+GAME_OPTIONS_TIME_DAY_NIGHT	Timp
+GAME_OPTIONS_SHADOW	Umbre
+GAME_OPTIONS_ENVIRONMENT	Ambienþã
+GAME_OPTIONS_INTERFACE	Interfaþã
+GAME_OPTIONS_FOG	Ceaþã
+GAME_OPTIONS_NAME_VISIBILITY	Vizibilitate nume
+GAME_OPTIONS_MONSTER_LEVEL	Nivel monºtri
+GAME_OPTIONS_MONSTER_AGGRESSIVENESS	Agresivitate monºtri
+GAME_OPTIONS_ATTACK_INFORMATION	Informaþii atac
+GAME_OPTIONS_FONT	 Font în joc
+GAME_OPTIONS_HIDE_ELEMENTS	Ascunde Elemente
+GAME_OPTIONS_HIDE_MOUNTS	Mount-uri
+GAME_OPTIONS_HIDE_PETS	Pet-uri
+GAME_OPTIONS_HIDE_SHOPS	Shop-uri
+GAME_OPTIONS_SHOPS_NAME_RANGE	Razã nume shop-uri
+GAME_OPTIONS_BLOCK	Blocheazã
+GAME_OPTIONS_ACCOUNT_SETTINGS	Setãri cont
+GAME_OPTIONS_PICKUP_SETTINGS	Setãri Ridicã Item
+GAME_OPTIONS_PICKUP_MODE	Mod ridicã 
+GAME_OPTIONS_PICKUP_IGNORE	Ignorã 
+GAME_OPTIONS_PICKUP_NORMAL	Normal
+GAME_OPTIONS_PICKUP_FAST	Rapid
+GAME_OPTIONS_PICKUP_WEAPONS	Arme
+GAME_OPTIONS_PICKUP_ARMORS	Armuri
+GAME_OPTIONS_PICKUP_HELMET	Coifuri
+GAME_OPTIONS_PICKUP_SHIELD	Scuturi
+GAME_OPTIONS_PICKUP_WRISTLET	Brãþãri
+GAME_OPTIONS_PICKUP_FOOTS	Papuci
+GAME_OPTIONS_PICKUP_NECKLACE	Coliere
+GAME_OPTIONS_PICKUP_EAR	Cercei
+GAME_OPTIONS_PICKUP_ORE	Minereu
+GAME_OPTIONS_PICKUP_WINE	Vinuri
+GAME_OPTIONS_PICKUP_OTHER	Altele
+GAME_OPTIONS_EFFECTS_NAME	Efecte
+GAME_OPTIONS_OPTIMIZATION	Optimizare
+GAME_OPTIONS_OPTIMIZATION_DISABLED	Disabled
+GAME_OPTIONS_OPTIMIZATION_PVP_MEDIUM	PvP - Performanta medie
+GAME_OPTIONS_OPTIMIZATION_PVP_HIGH	PvP - Performanta maxima
+GAME_OPTIONS_OPTIMIZATION_PVM	PvM
+MODEL_DOG_MODE_STATUS	Model câine
+OPTIONS_TEXTURES_STANDARD	Standard
+OPTIONS_TEXTURES_SNOW	Zãpadã
+OPTIONS_TEXTURES_DESERT	Deºert
+OPTIONS_ENV_DAY	Zi
+OPTIONS_ENV_NIGHT	Noapte
+OPTIONS_FOG_ON	Activeazã
+OPTIONS_FOG_OFF	Dezactiveazã
+OPTIONS_NAMES_ON	Aratã
+OPTIONS_NAMES_OFF	Ascunde
+OPTION_PICKUP_MODE_STANDARD	Standard
+OPTION_PICKUP_MODE_FAST	Rapid
+GLOBAL_ANNOUNCE	Anunþuri globale
+METIN_SCALE	Scalare pietre
+FOV_SETTING	Câmp vizual
+QUEST_SCROLLS	Afiºare misiuni
+AFFECT_ICONS	Iconiþe affect
+CHARACTER_BONUS_OFFENSIVE	Bonusuri Ofensive:
+CHARACTER_BONUS_DEFENSIVE	Bonusuri Defensive:
+CHARACTER_BONUS_REST	Alte Bonusuri:
+CHARACTER_BONUS_TITLE	Bonusuri Caracter
+CHATTING_SETTING_CANCLE	Anulare
+CHATTING_SETTING_CLEAR	Resetare
+CHATTING_SETTING_DEFAULT_TITLE	General
+CHATTING_SETTING_DETAIL	Setãri sistem
+CHATTING_SETTING_DICE	Zar
+CHATTING_SETTING_DICE_SETTING	Setãri zar
+CHATTING_SETTING_EXP	Experienþã
+CHATTING_SETTING_GOLD	Monedã
+CHATTING_SETTING_GUILD	Breaslã
+CHATTING_SETTING_ITEM	Iteme
+CHATTING_SETTING_LANGUAGE_1	Limbã 1
+CHATTING_SETTING_LANGUAGE_2	Limbã 2
+CHATTING_SETTING_LANGUAGE_3	Limbã 3
+CHATTING_SETTING_LANGUAGE_CUR	Limbã curentã ( %s )
+CHATTING_SETTING_LANGUAGE_ONOFF	Filtru
+CHATTING_SETTING_LIST	Listã
+CHATTING_SETTING_NOTICE	Mesaj
+CHATTING_SETTING_PARTY	Grup
+CHATTING_SETTING_SAVE	Salveazã
+CHATTING_SETTING_SHOUT	Strigã
+CHATTING_SETTING_SYSTEM	Sistem
+CHATTING_SETTING_TABNAME	Setãri nume chat
+CHATTING_SETTING_TALKING	General
+CHATTING_SETTING_TITLE	Setãri chat
+INTERFACE_OPTIONS	Selectare interfaþã
+INTERFACE_OPTIONS_1	Normalã
+INTERFACE_OPTIONS_2	Stil Deimos

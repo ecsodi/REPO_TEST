@@ -1,0 +1,76 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/demontower.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 40 - 105
+*Entrance Ticket: -
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Demontower has no cooldown.
+*The Demontower can be entered with or without a group.
+*You have to be Level 75+ for the Death Reaper.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=125; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 1
+
+[X_PADDING=20]Destroy the Metin of Toughness.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 2
+[IMG=d:/ymir work/ui/wiki/Damonenkonig.tga; Y=180; X=455]
+
+[X_PADDING=20]Kill the Demon King.
+[X_PADDING=20]Kill all the other monsters.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 3
+
+[X_PADDING=20]Kill the Metin of Devil.
+[X_PADDING=20]Find the correct Metin of Fall.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 4
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=360; X=490]
+[IMG=d:/ymir work/ui/wiki/30306.tga; Y=366; X=496]
+
+
+[X_PADDING=20]Kill monster until you drop the Key Stone.
+[X_PADDING=20]Drag and Drop the Key Stone on the Seal.
+[X_PADDING=20]Open all Seals.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 5
+
+[X_PADDING=20]Kill the Proud Demon King.
+[X_PADDING=20]When you are Level 75+ you can speak with the Black Smith to enter the next level.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 6
+
+[X_PADDING=20]Kill all Metins of Death.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 7
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=590; X=490]
+[IMG=d:/ymir work/ui/wiki/30302.tga; Y=596; X=496]
+
+[X_PADDING=20]Kill the Metin of Death.
+[X_PADDING=20]Activate the Zin-Sa-Gui Tower Map.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 8
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=670; X=490]
+[IMG=d:/ymir work/ui/wiki/30304.tga; Y=676; X=496]
+
+[X_PADDING=20]Kill monsters until you drop Zin-Bong-In-Key.
+[X_PADDING=20]Drag and Drop the Zin-Bong-In-Key on the tombstone.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 9
+
+[X_PADDING=20]Kill the Death Reaper.
+[IMG=d:/ymir work/ui/wiki/Sensenmann.tga; Y=700; X=322]
+
+
+

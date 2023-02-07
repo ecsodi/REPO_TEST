@@ -1,0 +1,9 @@
+Care este ultima evoluþie?	Armuri beta
+Unde dropez litere?	Puteþi dropa litere la metine doar când evenimentul este pornit!
+Unde dropez cl-uri ºi hexagoane?	La toþi monºtrii apropiaþi de nivelul tãu doar când evenimentul este pornit!
+Unde dropez pietre cult întunecat?	La toþi monºtrii apropiaþi de nivelul tãu doar când evenimentul este pornit!
+De unde fac rost de vouchere MD?	MD-urile sunt dropabile din cl-uri, hexagoane ºi la anumite evenimente!
+Unde vãd când se þin evenimentele?	Poþi vizualiza calendarul de evenimente apãsând pe butonul din inventar din meniu!
+Unde pot vedea drop-ul metinelor ºi ºefilor?	Verificând wiki-ul serverului, ESC -> Deimos Wikipedia!
+Unde pot vedea ce iteme sunt necesare pentru upgrade-uri?	Verificând wiki-ul serverului, ESC -> Deimos Wikipedia!
+Unde pot verifica ce bonusuri oferã seturile de costume?	Verificând wiki-ul serverului, ESC -> Deimos Wikipedia!

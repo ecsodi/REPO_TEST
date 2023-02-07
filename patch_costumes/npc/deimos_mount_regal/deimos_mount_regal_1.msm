@@ -1,0 +1,107 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\Ymir Work\npc\deimos_mount_regal\deimos_mount_regal.GR2"
+
+Group ShapeData
+{
+	PathName 		 "D:\Ymir Work\npc\deimos_mount_regal\"
+	ShapeDataCount 		 1
+	Group ShapeData00
+	{
+		ShapeIndex			0
+		Model				"deimos_mount_regal.gr2"
+		SourceSkin			"deimos_mount_regal.dds"
+		TargetSkin			"deimos_mount_regal.dds"
+	}
+}
+Group AttachingData
+{
+    AttachingDataCount       6
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          0
+        AttachingModelIndex  0
+        AttachingBoneName    "Root"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           88.000000
+            Position         0.000000 0.000000 60.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          0
+        AttachingModelIndex  0
+        AttachingBoneName    "Root"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           127.000000
+            Position         0.000000 0.000000 60.000000
+        }
+    }
+    Group AttachingData02
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "L_footStrike_ex"
+        
+        EffectScriptName     "D:\Ymir Work\npc\deimos_mount_regal\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData03
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "R_footStrike_ex"
+        
+        EffectScriptName     "D:\Ymir Work\npc\deimos_mount_regal\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData04
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "R_HandStrike_ex"
+        
+        EffectScriptName     "D:\Ymir Work\npc\deimos_mount_regal\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData05
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "L_HandStrike_ex"
+        
+        EffectScriptName     "D:\Ymir Work\npc\deimos_mount_regal\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+}

@@ -1,0 +1,525 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/runes.tga]
+[CENTER_ALIGN]Over the past decades, knowledge of the Runes began to spread around Aeldra, as more were unearthed. 
+[CENTER_ALIGN]The world's brightest minds, shamans, have studied thoroughly the ancient glyphs, collected 
+[CENTER_ALIGN]information from the depths of the history and attempted to gather and determine the powers that 
+[CENTER_ALIGN]they could possess. The sheer power held within them, was nowhere close to being translated and 
+[CENTER_ALIGN]manipulated by our hands. Some surmised that their powers lured Jotun Thrym into the, as of today known, 
+[CENTER_ALIGN]world of Aeldra. Those we managed to subdue are the ones nowdays people are using. Who knows what 
+[CENTER_ALIGN]else is left in the depths of Metin2.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Introduction of the Rune System.
+*2. How to unlock runes?
+*3. Frequently Used Tree paths & Pro Tips.
+*4. How to upgrade runes?
+*5. Rune Description & Stats (Lv1, Lv2)
+*6. Terminology.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Introduction of the Rune System
+
+The system allows players to customize their character growth for specific tasks, such as PvP & PvM, 
+by choosing from a wide variety of Runes. You can reach the system through the F5 shortcut.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Primary Trees
+There are 5 different Primary Trees that the player can choose to work on: 
+
+*Precision
+*Dominance
+*Magic
+*Determination
+*Inspiration
+
+After the player has picked his Primary Tree, he selects a Key Rune and 3 more 
+runes to complete his tree based on his needs.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Secondary Trees
+Secondary Trees are combined with the Primary Trees to forge a complete Rune Page. 
+The player picks another tree to combine and then selects 2 runes from that tree(Key Runes excluded)
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Control Buttons
+In the top right corner of the Rune System Tab, you can find 4 control buttons: 
+
+*Reset
+*Reset Points
+*Buy Points
+*Save
+
+In the bottom right corner of the Rune System Tab, you can find the Rune System Tutorial 
+along with the 4 available Rune Pages. To switch between the Trees, click on the Tree Icon 
+on the top before you save the Rune Page. When all 6 runes have bee unlocked and selected, 
+you can save the current Rune Page to apply it to your character. Saved Runes can be reset 
+with the 'Reset Points' button and saved Rune Pages can be reset with the "Reset" button.
+Runes that are active appear in your affect list, in the top left corner of your screen.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=680; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How to unlock runes?
+
+To unlock a Key Rune (or a normal rune), you need 12 Rune Points.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Rune Points
+You can buy 1 Rune Point through the 'Buy Points' button in the top right corner of the Rune System Tab.
+In the beginning and until you have 145 Rune Points, a Rune Point will require items from the 110Lv metin stones, 
+in the 90Lv maps & 6.000.000 yang. After the 145th Rune Point and until the 720th Rune Point (max),
+Rune Points will require items from the Metin of the Tree Beings, in 105Lv maps & 6.000.000 yang.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 Unlocking & Selecting a Rune
+When you have 12 points available, click on the Rune you would like to unlock. After that, 
+select the rune with the left mouse button and then press 'Save' for the bonuses to apply.
+Attention: Now your page is saved and you cannot swap trees. If you'd like so, 
+go the the second Rune Page and start over.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=895; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Frequently Used Tree Paths & Pro Tips
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 PvM popular Tree Path (for metin stones)
+Primary Tree, Dominance: Soul Robbery, Monster, Boss, Metin.
+Secondary Tree, Precision: Average Damage, Critical Damage.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 PvM popular Tree Path (for bosses)
+For boss farming, you usually go with the tree path for metin stones and you change the "Metin" 
+and the others to the most convenient Rune. For example: 
+During a Zodiac Temple run, it's easier if you switch "Metin" to "Zodiac" rune and so on...
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Pro Tips
+When killing a boss, switching to 'Thief' and 'Itemdrop' runes in another Rune Page at the last 
+moment will maximize your chances for loot. The Rune 'Reinforced Dew Potions' should be used 
+before you enable dews in order to receive greater amount of buffs. You need 1140 pieces of each item 
+from the 90Lv maps & 3450 pieces of each item from the 105Lv maps to unlock all the available Lv1 runes.
+As soon as you unlock 12/12 runes from your Primary Tree, you also receive a bonus of 
+15% Strong against Half Human & 10% Defense against Half Human.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1180; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. How to upgrade Runes?
+
+Having all the available runes unlocked, will grant you access to Lv2 runes. By clicking the (+) 
+button you can upgrade a specific rune to Lv2, giving you enhanced bonuses (Key Runes excluded).
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1265; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Rune Description & Stats
+
+Here we'll try to go in the depths of Runes and analyze them one by one.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]5.1 Domination
+The Domination Tree is frequently used for PvM purposes, as it strengthens your attacks against monsters.
+
+[COLOR=ef4f00]5.1.1 Lightning (Key Rune)
+Rune Description: Performing 3 basic attacks or skills under 3 seconds against players will deal 1000 true damage 
+against the currently selected player. This rune has a given cooldown.
+Comment: A true damage attack means that your outgoing skill will damage the player as if he had 0% resistances.
+
+[COLOR=ef4f00]5.1.1 Flash (Key Rune)
+Rune Description: When you are out of combat for 1 second, you receive 100 movement speed.
+Comment: You may have a maximum of 250 Movement Speed by foot. Although, when you're mounting your 
+maximum movement is way more and the rune is extremely useful for long distance trips...
+
+[COLOR=ef4f00]5.1.3 Soul Robbery (Key Rune)
+Rune Description: Killing bosses with lv 90 or above will increase the number of collected boss souls. 
+After every collected soul you receive 1 attack grade against non players. Stacks up to a given number (Max. 300). 
+When you change this rune the collected boss souls will remain, but note that you cannot
+collect boss souls if you have another keystone selected. Comment: 
+The Attack Value gained from the Soul Robbery is not shown in the Character Tab (C), although it's active. 
+You can check your Soul Robbery stacks in the top left corner (list of effects).
+
+[COLOR=ef4f00]5.1.4 Monster
+Rune Description: Strength against monsters +20%
+Rune Description Lv2: Strength against monsters +25%
+Comment: Strength against monsters triggers with everything that is not a player and can be attacked 
+(including bosses and metinstones).
+
+[COLOR=ef4f00]5.1.5 Devil
+Rune Description: Strength against Devils +25%
+Rune Description Lv2: Strength against Devils +30%
+Comment: Thranduil, Bagjanamu and many other bosses are labeled as 'Devils'. 
+Press the [I] button next to a monster's HP to check his genus.
+
+[COLOR=ef4f00]5.1.6 Orc
+Rune Description: Strength against Orcs +25%
+Rune Description Lv2: Strength against Orcs +30%
+Comment: Jotun Thrym and many other bosses are labeled as 'Orcs'. 
+Press the [I] button next to a monster's HP to check his genus.
+
+[COLOR=ef4f00]5.1.7 Boss
+Rune Description: Strength against Bosses +20%
+Rune Description Lv2: Strength against Bosses +25%
+Comment: Any monster that has the blue labeled scull animation above his head, 
+is labeled as a boss.
+
+[COLOR=ef4f00]5.1.8 Animals
+Rune Description: Strength against Animals +25%
+Rune Description Lv2: Strength against Animals +30%
+Comment: Press the [I] button next to a monster's HP to check his genus.
+
+[COLOR=ef4f00]5.1.9 Esoteric
+Rune Description: Strong against Esoterics +25%
+Rune Description Lv2: Strong against Esoterics +30%
+Comment: Press the [I] button next to a monster's HP to check his genus.
+
+[COLOR=ef4f00]5.1.10 Metin
+Rune Description: Strong against Metinstones +20%
+Rune Description Lv2: Strong against Metinstones +25%
+Comment: It triggers against every metinstone in the game.
+
+[COLOR=ef4f00]5.1.11 Undead
+Rune Description: Strong against Undead +25%
+Rune Description Lv2: Strong against Undead +30%
+Comment: King of the Crystal Dragons and many other bosses are labeled as 'Undead'. 
+Press the [I] button next to a monster's HP to check his genus.
+
+[COLOR=ef4f00]5.1.12 Zodiac
+Rune Description: Strong Against Zodiac +5%
+Rune Description Lv2: Strong against Zodiac +10%
+Comment: It triggers against almost everything inside the Zodiac Temple. 
+Press the [I] button next to a monster's HP to check his genus.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=2230; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]5.2 Precision
+Strengthen your normal attacks.
+
+[COLOR=ef4f00]5.2.1 Tribushit (Key Rune)
+Rune Description: Every 3rd basic attack against a player will apply some true damage against the 
+selected target as a bonus damage. This damage is separated from your 3rd attack's damage.
+Comment: Combatant classes and fast attackers can profit significantly.
+
+[COLOR=ef4f00]5.2.2 Blood Rush (Key Rune)
+Rune Description: Performing 8 basic attacks under 10 seconds will boost your 9th basic attack's 
+damage by a given percentage against your current target.
+Comment: Combatant classes and fast attackers profit significantly from this rune as well; 
+works on monsters too.
+
+[COLOR=ef4f00]5.2.3 Cold Feet (Key Rune)
+Rune Description: Your first basic attack against any target will heal you by 20% of the damage dealt 
+and give you 100 movement speed for 1.5 seconds. This rune has a given cooldown.
+Comment: Classes that need to reposition rapidly such as Healer Shamans and Archery Ninjas gain a big advantage.
+
+[COLOR=ef4f00]5.2.4 Average Damage
+Rune Description: Average Damage +10%
+Rune Description Lv2: Average Damage +12%
+Comment: Both valueable boost for PvM & PvP.
+
+[COLOR=ef4f00]5.2.5 Manadamage
+Rune Description: Max. HP +1000
+Rune Description Lv2: Max. Hp +1500
+Comment: HP is never worthless...
+
+[COLOR=ef4f00]5.2.6 Distance
+Rune Description: Arc Range +50m
+Rune Description Lv2: Arc Range +100m
+Comment: Archery Ninjas are always range-dependant while in combat. 
+Make use of that rune to out-range your enemy.
+
+[COLOR=ef4f00]5.2.7 Poisoning
+Rune Description: Poisoning Chance +10%
+Rune Description Lv2: Poisoning Chance +15%
+Comment: You can poison a target as long as he's within +/- 15 Levels from you.
+
+[COLOR=ef4f00]5.2.8 Slowdown
+Rune Description: Slowing Chance +10%
+Rune Description Lv2: Slowing Chance +15%
+Comment: Slowing effect has hidden side-effects too... Who knows?
+
+[COLOR=ef4f00]5.2.9 Blackout
+Rune Description: Blackout Chance +10%
+Rune Description Lv2: Blackout Chance +15%
+Comment: Blackout doesn't work against targets that are immune to Blackouts.
+
+[COLOR=ef4f00]5.2.10 Attack Value
+Rune Description: Attack Value +50
+Rune Description Lv2: Attack Value +75
+Comment: Valueable resource for all attack-dependant classes.
+
+[COLOR=ef4f00]5.2.11 Magic Attack Value
+Rune Description: Magic Attack Value +50
+Rune Description Lv2: Magic Attack Value +75
+Comment: Magic classes such as Shamans, Sura BM, etc... 
+will take a good advantage of it.
+
+[COLOR=ef4f00]5.2.12 Critical Damage
+Rune Description: Critical Damage +20%
+Rune Description Lv2: Critical Damage +25%
+Comment: The critical damage boosts only your Critical attack's outgoing damage. 
+Not the same with Critical Chance.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=3050; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]5.3 Sorcery
+Strengthen your Skills.
+
+[COLOR=ef4f00]5.3.1 Attack = Defense (Key Rune)
+Rune Description: If you attack a player with a skill or a basic attack, you charges an inactive normal shield. 
+Once this inactive shield reached its capacity, it becomes active, and depletes as you receive damage. 
+Once the shield is depleted, you can charge it again. Normal attacks generate 100 inactive shield, 
+skills generate 200 inactive shield.
+Comment: The inactive shield has no indicator even when depleted, but it's active anyway. Make use of it in PvP.
+
+[COLOR=ef4f00]5.3.2 Time Jump (Key Rune)
+Rune Description: Using 4 skills against players under 10 seconds will reset your last used skill's cooldown. 
+This can't reset the cooldown of Flame Spirit, so it will reset the last skill used before the Flame Spirit. 
+This rune has a given cooldown.
+Comment: Skill based classes will have a granted advantage over combatant and hit-based classes.
+
+[COLOR=ef4f00]5.3.3 Berserker (Key Rune)
+Rune Description: Attacking players under 3 seconds with 3 skills or basic attacks will give you a given 
+amount of movement speed for 1.5 seconds. This rune has 1.5 seconds cooldown.
+Comment: Works well with both fast attackers and mages.
+
+[COLOR=ef4f00]5.3.4 Penetration
+Rune Description: Chance of Piercing Hits +20%
+Rune Description Lv2: Chance of Piercing Hits +25%
+Comment: Piercing chance works on skills too...
+
+[COLOR=ef4f00]5.3.5 Skill Damage
+Rune Description: Skill Damage 8%
+Rune Description Lv2: Skill Damage 10%
+Comment: A serious source of damage for your skills for all classes.
+
+[COLOR=ef4f00]5.3.6 Mount Paralyze
+Rune Description: When you hit an enemy, he receives a debuff "Paralyzed" and cannot mount 
+for the next 5 seconds.
+Rune Description Lv2: When you hit an enemy, he receives a debuff "Paralyzed" and cannot mount 
+for the next 5 seconds.
+Comment: Are you a wizzard?
+
+[COLOR=ef4f00]5.3.7 Critical
+Rune Description: Chance of Critical Hits +20%
+Rune Description Lv2: Chance of Critical Hits +25%
+Comment: Increases your chances to critically strike your enemy. Do not confuse it with Critical Damage.
+
+[COLOR=ef4f00]5.3.8 Surface Damage
+Rune Description: Area Damage Boost +5%
+Rune Description Lv2: Area Damage Boost +10%
+Comment: Increases the damage of AOE (Area of Affect) skills.
+
+[COLOR=ef4f00]5.3.9 Individual Damage
+Rune Description: Single Target Damage Boost +8%
+Rune Description Lv2: Single Target Damage Boost +10%
+Comment: Increases the the damage of target-only attacks.
+
+[COLOR=ef4f00]5.3.10 Speed
+Rune Description: Movement Speed +20%
+Rune Description Lv2: Movement Speed +25%
+Comment: Run forest, run...
+
+[COLOR=ef4f00]5.3.11 Spell Speed
+Rune Description: Casting Speed +10%
+Rune Description Lv2: Casting Speed +15%
+Comment: Casters will have a good time with this rune.
+
+[COLOR=ef4f00]5.3.12 Attack Speed
+Rune Description: Attack Speed +15%
+Rune Description Lv2: Attack Speed +20%
+Comment: Could be used in highly attack-dependant classes. Maximum Attack Speed is 200.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=3900; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]5.4 Determination
+Strengthen your defenses.
+
+[COLOR=ef4f00]5.4.1 Skill Master (Key Rune)
+Rune Description: After every 4 skills or basic attacks against players, you deal magic damage equal to 4% 
+of your base health against your current target. This rune has a given cooldown.
+Comment: Tanks will make a great use here. Wait, isn't everyone a tank?
+
+[COLOR=ef4f00]5.4.2 Transfusion (Key Rune)
+Rune Description: When you kill a given number of players, your party members' health is restored to 100%. 
+Only party members receive this heal, so it has no effect on you.
+Comment: That's the most supportive rune I've seen.
+
+[COLOR=ef4f00]5.4.3 Mantra Shield (Key Rune)
+Rune Description: Using a skill will give your party members 500 active magic shield. It stacks up to a maximum 
+of 3000 active magic shield. You will not receive magic shield when you use a skill. 
+Example: If you are in a 2-man group, only the other player will receive the shield. This rune has a given cooldown.
+Comment: Extremely useful for opvp and tank-wise characters.
+
+[COLOR=ef4f00]5.4.4 Defense
+Rune Description: Defense +100
+Rune Description Lv2: Defense +200
+Comment: Defense reduces the incoming damage from hits and increases the incoming damage 
+from enemy's piercing hits.
+
+[COLOR=ef4f00]5.4.5 Magic Defense
+Rune Description: Magic Defense +50
+Rune Description Lv2: Magic Defense +75
+Comment: Extremely useful rune against skill-dependant classes like Shaman, Sura BM.
+
+[COLOR=ef4f00]5.4.6 Defense in %
+Rune Description: Defense +5%
+Rune Description Lv2: Defense +10%
+Comment: Scales up as the numbers grow...
+
+[COLOR=ef4f00]5.4.7 Resistance to Skills
+Rune Description: Resistance against Skill Damage +10%
+Rune Description Lv2: Resistance against Skill Damage +15%
+Comment: Extremely useful rune against all skill-dependant classes.
+
+[COLOR=ef4f00]5.4.8 Resistance to Attacks
+Rune Description: Average Damage Resistance +10%
+Rune Description Lv2: Average Damage Resistance +12%
+Comment: Fundamental defense against combatant classes.
+
+[COLOR=ef4f00]5.4.9 Resistance to Everything
+Rune Description: Defense Bonus +5%
+Rune Description Lv2: Defense Bonus +8%
+Comment: Reduces all the incoming damage from all abilities.
+
+[COLOR=ef4f00]5.4.10 Block
+Rune Description: Chance to block a close-combat attack +5%
+Rune Description Lv2: Chance to block a close-combat attack +10%
+Comment: Blocking a close-combat attack will deal 0 damage to you.
+
+[COLOR=ef4f00]5.4.11 Dodge
+Rune Description: Chance to Avoid Arrows +10%
+Rune Description Lv2: Chance to Avoid Arrows +15%
+Comment: Works only with Arrow single Attacks and not with skills.
+
+[COLOR=ef4f00]5.4.12 Reflect
+Rune Description: Chance to reflect a close combat hit +10%
+Rune Description Lv2: Chance to reflect a close combat hit +15%
+Comment: Reflecting a close combat hit will deal damage to your enemy attacking you.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=4700; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]5.5 Inspiration
+Strengthen your friends
+
+[COLOR=ef4f00]5.5.1 Skill Specialist (Key Rune)
+Rune Description: Being in combat against players for 10 seconds will increase your casting speed for 10 seconds. 
+If you do not receive damage from players or do not deal damage to players for more than 4 seconds, 
+the counter resets. This rune has 60 seconds cooldown.
+Comment: Casters will profit.
+
+[COLOR=ef4f00]5.5.2 Slowdown (Key Rune)
+Rune Description: Your first attack against players without this rune's slow affect active will slow their 
+movement and attack speed by 10% for 2 seconds. 
+This slow will reduce the current value and the incoming values after the affect activates. After this slow 
+wears off, your attack speed and movement speed is restored. This rune has a given cooldown.
+Comment: Controlling your enemy's stats is a real thing?
+
+[COLOR=ef4f00]5.5.3 Thief
+Rune Description: Has 5% chance to get a double loot from metins, monsters or bosses.
+Comment: Favorite rune for droppers. Switch to this rune a moment before a metin or a boss goes down.
+
+[COLOR=ef4f00]5.5.4 Mount Bonus
+Rune Description: Mount Reinforcement +20%
+Rune Description Lv2: Mount Reinforcement +25%
+Comment: A nice income from an unexpected rune?
+
+[COLOR=ef4f00]5.5.5 Reinforce Dew Potions
+Rune Description: Potion Effect Raise +25%
+Rune Description Lv2: Potion Effect Raise +30%
+Comment: Use this rune before activating your Dews to enhance their effects.
+
+[COLOR=ef4f00]5.5.6 Enhanced Healing Effects
+Rune Description: Healing +10%
+Rune Description Lv2: Healing +15%
+Comment: Healing from potions is increased.
+
+[COLOR=ef4f00]5.5.7 Enhanced Bonuses
+Rune Description: Aura: Equipment Reinforcement +3%
+Rune Description Lv2: Aura: Equipment Reinforcement +5%
+Comment: Another nice source of damage (and not only) from an unexpected rune.
+
+[COLOR=ef4f00]5.5.8 Enhanced Healing Effects
+Rune Description: Aura: Healing +5%
+Rune Description: Aura: Healing +10%
+Comment: All Healing effects are increased by this rune.
+
+[COLOR=ef4f00]5.5.9 Leadership
+Rune Description: Increases your leadership bonus by 15%
+Rune Description Lv2: Increases your leadership bonus by 20%
+Comment: You can use that to your partners for better leadership bonuses.
+
+[COLOR=ef4f00]5.5.10 Experience
+Rune Description: Experience Bonus 20%
+Rune Description Lv2: Experience Bonus 50%
+Comment: Increases all incoming Experience.
+
+[COLOR=ef4f00]5.5.11 Itemdrop
+Rune Description: Chance to drop double the items +20%
+Rune Description Lv2: Chance to drop double the items +50%
+Comment: Another favorite rune for droppers. Switch to this rune a moment before metins or bosses go down.
+
+[COLOR=ef4f00]5.5.12 Yang
+Rune Description: Chance to drop double Yang +20%
+Rune Description Lv2: Chance to drop double Yang +50%
+Comment: Yang collectors, here I go...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=5500; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Terminology
+
+Here we will give a more detailed insight on the terminology used above, in the runes description.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.1 Basic Attack
+Every single attack made with your weapons or bare hands counts as basic attack. One basic attack starts when the 
+attack animation begins, and ends when the attack animation is finished. Every weapon type (including fists) 
+except the daggers do one attack animation when you hit the space one time (of course if you hold the space down 
+your character does multiple attack animation depending on your active combo skill and the weapon you use).
+Daggers do two attack animations during one hit, so it counts as 2 basic attacks.
+If your basic attack does not hit any type of character, or the basic attack is blocked or dodged, 
+it does not counts as basic attack. If you deal damage to multiple targets under one attack animation, 
+it still counts as maximum 1 (2 if using daggers) basic attack (if all of your targets block or dodge that attack, 
+it counts as 0, but if at least one of the targets can not block or can not dodge the attack, it counts as maximum.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.2 Skill Attack/Use
+In the rest of the guide we only use the phrase skill for those non basic attack abilities that deals non negative 
+damage to one or more targets (excluding your character). Every wave of damage counts as one skill. 
+However, one wave of damage counts only once no matter how much target it hits. 
+(If it does not hit any target, it counts as 0.)
+Spirit Flame counts as a skill every time a flame leaves the caster and deals damage to one or more target 
+(still only counts as one skill per flame). Some skills have more wave of damage, 
+for example the Three Way Cut counts as 3 skills.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.3 Out of combat
+A character considered as out of combat if it does not receive any type of positive damage for a short period. 
+The damage is checked after the resistances.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.4 In combat
+The exact and full opposite of "out of combat", so if you are not "out of combat", you are "in combat".
+
+[COLOR=ef4f00;FONT_SIZE=15]6.5 Shield or magic shield
+With this new runes we introduce a new element in the game called shields.
+We distinguish two types of shields: Magic shields, Normal shields.
+
+[COLOR=ef4f00]6.5.1 Magic shields only mitigate magic damages, normal shields mitigate every type of damage.
+Also shields have two different status: Active, Inactive
+
+[COLOR=ef4f00]6.5.2 Shield Function
+The mechanics of the shields is very simple: When you are about to receive damage, the damage 
+will be mitigated by your active shields. So if you have 1000 active normal shield and you 
+receive 800 damage, you will lose 800 active normal shield, but you will not lose any HP. 
+The damage to the shields is always calculated after the resistances, so for example the 
+damage will be mitigated by the sura's black shield first. If you have active magic shield and 
+active normal shield and you receive magic damage, the damage will be mitigated by the magic shield first.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.6 True Damage
+This is a new type of damage which ignores all type of resistances/defences. 
+This damage can only be mitigated by active normal shields. However, 
+the Debuff of the Hydra in the ship defense dungeon is applied to this type of damage too.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.7 Base Maximum Health
+Your maximum health without any kind of bonus.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.8 Disconnecting, teleport or changing runes will reset your rune related stats, including all types of shields. 
+Only the collected boss Souls (from Soul Robbery) are saved.
+
+
+

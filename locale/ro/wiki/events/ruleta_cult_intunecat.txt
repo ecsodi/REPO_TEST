@@ -1,0 +1,39 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners2/ruleta_cult_intunecat.png]
+[CENTER_ALIGN;FONT_SIZE=18]Ruletã Cult Întunecat
+
+[COLOR=0xffd700;FONT_SIZE=15]Conþinut:
+*1. Informaþii despre eveniment
+*2. Cum se desfãºoarã acest eveniment?
+*3. Magazinul special de la eveniment
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=110; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informaþii despre eveniment
+
+Acest eveniment este împãrþit în 2 etape: 
+*1. Luni *Evenimentul Cult Întunecat
+*2. Marþi *Evenimentul Ruletã Cult Întunecat
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cum se desfãºoarã acest eveniment?
+
+Acest eveniment va fi activ în fiecare Marþi de la 20:00 pânã la 22:00.
+Vã va apãrea pe ecran o notificare de unde puteþi deschide ruleta.
+Pentru a da la ruletã veþi avea nevoie de x20 Piatrã Cult Întunecat.
+
+La acest eveniment este important sã colecþionaþi Panã Cult Întunecat 
+care vã permite sã vã cumpãraþi un set unic de costume cu durata de 20 de zile.
+Acest set îl gãsiþi la NPC-ul responsabil cu acest eveniment.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Magazinul special de la eveniment
+
+Magazinul special îl gãsiþi la Conducãtor Cult Întunecat.
+Acesta este poziþionat în Map1 al fiecãrui regat.
+
+[IMG=d:/ymir work/ui/wiki/banners2/render_cult_intunecat.png; Y=480; CENTER_ALIGN]

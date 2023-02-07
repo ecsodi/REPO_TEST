@@ -1,0 +1,38 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "d:/ymir work/npc2/pet_royalguard/pet_royalguard.gr2"
+
+Group ShapeData
+{
+	PathName 		 "d:/ymir work/npc2/pet_royalguard/"
+	ShapeDataCount 		 1
+	Group ShapeData00
+	{
+		ShapeIndex			0
+		Model				"pet_royalguard.gr2"
+		SourceSkin			"pet_tex.dds"
+		TargetSkin			"pet_tex2.dds"
+	}
+}
+Group AttachingData
+{
+    AttachingDataCount       1
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           40.000000
+            Position         0.000000 0.000000 20.000000
+        }
+    }
+}

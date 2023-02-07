@@ -1,0 +1,31 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/jotun.tga]
+[COLOR=0xffd700;FONT_SIZE=15]General:
+*Wymagany poziom: 100 - 115
+*Odstęp: 3 godziny
+*Czas: 1 godzina
+*Bonus: Diabł (Bagjanamu), Orki (Jotun Thrym)
+*Element: Ziemia
+*Przepustka: Kamień driad
+[X_PADDING=20]*Pochodzenie: Maester Aemon
+[X_PADDING=413;Y_PADDING=-100;FONT_SIZE=15;COLOR=0xffd700;]Stone of the Dryads
+[IMG=d:/ymir work/ui/wiki/pictures/30613.tga; Y=17; X=444]
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=108; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+[COLOR=0xffd700;FONT_SIZE=15;CENTER_ALIGN]Dungeon Stages:
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 1
+[X_PADDING=20]Zabij Bagjanamu.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 2
+[X_PADDING=20]Zabij Jotun Thrym.
+
+[IMG=d:/ymir work/ui/wiki/pictures/Jotun.tga; Y=140; X=200]

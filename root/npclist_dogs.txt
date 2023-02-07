@@ -1,0 +1,2861 @@
+0	pony_normal 	pony
+0	pony_member 	pony
+0	pony_master 	pony
+0	horse_normal02	pony
+0	horse_normal 	horse
+0	horse_member 	horse
+0	horse_master 	horse
+0	horse2_normal 	horse2
+0	horse2_member 	horse2
+0	horse2_master 	horse2
+0	boar	boar
+0	dog_god	dog_god
+0	fire_tiger	fire_tiger
+0	lion	lion
+0	boar_0	boar
+0	boar_colored	boar_2
+0	dog_colored	dog_god
+0	dog_god_0	dog_god
+0	fire_tiger_0	fire_tiger
+0	lion_0	lion
+0	boar_3	boar
+0	dog_god_3	dog_god
+0	fire_tiger_3	fire_tiger
+0	lion_3	lion
+0	fire_tiger_blue	fire_tiger
+0	fire_tiger_darkred	fire_tiger
+0	fire_tiger_gold	fire_tiger
+0	fire_tiger_green	fire_tiger
+0	fire_tiger_pied	fire_tiger
+0	fire_tiger_white	fire_tiger
+0	reindeer_male1	reindeer_male
+0	reindeer_male2	reindeer_male
+0	reindeer_male3	reindeer_male
+0	reindeer_female1	reindeer_female
+0	reindeer_female2	reindeer_female
+0	reindeer_female3	reindeer_female
+0	reindeer_young1	reindeer_young
+0	goods_02 	goods
+0	bank_02 	bank
+0	diamond	mineral
+0	amber	mineral
+0	fossil_tree 	mineral
+0	copper	mineral
+0	silver	mineral
+0	gold	mineral
+0	jade	mineral
+0	ebony	mineral
+0	white_gold 	mineral
+0	quartz	mineral
+0	amethyst	mineral
+0	chunru	mineral
+0	pearl	mineral
+0	mineral2_fivestone	mineral2
+0	mineral2_sapphire	mineral2
+0	mineral2_ruby	mineral2
+0	mineral2_garnet	mineral2
+0	mineral2_bery	mineral2
+0	red_wild_boar 	wild_boar
+0	wolf_gray 	wolf
+0	wolf_blue 	wolf
+0	bear_gray 	bear
+0	bear_black 	bear
+0	bear_brown 	bear
+0	tiger_big 	tiger
+0	tiger_god 	tiger
+0	metinstone_01 	metinstone
+0	metinstone_02 	metinstone
+0	metinstone_03 	metinstone
+0	metinstone_04 	metinstone
+0	metinstone_05 	metinstone
+0	metinstone_06 	metinstone
+0	metinstone_07 	metinstone
+0	metinstone_08 	metinstone
+0	metinstone_09 	metinstone
+0	metinstone_10	metinstone_02
+0	metinstone_11	metinstone_02
+0	metinstone_12	metinstone_02
+0	metinstone_13	metinstone_02
+0	metinstone_14	metinstone_02
+0	metinstone_15	metinstone_02
+0	metinstone_16	metinstone
+0	metinstone_17	metinstone_02
+0	metinstone_egg01	metinstone_egg
+0	metinstone_egg02	metinstone_egg
+0	v_01 	metinstone_valentine02
+0	v_02 	metinstone_valentine02
+0	v_03 	metinstone_valentine02
+0	v_04 	metinstone_valentine02
+0	v_05 	metinstone_valentine02
+0	v_06 	metinstone_valentine02
+0	v_07 	metinstone_valentine02
+0	v_08 	metinstone_valentine02
+0	v_09 	metinstone_valentine02
+0	v_10	metinstone_valentine02
+0	v_11	metinstone_valentine02
+0	v_12	metinstone_valentine02
+0	v_13	metinstone_valentine02
+0	v_14	metinstone_valentine02
+0	v_15	metinstone_valentine02
+0	christmas_tree_01 	christmas_tree
+0	christmas_tree_02 	christmas_tree
+0	christmas_tree_03 	christmas_tree
+0	flag_red 	guild_war_flag
+0	flag_blue 	guild_war_flag
+0	flag_yellow 	guild_war_flag
+0	haitai 	fire_tiger_boss
+0	monkey_range 	monkey
+0	sura_skeleton1	sura_skeleton
+0	sura_skeleton2	sura_skeleton
+0	sura_skeleton3	sura_skeleton
+0	sura_skeleton4	sura_skeleton
+0	sura_skeleton5	sura_skeleton
+0	starveling	starveling
+0	starveling2	starveling
+0	starveling3	starveling
+0	starveling4	starveling
+0	starveling5	starveling
+0	pwahuang1_2	pwahuang1
+0	jinno_patrol_spear_01	jinno_patrol_spear
+0	gangyo_patrol_spear_01	gangyo_patrol_spear
+0	spy1_01	spy1
+0	reindeer_young1_christmas1	reindeer_young
+0	reindeer_male1_christmas1	reindeer_male
+0	fire_ghost1	fire_ghost
+0	fire_tiger_boss1	fire_tiger_boss
+0	fire_man1	fire_man
+0	fire_knight1	fire_knight
+0	draiken_slade 	draiken_slade
+0	draiken_slade_1 	draiken_slade
+0	halloween_2021_ninetail_1 	halloween_2021_ninetail
+0	halloween_2021_ninetail_2 	halloween_2021_ninetail
+0	deimos_mount_regal_1 	deimos_mount_regal
+0	deimos_mount_regal_2 	deimos_mount_regal
+0	fire_king1	fire_king
+0	ice_snow_monster1	ice_snow_monster
+0	ice_snow_insect1	ice_snow_insect
+0	ice_snow_man1	ice_snow_man
+0	ice_snow_giant_man1	ice_snow_giant_man
+0	ice_snow_golem1	ice_snow_golem
+0	ice_snow_monster2	ice_snow_monster
+0	ice_snow_insect2	ice_snow_insect
+0	ice_snow_man2	ice_snow_man
+0	ice_snow_giant_man2	ice_snow_giant_man
+0	ice_snow_golem2	ice_snow_golem
+0	bridge_block_chain	flame_bridge_block_chain
+0	flame_npc	flame_dungeon_npc
+0	redthief2_officer_young2	redthief2_officer_young1
+0	unicorn1	unicorn
+0	phoenix3	phoenix2
+0	pig_young1_white	pig_young1
+0	dog_young1_white	dog_young1
+0	tiger_young1_white	tiger_young1
+0	lion_young1_white	lion_young1
+0	turkey_1	turkey
+0	turkey_2	turkey
+0	turkey_3	turkey
+0	dinosaur_1	dinosaur
+0	dinosaur_2	dinosaur
+0	dinosaur_3	dinosaur
+0	leopard_black	leopard
+0	leopard_yellow	leopard
+0	leopard_young1_black	leopard_young1
+0	leopard_young1_yellow	leopard_young1
+0	chick_yellow1	chick
+0	chick_yellow2	chick
+0	chick_yellow3	chick
+0	chick_white1	chick
+0	chick_white2	chick
+0	chick_white3	chick
+0	chick_pink1	chick
+0	chick_blue1	chick
+0	ramadan_pet_02	ramadan_pet
+0	ramadan_pet_03	ramadan_pet
+0	ramadan_pet_04	ramadan_pet
+0	monkey_young2	monkey_young1
+0	spider_redpoison_young2	spider_redpoison_young1
+0	yamachun_young2	yamachun_young1
+0	hanma_young2	hanma_young1
+0	red_dragon_young2	red_dragon_young1
+0	trent_soldier2	trent_soldier
+0	trent_magic2	trent_magic
+0	lamb_white_pet	lamb_pet
+0	lamb_blue_pet	lamb_pet
+0	lemures_soldier_2	lemures_soldier
+0	lemures_soldier2_2	lemures_soldier2
+0	lemures_magic_2	lemures_magic
+0	lemures_officer_2	lemures_officer
+0	lemures_general_2	lemures_general
+0	lemures_boss_2	lemures_boss
+0	lemures_boss2_2	lemures_boss2
+0	redguild_guard_M_2	redguild_guard_M
+0	redguild_guard_M_3	redguild_guard_M
+0	redguild_guard_M_4	redguild_guard_M
+0	japanese_pirate_2	japanese_pirate
+0	warp_blue	warp
+0	halloween_bet_pet1	halloween_bet_pet1
+0	halloween_bet_pet2	halloween_bet_pet1
+0	blue_dragon_young2	blue_dragon_young1
+0	old_magic_M1	old_magic_M
+0	old_magic_M2	old_magic_M
+0	horse_pepsi	horse_event1
+0	reddragon_room_human_boss2	reddragon_room_human_boss
+0	yu_hwa_rang_event_NPC	yu_hwa_rang
+0	scholar_brown_M1	scholar_brown_M
+0	halloween_2016_gangsi_1	halloween_2016_gangsi
+0	halloween_2016_gangsi_2	halloween_2016_gangsi
+0	halloween_2016_dragon_gold_01	halloween_2016_dragon
+0	halloween_2016_dragon_silver_02	halloween_2016_dragon
+0	pwahuang1_3	pwahuang1
+0	pwahuang1_4	pwahuang1
+0	redthief2_officer_young3	redthief2_officer_young1
+0	redthief2_officer_young4	redthief2_officer_young1
+0	christmas_2016_Goblin_1	christmas_2016_Goblin
+0	christmas_2016_Goblin_2	christmas_2016_Goblin
+0	christmas_2016_mammoth_01	christmas_2016_mammoth
+0	christmas_2016_mammoth_02	christmas_2016_mammoth
+0	christmas_2016_mammoth_04	christmas_2016_mammoth
+0	christmas_2016_mammoth_05	christmas_2016_mammoth
+0	christmas_2016_mammoth_06	christmas_2016_mammoth
+0	christmas_2016_mammoth_07	christmas_2016_mammoth
+0	christmas_2016_mammoth_08	christmas_2016_mammoth
+0	christmas_2016_mammoth_09	christmas_2016_mammoth
+0	christmas_2016_mammoth_10	christmas_2016_mammoth
+0	christmas_2016_mammoth_11	christmas_2016_mammoth
+0	christmas_2016_mammoth_12	christmas_2016_mammoth
+0	christmas_2016_mammoth_13	christmas_2016_mammoth
+0	ramadan_2017_camel_01	ramadan_2017_camel
+0	ramadan_2017_camel_02	ramadan_2017_camel
+0	halloween_2017_volcano_beast_01	halloween_2017_volcano_beast
+0	halloween_2017_volcano_beast_02	halloween_2017_volcano_beast
+0	flag_1	flag_e
+0	flag_2	flag_e
+0	flag_3	flag_e
+0	peddler_ten	peddler
+0	cz_wolf_01	cz_wolf
+0	cz_wolf_02	cz_wolf
+0	cz_wolf_03	cz_wolf
+0	cz_twoheadedtiger_01	cz_twoheadedtiger
+0	cz_twoheadedtiger_02	cz_twoheadedtiger
+0	cz_twoheadedtiger_03	cz_twoheadedtiger
+0	cz_kentauros_01	cz_kentauros
+0	cz_kentauros_02	cz_kentauros
+0	cz_kentauros_03	cz_kentauros
+0	cz_demon_01	cz_demon
+0	cz_demon_02	cz_demon
+0	cz_demon_03	cz_demon
+0	cz_condor_b	cz_condor
+0	cz_condor_c	cz_condor
+0	cz_zephyr_01	cz_zephyr
+0	cz_zephyr_02	cz_zephyr
+0	cz_zephyr_03	cz_zephyr
+0	cz_elephant_01	cz_elephant
+0	cz_elephant_02	cz_elephant
+0	cz_elephant_03	cz_elephant
+0	cz_dragonman_01	cz_dragonman
+0	cz_dragonman_02	cz_dragonman
+0	cz_dragonman_03	cz_dragonman
+0	12zi_mouse_boss2	12zi_mouse_boss
+0	12zi_cow_boss2	12zi_cow_boss
+0	12zi_tiger_boss2	12zi_tiger_boss
+0	12zi_rabbit_boss2	12zi_rabbit_boss
+0	12zi_dragon_boss2	12zi_dragon_boss
+0	12zi_snake_boss2	12zi_snake_boss
+0	12zi_horse_boss2	12zi_horse_boss
+0	12zi_sheep_boss2	12zi_sheep_boss
+0	12zi_chicken_boss2	12zi_chicken_boss
+0	12zi_monkey_boss2	12zi_monkey_boss
+0	12zi_dog_boss2	12zi_dog_boss
+0	12zi_pig_boss2	12zi_pig_boss
+0	easter_2017_rabbit_1	easter_2017_rabbit
+0	easter_2017_rabbit_2	easter_2017_rabbit
+0	halloween_2017_ghost_1	halloween_2017_ghost
+0	halloween_2017_ghost_2	halloween_2017_ghost
+0	flag_d_02	flag_d
+0	flag_d_03	flag_d
+0	flag_d_04	flag_d
+0	flag_d_05	flag_d
+0	flag_d_06	flag_d
+0	luck_sheep_young1	luck_sheep_young1
+0	luck_sheep_young2	luck_sheep_young1
+0	luck_sheep_boss1	luck_sheep_boss
+0	scholar_beige_M1	scholar_beige_M
+0	scholar_beige_M2	scholar_beige_M
+0	christmas_2017_sleddog_01	christmas_2017_sleddog
+0	christmas_2017_sleddog_02	christmas_2017_sleddog
+0	christmas_2017_penguin_1	christmas_2017_penguin
+0	christmas_2017_penguin_2	christmas_2017_penguin
+0	zshop_griffon_1	zshop_griffon
+0	zshop_griffon_2	zshop_griffon
+0	easter_2018_rabbit_01	easter_2018_rabbit
+0	easter_2018_rabbit_02	easter_2018_rabbit
+0	worldcup_2018_wolfman_1	worldcup_2018_wolfman
+0	worldcup_2018_wolfman_2	worldcup_2018_wolfman
+0	ramadan_2018_karim_1	ramadan_2018_karim
+0	ramadan_2018_karim_2	ramadan_2018_karim
+0	defensewave_hydra_pet_1	defensewave_hydra_pet
+0	defensewave_hydra_pet_2	defensewave_hydra_pet
+0	defensewave_naga_1	defensewave_naga
+0	defensewave_naga_2	defensewave_naga
+0	defensewave_pawn_1	defensewave_pawn
+0	defensewave_pawn_2	defensewave_pawn
+0	defensewave_pawn_3	defensewave_pawn
+0	halloween_2018_cerberos_01	halloween_2018_cerberos
+0	halloween_2018_cerberos_02	halloween_2018_cerberos
+0	halloween_2018_witch_01	halloween_2018_witch
+0	halloween_2018_witch_02	halloween_2018_witch
+0	minidungeon_pawn_1	minidungeon_pawn
+0	minidungeon_pawn_2	minidungeon_pawn
+0	christmas_2018_nutcracker_01	christmas_2018_nutcracker
+0	christmas_2018_nutcracker_02	christmas_2018_nutcracker
+0	christmas_2018_horse_01	christmas_2018_horse
+0	christmas_2018_horse_02	christmas_2018_horse
+0	easter_2019_peacock_1	easter_2019_peacock
+0	easter_2019_peacock_2	easter_2019_peacock
+0	npc_turtlestone_01	npc_turtlestone
+0	npc_turtlestone_awake_01	npc_turtlestone_awake
+0	ramadan_2019_camel_1	ramadan_2019_camel
+0	ramadan_2019_camel_2	ramadan_2019_camel
+0	skipia_general_young2	skipia_general_young1
+0	skipia_general_young3	skipia_general_young1
+0	halloween_2019_bat_01	halloween_2019_bat
+0	halloween_2019_bat_02	halloween_2019_bat
+0	halloween_2019_3eyecat_01	halloween_2019_3eyecat
+0	halloween_2019_3eyecat_02	halloween_2019_3eyecat
+0	christmas_2019_santa_01	christmas_2019_santa
+0	christmas_2019_santa_02	christmas_2019_santa
+0	christmas_2019_horse_01	christmas_2019_horse
+0	christmas_2019_horse_02	christmas_2019_horse
+0	pve_dragonmaster_boss_1	pve_dragonmaster_boss
+0	pve_dragonmaster_boss_2	pve_dragonmaster_boss
+0	pve_dragon_young_1	pve_dragon_young
+0	pve_dragon_young_2	pve_dragon_young
+0	valentine_2020_dog_1	valentine_2020_dog
+0	valentine_2020_dog_2	valentine_2020_dog
+0	defensewave_pawn_4	defensewave_pawn
+0	defensewave_pawn_5	defensewave_pawn
+0	defensewave_pawn_6	defensewave_pawn
+0	defensewave_watersoul_02	defensewave_watersoul
+0	defensewave_watersoul_03	defensewave_watersoul
+0	defensewave_watersoul_04	defensewave_watersoul
+0	defensewave_watersoul_05	defensewave_watersoul
+0	defensewave_watersoul_06	defensewave_watersoul
+0	elemental_pet_pawn_1	elemental_pet_pawn_1
+0	elemental_pet_pawn_2	elemental_pet_pawn_1
+0	elemental_pet_pawn_3	elemental_pet_pawn_1
+0	elemental_pet_pawn_4	elemental_pet_pawn_1
+0	elemental_pet_pawn_5	elemental_pet_pawn_1
+0	elemental_pet_pawn_6	elemental_pet_pawn_1
+0	ramadan_2020_sphinx_1	ramadan_2020_sphinx
+0	ramadan_2020_sphinx_2	ramadan_2020_sphinx
+0	easter_2020_cow_1	easter_2020_cow
+0	easter_2020_cow_2	easter_2020_cow
+0	metinstone_east_01	metinstone_east
+0	metinstone_east_02	metinstone_east
+0	metinstone_east_03	metinstone_east
+0	metinstone_east_04	metinstone_east
+0	metinstone_east_05	metinstone_east
+0	empire_caocao_boss_2	empire_caocao_boss
+0	empire_gongbing_2	empire_gongbing
+0	empire_jianbing_2	empire_jianbing
+0	empire_maobing_2	empire_maobing
+0	empire_qiangbing_2	empire_qiangbing
+0	empire_zhangbao_king_2	empire_zhangbao_king
+0	empire_zhanglu_2	empire_zhanglu
+0	empire_zhanglu_3	empire_zhanglu
+0	east_earth_general_2	east_earth_general
+0	east_earth_king_2	east_earth_king
+0	east_earth_knight_2	east_earth_knight
+0	east_earth_magic_2	east_earth_magic
+0	east_earth_officer_2	east_earth_officer
+0	east_earth_soldier_2	east_earth_soldier
+0	east_earth_soldier2_2	east_earth_soldier2
+0	halloween_2020_crow_01	halloween_2020_crow
+0	halloween_2020_crow_02	halloween_2020_crow
+0	halloween_2020_mummy_01	halloween_2020_mummy
+0	halloween_2020_mummy_02	halloween_2020_mummy
+0	east_gnoll_hellhound_1	east_gnoll_hellhound
+0	east_gnoll_soldier_1	east_gnoll_soldier
+0	east_troll_archer_1	east_troll_archer
+0	east_troll_argus_boss_1	east_troll_argus_boss
+0	east_troll_commander_1	east_troll_commander
+0	east_troll_mage_1	east_troll_mage
+0	east_troll_warrior_1	east_troll_warrior
+0	chagirap_02	chagirap
+0	mineral2_steel	mineral2
+0	mineral2_steel_yellow	mineral2
+0	mineral2_crystal_dark	mineral2
+0	mineral2_crystal_violet	mineral2
+0	smhtower_boss_2	smhtower_boss
+0	smhtower_boss_3	smhtower_boss
+0	smhtower_boss_4	smhtower_boss
+0	smhtower_boss_5	smhtower_boss
+0	smhtower_boss_6	smhtower_boss
+0	smhtower_general_2	smhtower_general
+0	smhtower_general_3	smhtower_general
+0	smhtower_general_4	smhtower_general
+0	smhtower_general_5	smhtower_general
+0	smhtower_general_6	smhtower_general
+0	smhtower_king_2	smhtower_king
+0	smhtower_king_3	smhtower_king
+0	smhtower_king_4	smhtower_king
+0	smhtower_king_5	smhtower_king
+0	smhtower_king_6	smhtower_king
+0	smhtower_knight_2	smhtower_knight
+0	smhtower_knight_3	smhtower_knight
+0	smhtower_knight_4	smhtower_knight
+0	smhtower_knight_5	smhtower_knight
+0	smhtower_knight_6	smhtower_knight
+0	smhtower_magic_2	smhtower_magic
+0	smhtower_magic_3	smhtower_magic
+0	smhtower_magic_4	smhtower_magic
+0	smhtower_magic_5	smhtower_magic
+0	smhtower_magic_6	smhtower_magic
+0	smhtower_soldier_2	smhtower_soldier
+0	smhtower_soldier_3	smhtower_soldier
+0	smhtower_soldier_4	smhtower_soldier
+0	smhtower_soldier_5	smhtower_soldier
+0	smhtower_soldier_6	smhtower_soldier
+0	smhtower_soldier2_2	smhtower_soldier2
+0	smhtower_soldier2_3	smhtower_soldier2
+0	smhtower_soldier2_4	smhtower_soldier2
+0	smhtower_soldier2_5	smhtower_soldier2
+0	smhtower_soldier2_6	smhtower_soldier2
+0	garrison_2	garrison
+0	garrison_3	garrison
+0	christmas_2020_alpaca_2	christmas_2020_alpaca
+0	christmas_2020_tree_2	christmas_2020_tree
+0	snaketemple_pawn_1	snaketemple_pawn
+0	snaketemple_s_pawn_1	snaketemple_s_pawn
+0	snaketemple_knight03_1	snaketemple_knight03
+0	snaketemple_knight01_1	snaketemple_knight01
+0	snaketemple_knight02_1	snaketemple_knight02
+0	snaketemple_pawn_2	snaketemple_pawn
+0	snaketemple_s_pawn_2	snaketemple_s_pawn
+0	snaketemple_knight03_2	snaketemple_knight03
+0	snaketemple_knight01_2	snaketemple_knight01
+0	snaketemple_knight02_2	snaketemple_knight02
+0	snaketemple_s_knight_2	snaketemple_s_knight
+0	snaketemple_boss_2	snaketemple_boss
+0	snakevalley_pawn_1	snakevalley_pawn
+0	snakevalley_s_pawn_1	snakevalley_s_pawn
+0	snakevalley_knight_1	snakevalley_knight
+0	snakevalley_s_knight_1	snakevalley_s_knight
+0	snakevalley_knight02_1	snakevalley_knight02
+0	snakevalley_boss_1	snakevalley_boss
+0	snakevalley_pawn_2	snakevalley_pawn
+0	snakevalley_s_pawn_2	snakevalley_s_pawn
+0	snakevalley_knight_2	snakevalley_knight
+0	snakevalley_s_knight_2	snakevalley_s_knight
+0	snakevalley_knight02_2	snakevalley_knight02
+0	snakevalley_knight03_2	snakevalley_knight03
+0	snakevalley_boss_2	snakevalley_boss
+0	metinstone_snake_1	metinstone_snake
+0	metinstone_snake_2	metinstone_snake
+0	metinstone_snake_3	metinstone_snake
+0	metinstone_snake_4	metinstone_snake
+0	metinstone_snake_5	metinstone_snake
+0	easter_2021_rabbit_1	easter_2021_rabbit
+0	easter_2021_rabbit_2	easter_2021_rabbit
+0	pet_royalguard_01	pet_royalguard
+0	pet_royalguard_02	pet_royalguard
+0	plechi_darkcult_mount	plechi_darkcult_mount
+0	plechi_lava_cerberos	plechi_lava_cerberos
+0	plechi_wild_mount02	plechi_wild_mount02
+0	plechi_frosty_wolf	plechi_frosty_wolf
+0	phoenix1	phoenix1
+0	emperor_pet	emperor_pet
+0	metin_maimuta	metin_maimuta
+0	metin_orc	metin_orc
+0	metin_azrael	metin_azrael
+0	metin_dragon	metin_dragon
+0	ch_footman	ch_footman
+101	stray_dog	
+102	stray_dog
+103	stray_dog
+104	stray_dog
+105	stray_dog
+106	stray_dog
+107	stray_dog
+108	stray_dog
+109	stray_dog
+110	stray_dog
+111	stray_dog
+112	stray_dog
+113	stray_dog
+114	stray_dog
+115	stray_dog
+131	stray_dog
+132	stray_dog
+133	stray_dog
+134	stray_dog
+135	stray_dog
+136	stray_dog
+137	stray_dog
+138	stray_dog
+139	stray_dog
+140	stray_dog
+141	stray_dog
+142	stray_dog
+143	stray_dog
+144	stray_dog
+151	stray_dog
+152	stray_dog
+153	stray_dog
+154	stray_dog
+155	stray_dog
+171	stray_dog
+172	stray_dog
+173	stray_dog
+174	stray_dog
+175	stray_dog
+176	stray_dog
+177	stray_dog
+178	stray_dog
+179	stray_dog
+180	stray_dog
+181	stray_dog
+182	stray_dog
+183	stray_dog
+184	stray_dog
+185	stray_dog
+191	stray_dog
+192	stray_dog
+193	stray_dog
+194	stray_dog
+301	stray_dog
+302	stray_dog
+303	stray_dog
+304	stray_dog
+331	stray_dog
+332	stray_dog
+333	stray_dog
+334	stray_dog
+351	stray_dog
+352	stray_dog
+353	stray_dog
+354	stray_dog
+391	stray_dog
+392	stray_dog
+393	stray_dog
+394	stray_dog
+395	stray_dog
+396	stray_dog
+397	stray_dog
+398	stray_dog
+401	stray_dog
+402	stray_dog
+403	stray_dog
+404	stray_dog
+405	stray_dog
+406	stray_dog
+431	stray_dog
+432	stray_dog
+433	stray_dog
+434	stray_dog
+435	stray_dog
+436	stray_dog
+451	stray_dog
+452	stray_dog
+453	stray_dog
+454	stray_dog
+455	stray_dog
+456	stray_dog
+491	stray_dog
+492	stray_dog
+493	stray_dog
+494	stray_dog
+501	stray_dog
+502	stray_dog
+503	stray_dog
+504	stray_dog
+531	stray_dog
+532	stray_dog
+533	stray_dog
+534	stray_dog
+551	stray_dog
+552	stray_dog
+553	stray_dog
+554	stray_dog
+591	stray_dog
+595	stray_dog
+601	stray_dog
+602	stray_dog
+603	stray_dog
+604	stray_dog
+631	stray_dog
+632	stray_dog
+633	stray_dog
+634	stray_dog
+635	stray_dog
+636	stray_dog
+637	stray_dog
+651	stray_dog
+652	stray_dog
+653	stray_dog
+654	stray_dog
+655	stray_dog
+656	stray_dog
+657	stray_dog
+691	stray_dog
+692	stray_dog
+693	stray_dog
+701	stray_dog
+702	stray_dog
+703	stray_dog
+704	stray_dog
+705	stray_dog
+706	stray_dog
+707	stray_dog
+731	stray_dog
+732	stray_dog
+733	stray_dog
+734	stray_dog
+735	stray_dog
+736	stray_dog
+737	stray_dog
+751	stray_dog
+752	stray_dog
+753	stray_dog
+754	stray_dog
+755	stray_dog
+756	stray_dog
+757	stray_dog
+771	stray_dog
+772	stray_dog
+773	stray_dog
+774	stray_dog
+775	stray_dog
+776	stray_dog
+777	stray_dog
+791	stray_dog
+901	stray_dog
+902	stray_dog
+903	stray_dog
+904	stray_dog
+905	stray_dog
+906	stray_dog
+907	stray_dog
+931	stray_dog
+932	stray_dog
+933	stray_dog
+934	stray_dog
+935	stray_dog
+936	stray_dog
+937	stray_dog
+991	stray_dog
+992	stray_dog
+993	stray_dog
+1001	stray_dog
+1002	stray_dog
+1003	stray_dog
+1004	stray_dog
+1031	stray_dog
+1032	stray_dog
+1033	stray_dog
+1034	stray_dog
+1035	stray_dog
+1036	stray_dog
+1037	stray_dog
+1038	stray_dog
+1039	stray_dog
+1040	stray_dog
+1041	stray_dog
+1061	stray_dog
+1062	stray_dog
+1063	stray_dog
+1064	stray_dog
+1065	stray_dog
+1066	stray_dog
+1067	stray_dog
+1068	stray_dog
+1069	stray_dog
+1070	stray_dog
+1071	stray_dog
+1091	stray_dog
+1092	stray_dog
+1093	stray_dog
+1094	stray_dog
+1095	stray_dog
+1096	stray_dog
+1101	stray_dog
+1102	stray_dog
+1103	stray_dog
+1104	stray_dog
+1105	stray_dog
+1106	stray_dog
+1107	stray_dog
+1131	stray_dog
+1132	stray_dog
+1133	stray_dog
+1134	stray_dog
+1135	stray_dog
+1136	stray_dog
+1137	stray_dog
+1151	stray_dog
+1152	stray_dog
+1153	stray_dog
+1154	stray_dog
+1155	stray_dog
+1156	stray_dog
+1157	stray_dog
+1171	stray_dog
+1172	stray_dog
+1173	stray_dog
+1174	stray_dog
+1175	stray_dog
+1176	stray_dog
+1177	stray_dog
+1191	stray_dog
+1192	stray_dog
+1301	stray_dog
+1302	stray_dog
+1303	stray_dog
+1304	stray_dog
+1305	stray_dog
+1331	stray_dog
+1332	stray_dog
+1333	stray_dog
+1334	stray_dog
+1335	stray_dog
+1401	stray_dog
+1402	stray_dog
+1403	stray_dog
+1501	stray_dog
+1502	stray_dog
+1503	stray_dog
+1601	stray_dog
+1602	stray_dog
+1603	stray_dog
+1901	stray_dog
+2001	stray_dog
+2002	stray_dog
+2003	stray_dog
+2004	stray_dog
+2005	stray_dog
+2031	stray_dog
+2032	stray_dog
+2033	stray_dog
+2034	stray_dog
+2035	stray_dog
+2036	stray_dog
+2051	stray_dog
+2052	stray_dog
+2053	stray_dog
+2054	stray_dog
+2055	stray_dog
+2061	stray_dog
+2062	stray_dog
+2063	stray_dog
+2064	stray_dog
+2065	stray_dog
+2071	stray_dog
+2072	stray_dog
+2073	stray_dog
+2074	stray_dog
+2075	stray_dog
+2076	stray_dog
+2091	stray_dog
+2092	stray_dog
+2093	stray_dog
+2094	stray_dog
+2095	stray_dog
+2101	stray_dog
+2102	stray_dog
+2103	stray_dog
+2104	stray_dog
+2105	stray_dog
+2106	stray_dog
+2107	stray_dog
+2108	stray_dog
+2131	stray_dog
+2132	stray_dog
+2133	stray_dog
+2134	stray_dog
+2135	stray_dog
+2151	stray_dog
+2152	stray_dog
+2153	stray_dog
+2154	stray_dog
+2155	stray_dog
+2156	stray_dog
+2157	stray_dog
+2158	stray_dog
+2191	stray_dog
+2192	stray_dog
+2201	stray_dog
+2202	stray_dog
+2203	stray_dog
+2204	stray_dog
+2205	stray_dog
+2206	stray_dog
+2207	stray_dog
+2231	stray_dog
+2232	stray_dog
+2233	stray_dog
+2234	stray_dog
+2235	stray_dog
+2291	stray_dog
+2292	stray_dog
+2293	stray_dog
+2301	stray_dog
+2302	stray_dog
+2303	stray_dog
+2304	stray_dog
+2305	stray_dog
+2306	stray_dog
+2307	stray_dog
+2311	stray_dog
+2312	stray_dog
+2313	stray_dog
+2314	stray_dog
+2315	stray_dog
+2401	stray_dog
+2402	stray_dog
+2403	stray_dog
+2404	stray_dog
+2411	stray_dog
+2412	stray_dog
+2413	stray_dog
+2414	stray_dog
+2415	stray_dog
+2431	stray_dog
+2432	stray_dog
+2433	stray_dog
+2434	stray_dog
+2451	stray_dog
+2452	stray_dog
+2453	stray_dog
+2454	stray_dog
+2491	stray_dog
+2492	stray_dog
+2493	stray_dog
+2494	stray_dog
+2495	stray_dog
+2501	stray_dog
+2502	stray_dog
+2503	stray_dog
+2504	stray_dog
+2505	stray_dog
+2506	stray_dog
+2507	stray_dog
+2508	stray_dog
+2509	stray_dog
+2510	stray_dog
+2511	stray_dog
+2512	stray_dog
+2513	stray_dog
+2514	stray_dog
+2541	stray_dog
+2542	stray_dog
+2543	stray_dog
+2544	stray_dog
+2545	stray_dog
+2546	stray_dog
+2547	stray_dog
+2591	stray_dog
+2592	stray_dog
+2593	stray_dog
+2594	stray_dog
+2595	stray_dog
+2596	stray_dog
+2597	stray_dog
+2598	stray_dog
+2600	stray_dog
+2601	stray_dog
+2602	stray_dog
+2603	stray_dog
+2604	stray_dog
+2605	stray_dog
+2606	stray_dog
+2607	stray_dog
+2608	stray_dog
+2609	stray_dog
+2610	stray_dog
+2611	stray_dog
+2612	stray_dog
+2613	stray_dog
+2614	stray_dog
+2615	stray_dog
+2616	stray_dog
+2617	stray_dog
+2618	stray_dog
+2619	stray_dog
+2620	stray_dog
+2621	stray_dog
+2622	stray_dog
+2623	stray_dog
+2624	stray_dog
+2625	stray_dog
+2626	stray_dog
+2627	stray_dog
+2628	stray_dog
+2629	stray_dog
+2630	stray_dog
+2631	stray_dog
+2632	stray_dog
+2633	stray_dog
+2634	stray_dog
+2635	stray_dog
+2636	stray_dog
+2637	stray_dog
+2638	stray_dog
+2639	stray_dog
+2640	stray_dog
+2641	stray_dog
+2642	stray_dog
+2643	stray_dog
+2644	stray_dog
+2645	stray_dog
+2646	stray_dog
+2647	stray_dog
+2648	stray_dog
+2649	stray_dog
+2650	stray_dog
+2651	stray_dog
+2652	stray_dog
+2653	stray_dog
+2654	stray_dog
+2655	stray_dog
+2656	stray_dog
+2657	stray_dog
+2658	stray_dog
+2659	stray_dog
+2660	stray_dog
+2661	stray_dog
+2662	stray_dog
+2663	stray_dog
+2664	stray_dog
+2665	stray_dog
+2666	stray_dog
+2667	stray_dog
+2668	stray_dog
+2669	stray_dog
+2670	stray_dog
+2671	stray_dog
+2672	stray_dog
+2673	stray_dog
+2674	stray_dog
+2675	stray_dog
+2676	stray_dog
+2677	stray_dog
+2678	stray_dog
+2679	stray_dog
+2680	stray_dog
+2681	stray_dog
+2682	stray_dog
+2683	stray_dog
+2684	stray_dog
+2685	stray_dog
+2686	stray_dog
+2687	stray_dog
+2688	stray_dog
+2689	stray_dog
+2690	stray_dog
+2691	stray_dog
+2692	stray_dog
+2700	stray_dog
+2701	stray_dog
+2702	stray_dog
+2703	stray_dog
+2704	stray_dog
+2705	stray_dog
+2706	stray_dog
+2707	stray_dog
+2708	stray_dog
+2709	stray_dog
+2710	stray_dog
+2711	stray_dog
+2712	stray_dog
+2713	stray_dog
+2714	stray_dog
+2715	stray_dog
+2716	stray_dog
+2717	stray_dog
+2718	stray_dog
+2719	stray_dog
+2720	stray_dog
+2721	stray_dog
+2722	stray_dog
+2723	stray_dog
+2724	stray_dog
+2725	stray_dog
+2726	stray_dog
+2727	stray_dog
+2728	stray_dog
+2729	stray_dog
+2730	stray_dog
+2731	stray_dog
+2732	stray_dog
+2733	stray_dog
+2734	stray_dog
+2735	stray_dog
+2736	japanese_pirate	
+2737	warp	
+2750	stray_dog
+2751	stray_dog
+2752	stray_dog
+2760	stray_dog
+2761	stray_dog
+2762	stray_dog
+2770	stray_dog
+2771	stray_dog
+2772	stray_dog
+2780	stray_dog
+2781	stray_dog
+2782	stray_dog
+2790	stray_dog
+2791	stray_dog
+2792	stray_dog
+2800	stray_dog
+2801	stray_dog
+2802	stray_dog
+2810	stray_dog
+2811	stray_dog
+2812	stray_dog
+2820	stray_dog
+2821	stray_dog
+2822	stray_dog
+2830	stray_dog
+2831	stray_dog
+2832	stray_dog
+2840	stray_dog
+2841	stray_dog
+2842	stray_dog
+2850	stray_dog
+2851	stray_dog
+2852	stray_dog
+2860	stray_dog
+2861	stray_dog
+2862	stray_dog
+2900	metinstone_01	
+2901	metinstone_02	
+2902	metinstone_03	
+2903	metinstone_04	
+2904	metinstone_01	
+2905	metinstone_02	
+2906	metinstone_03	
+2907	metinstone_04	
+2908	metinstone_05	
+3001	stray_dog
+3002	stray_dog
+3003	stray_dog
+3004	stray_dog
+3005	stray_dog
+3090	stray_dog
+3091	stray_dog
+3101	stray_dog
+3102	stray_dog
+3103	stray_dog
+3104	stray_dog
+3105	stray_dog
+3190	stray_dog
+3191	stray_dog
+3201	stray_dog
+3202	stray_dog
+3203	stray_dog
+3204	stray_dog
+3205	stray_dog
+3290	stray_dog
+3291	stray_dog
+3301	stray_dog
+3302	stray_dog
+3303	stray_dog
+3304	stray_dog
+3305	stray_dog
+3390	stray_dog
+3391	stray_dog
+3401	stray_dog
+3402	stray_dog
+3403	stray_dog
+3404	stray_dog
+3405	stray_dog
+3490	stray_dog
+3491	stray_dog
+3501	stray_dog
+3502	stray_dog
+3503	stray_dog
+3504	stray_dog
+3505	stray_dog
+3551	stray_dog
+3552	stray_dog
+3553	stray_dog
+3554	stray_dog
+3555	stray_dog
+3590	stray_dog
+3591	stray_dog
+3595	stray_dog
+3596	stray_dog
+3601	stray_dog
+3602	stray_dog
+3603	stray_dog
+3604	stray_dog
+3605	stray_dog
+3690	stray_dog
+3691	stray_dog
+3701	stray_dog
+3702	stray_dog
+3703	stray_dog
+3704	stray_dog
+3705	stray_dog
+3790	stray_dog
+3791	stray_dog
+3801	stray_dog
+3802	stray_dog
+3803	stray_dog
+3804	stray_dog
+3805	stray_dog
+3890	stray_dog
+3891	stray_dog
+3901	stray_dog
+3902	stray_dog
+3903	stray_dog
+3904	stray_dog
+3905	stray_dog
+3906	stray_dog
+3907	stray_dog
+3908	stray_dog
+3909	stray_dog
+3910	stray_dog
+3911	stray_dog
+3912	stray_dog
+3913	stray_dog
+3949	warp_blue	
+3950	defensewave_pawn_1	
+3951	defensewave_pawn_2	
+3952	defensewave_pawn_3	
+3953	defensewave_watersoul	
+3954	defensewave_naga_1	
+3955	defensewave_naga_2	
+3956	defensewave_medusa	
+3957	defensewave_minihydra	
+3958	defensewave_minihydra	
+3959	defensewave_minihydra	
+3960	defensewave_hydra_boss	
+3961	defensewave_hydra_boss	
+3962	defensewave_hydra_boss	
+3963	defensewave_hydra_boss_left	
+3964	defensewave_hydra_boss_right	
+3965	reddragon_room_box	
+3970	defensewave_wall	
+3980	elemental_soul_3	
+3981	defensewave_watersoul	
+3982	elemental_soul_2	
+3983	elemental_soul_4	
+3984	elemental_soul_5	
+3985	elemental_soul_6	
+3986	elemental_pawn_5	
+3987	elemental_pawn_1	
+3988	elemental_pawn_4	
+3989	elemental_pawn_2	
+3990	elemental_pawn_6	
+3991	elemental_pawn_3	
+3992	elemental_soul_3	
+3993	defensewave_watersoul	
+3994	elemental_soul_2	
+3995	elemental_soul_4	
+3996	elemental_soul_5	
+3997	elemental_soul_6	
+3998	warp_blue	
+3999	warp_blue	
+4000	metinstone_05	
+4001	metinstone_09	
+4002	metinstone_09	
+4003	metinstone_16	
+4004	metinstone_03	
+4005	metinstone_08	
+4006	elemental_golem	
+4019	warp_blue
+4020	warp_blue
+4021	seal_stone
+4022	warp_blue
+4023	warp_blue
+4024	stray_dog
+4025	stray_dog
+4026	stray_dog
+4027	stray_dog
+4101	stray_dog
+4102	stray_dog
+4103	stray_dog
+4104	stray_dog
+4105	stray_dog
+4106	stray_dog
+4107	stray_dog
+4108	stray_dog
+4109	stray_dog
+4110	stray_dog
+4111	stray_dog
+4112	stray_dog
+4121	stray_dog
+4122	stray_dog
+4123	stray_dog
+4124	stray_dog
+4125	stray_dog
+4126	stray_dog
+4127	stray_dog
+4128	stray_dog
+4129	stray_dog
+4130	stray_dog
+4131	stray_dog
+4132	stray_dog
+4141	metinstone_01	
+4142	metinstone_01	
+4143	metinstone_01	
+4144	metinstone_01	
+4145	ogre_soldier	
+4146	ogre_soldier	
+4147	minidungeon_pawn_1	
+4148	minidungeon_pawn_2	
+4149	chuhen	
+4150	chuhen	
+4151	stray_dog
+4152	stray_dog
+4200	stray_dog
+4201	stray_dog
+4202	stray_dog
+4203	stray_dog
+4204	stray_dog
+4205	stray_dog
+4206	stray_dog
+4207	stray_dog
+4208	stray_dog
+4209	stray_dog
+4210	stray_dog
+4220	stray_dog
+4221	stray_dog
+4222	stray_dog
+4223	stray_dog
+4224	stray_dog
+4225	stray_dog
+4226	stray_dog
+4227	stray_dog
+4228	stray_dog
+4229	stray_dog
+4240	stray_dog
+4241	stray_dog
+4242	stray_dog
+4243	stray_dog
+4244	stray_dog
+4245	stray_dog
+4246	stray_dog
+4247	stray_dog
+4248	stray_dog
+4249	stray_dog
+4260	stray_dog
+4261	stray_dog
+4262	stray_dog
+4263	stray_dog
+4264	stray_dog
+4265	stray_dog
+4266	stray_dog
+4267	stray_dog
+4268	stray_dog
+4269	stray_dog
+4270	stray_dog
+4271	stray_dog
+4272	stray_dog
+4273	stray_dog
+4274	stray_dog
+4275	stray_dog
+4276	stray_dog
+4280	stray_dog
+4281	stray_dog
+4282	stray_dog
+4283	stray_dog
+4284	stray_dog
+4285	stray_dog
+4286	stray_dog
+4287	stray_dog
+4288	stray_dog
+4289	stray_dog
+4290	stray_dog
+4300	stray_dog
+4301	stray_dog
+4302	stray_dog
+4303	stray_dog
+4304	stray_dog
+4305	stray_dog
+4306	stray_dog
+4307	stray_dog
+4308	stray_dog
+4309	stray_dog
+4320	stray_dog
+4321	stray_dog
+4322	stray_dog
+4323	stray_dog
+4324	stray_dog
+4325	stray_dog
+4326	stray_dog
+4327	stray_dog
+4328	stray_dog
+4329	stray_dog
+4340	stray_dog
+4341	stray_dog
+4342	stray_dog
+4343	stray_dog
+4344	stray_dog
+4345	stray_dog
+4346	stray_dog
+4347	stray_dog
+4348	stray_dog
+4349	stray_dog
+4350	stray_dog
+4351	stray_dog
+4352	stray_dog
+4353	stray_dog
+4354	stray_dog
+4355	stray_dog
+4356	stray_dog
+4400	stray_dog
+4401	stray_dog
+4402	stray_dog
+4403	stray_dog
+4410	stray_dog
+4411	stray_dog
+4412	stray_dog
+4413	stray_dog
+4420	stray_dog
+4421	stray_dog
+4422	stray_dog
+4423	stray_dog
+4424	stray_dog
+4429	stray_dog
+4430	stray_dog
+4431	stray_dog
+4432	stray_dog
+4433	stray_dog
+4434	stray_dog
+4439	stray_dog
+4440	stray_dog
+4441	stray_dog
+4442	stray_dog
+4443	stray_dog
+4444	stray_dog
+4449	stray_dog
+4450	stray_dog
+4451	stray_dog
+4452	stray_dog
+4453	stray_dog
+4454	stray_dog
+4459	stray_dog
+4460	stray_dog
+4461	stray_dog
+4462	stray_dog
+4463	stray_dog
+4464	stray_dog
+4469	stray_dog
+4470	stray_dog
+4471	stray_dog
+4472	stray_dog
+4473	stray_dog
+4474	stray_dog
+4479	stray_dog
+5001	stray_dog
+5002	stray_dog
+5003	stray_dog
+5004	stray_dog
+5101	stray_dog
+5102	stray_dog
+5103	stray_dog
+5104	stray_dog
+5111	stray_dog
+5112	stray_dog
+5113	stray_dog
+5114	stray_dog
+5115	stray_dog
+5116	stray_dog
+5121	stray_dog
+5122	stray_dog
+5123	stray_dog
+5124	stray_dog
+5125	stray_dog
+5126	stray_dog
+5127	stray_dog
+5131	stray_dog
+5132	stray_dog
+5133	stray_dog
+5134	stray_dog
+5141	stray_dog
+5142	stray_dog
+5143	stray_dog
+5144	stray_dog
+5145	stray_dog
+5146	stray_dog
+5151	stray_dog
+5152	stray_dog
+5153	stray_dog
+5154	stray_dog
+5155	stray_dog
+5156	stray_dog
+5157	stray_dog
+5161	stray_dog
+5162	stray_dog
+5163	stray_dog
+5201	stray_dog
+5202	stray_dog
+5203	stray_dog
+5204	stray_dog
+5205	stray_dog
+5206	stray_dog
+5207	stray_dog
+5208	stray_dog
+5209	stray_dog
+6001	stray_dog
+6002	stray_dog
+6003	stray_dog
+6004	stray_dog
+6005	stray_dog
+6006	stray_dog
+6007	stray_dog
+6008	stray_dog
+6009	stray_dog
+6051	stray_dog
+6091	stray_dog
+6101	stray_dog
+6102	stray_dog
+6103	stray_dog
+6104	stray_dog
+6105	stray_dog
+6106	stray_dog
+6107	stray_dog
+6108	stray_dog
+6109	stray_dog
+6110	stray_dog
+6111	stray_dog
+6112	stray_dog
+6113	stray_dog
+6114	stray_dog
+6115	stray_dog
+6116	stray_dog
+6117	stray_dog
+6118	stray_dog
+6119	stray_dog	
+6120	stray_dog	
+6121	stray_dog	
+6151	stray_dog
+6191	stray_dog
+6192	stray_dog
+6193	stray_dog
+6201	stray_dog
+6202	stray_dog
+6203	stray_dog
+6204	stray_dog
+6205	stray_dog
+6206	stray_dog
+6207	stray_dog
+6208	stray_dog
+6209	stray_dog
+6210	stray_dog
+6291	stray_dog
+6292	stray_dog
+6293	stray_dog
+6294	stray_dog
+6301	stray_dog
+6302	stray_dog
+6303	stray_dog
+6304	stray_dog
+6305	stray_dog
+6306	stray_dog
+6307	stray_dog
+6308	stray_dog
+6309	stray_dog
+6310	stray_dog
+6391	stray_dog
+6392	stray_dog
+6393	stray_dog
+6394	stray_dog
+6395	stray_dog
+6401	stray_dog
+6402	stray_dog
+6403	stray_dog
+6404	stray_dog
+6405	stray_dog
+6406	stray_dog
+6407	stray_dog
+6408	stray_dog
+6409	stray_dog
+6500	stray_dog
+6501	stray_dog
+6502	stray_dog
+6503	stray_dog
+6504	stray_dog
+6513	warp_blue	
+6514	warp_blue	
+6515	warp_blue	
+6410	stray_dog
+6411	stray_dog
+6412	stray_dog
+6413	stray_dog
+6414	stray_dog
+6415	stray_dog
+6416	stray_dog
+6417	stray_dog
+6418	stray_dog
+6419	stray_dog
+6420	stray_dog
+6421	stray_dog
+6422	stray_dog
+6686	stray_dog
+6687	stray_dog
+6688	stray_dog
+6689	stray_dog
+6690	stray_dog
+6691	stray_dog
+6692	stray_dog
+6693	stray_dog
+6694	stray_dog
+6695	stray_dog
+6696	stray_dog
+6697	stray_dog
+6698	stray_dog
+6699	stray_dog
+6700	stray_dog
+6701	stray_dog
+6702	stray_dog
+6703	stray_dog
+6704	stray_dog
+6705	stray_dog
+6706	stray_dog
+6707	stray_dog
+6708	stray_dog
+6709	stray_dog
+6710	stray_dog
+6711	stray_dog
+6712	stray_dog
+6713	stray_dog
+6714	stray_dog
+6715	stray_dog
+6716	stray_dog
+6717	stray_dog
+6718	stray_dog
+6719	stray_dog
+6720	stray_dog
+6721	stray_dog
+6722	stray_dog
+6723	stray_dog
+6724	stray_dog
+6725	stray_dog
+6726	stray_dog
+6727	stray_dog
+6728	stray_dog
+6729	stray_dog
+6730	stray_dog
+6731	stray_dog
+6744	stray_dog
+6745	stray_dog
+6746	stray_dog
+6747	stray_dog
+6748	stray_dog
+6749	stray_dog
+6750	stray_dog
+6751	stray_dog
+6752	stray_dog
+6753	stray_dog
+6754	stray_dog
+6755	stray_dog
+6756	stray_dog
+6757	seal_stone
+6758	stray_dog
+6759	stray_dog
+6760	stray_dog
+6761	stray_dog
+6762	stray_dog
+6763	stray_dog
+6764	stray_dog
+6765	stray_dog
+6875	stray_dog
+6876	stray_dog
+6877	stray_dog
+6878	stray_dog
+6879	stray_dog
+6880	stray_dog
+6881	stray_dog
+7001	stray_dog
+7002	stray_dog
+7003	stray_dog
+7004	stray_dog
+7005	stray_dog
+7006	stray_dog
+7007	stray_dog
+7008	stray_dog
+7009	stray_dog
+7010	stray_dog
+7012	stray_dog
+7013	stray_dog
+7014	stray_dog
+7015	stray_dog
+7016	stray_dog
+7017	stray_dog
+7018	stray_dog
+7019	stray_dog
+7020	stray_dog
+7021	stray_dog
+7022	stray_dog
+7023	stray_dog
+7024	stray_dog
+7025	stray_dog
+7026	stray_dog
+7027	stray_dog
+7028	stray_dog
+7029	stray_dog
+7030	stray_dog
+7031	stray_dog
+7032	stray_dog
+7033	stray_dog
+7034	stray_dog
+7035	stray_dog
+7036	stray_dog
+7037	stray_dog
+7038	stray_dog
+7039	stray_dog
+7040	stray_dog
+7041	stray_dog
+7042	stray_dog
+7043	stray_dog
+7044	stray_dog
+7045	stray_dog
+7046	stray_dog
+7047	stray_dog
+7048	stray_dog
+7049	stray_dog
+7050	stray_dog
+7051	stray_dog
+7052	stray_dog
+7053	stray_dog
+7054	stray_dog
+7055	stray_dog
+7056	stray_dog
+7057	stray_dog
+7058	stray_dog
+7059	stray_dog
+7060	stray_dog
+7061	stray_dog
+7062	stray_dog
+7063	stray_dog
+7064	stray_dog
+7065	stray_dog
+7066	stray_dog
+7067	stray_dog
+7068	stray_dog
+7069	stray_dog
+7070	stray_dog
+7071	stray_dog
+7072	stray_dog
+7073	stray_dog
+7074	stray_dog
+7075	stray_dog
+7076	stray_dog
+7077	stray_dog
+7078	stray_dog
+7079	stray_dog
+7080	stray_dog
+7081	stray_dog
+7082	stray_dog
+7083	stray_dog
+7084	stray_dog
+7085	stray_dog
+7086	stray_dog
+7087	stray_dog
+7088	stray_dog
+7089	stray_dog
+7090	stray_dog
+7091	stray_dog
+7092	stray_dog
+7093	stray_dog
+7094	stray_dog
+7095	stray_dog
+7096	stray_dog
+7097	stray_dog
+7101	guild_target_daepo	
+7102	guild_target_daepo	
+7103	guild_target_hwacha	
+7104	guild_target_hwacha	
+7105	guild_target_bonghwa	
+7106	signal_fire	
+7107	signal_fire	
+7108	signal_fire	
+7109	signal_fire	
+7110	signal_fire	
+7111	signal_fire	
+7112	signal_fire	
+7113	monkey	
+7114	monkey_range	
+7115	monkey	
+7116	monkey	
+7117	stone_monkey	
+7118	gold_monkey	
+7119	gold_monkey	
+7120	stray_dog
+7121	stray_dog
+7122	stray_dog
+7123	stray_dog
+7124	stray_dog
+7550	stray_dog
+7551	stray_dog
+7552	stray_dog
+7553	stray_dog
+7554	stray_dog
+7555	stray_dog
+7556	stray_dog
+7557	stray_dog
+7558	stray_dog
+7559	stray_dog
+7560	stray_dog
+7561	stray_dog
+7562	stray_dog
+7563	stray_dog
+7564	stray_dog
+7565	stray_dog
+7566	stray_dog
+7567	stray_dog
+7568	stray_dog
+7569	stray_dog
+7570	stray_dog
+7571	stray_dog
+7572	stray_dog
+7573	stray_dog
+7574	stray_dog
+7575	stray_dog
+7576	stray_dog
+7577	stray_dog
+7578	stray_dog
+7579	stray_dog
+7580	stray_dog
+7581	stray_dog
+7582	stray_dog
+7583	stray_dog
+7584	stray_dog
+7585	stray_dog
+7586	stray_dog
+7587	stray_dog
+7588	stray_dog
+7589	stray_dog
+7590	stray_dog
+7591	stray_dog
+7592	stray_dog
+7593	stray_dog
+7594	stray_dog
+7595	stray_dog
+7600	metinstone_01
+7609	smhtower_king_2
+7610	smhtower_king_3
+7611	smhtower_king_4
+7612	smhtower_king_5
+7613	smhtower_king_6
+7614	smhtower_king
+7615	smhtower_soldier_2
+7616	smhtower_soldier2_3
+7617	smhtower_general_4
+7618	smhtower_general_5
+7619	smhtower_knight_6
+7620	smhtower_magic
+8001	metinstone_01	
+8002	metinstone_02	
+8003	metinstone_03	
+8004	metinstone_04	
+8005	metinstone_05	
+8006	metinstone_06	
+8007	metinstone_07	
+8008	metinstone_08	
+8009	metinstone_09	
+8010	metinstone_04	
+8011	metinstone_05	
+8012	metinstone_06	
+8013	metinstone_07	
+8014	metinstone_08	
+8015	metinstone_04	
+8016	metinstone_05	
+8017	metinstone_06	
+8018	metinstone_07	
+8019	metinstone_08	
+8020	metinstone_06	
+8021	metinstone_07	
+8022	metinstone_08	
+8023	metinstone_09	
+8024	metinstone_03	
+8025	metinstone_04	
+8026	metinstone_05	
+8027	metinstone_06	
+8028	metinstone_06	
+8029	metinstone_06	
+8030	metinstone_06	
+8031	metinstone_09	
+8032	metinstone_01	
+8033	metinstone_06	
+8034	metinstone_02	
+8035	metinstone_10	
+8036	metinstone_11	
+8037	metinstone_12	
+8038	metinstone_13	
+8039	metinstone_14	
+8040	metinstone_15	
+8041	metinstone_egg01	
+8042	metinstone_egg01	
+8043	metinstone_egg01	
+8044	metinstone_egg01	
+8045	metinstone_egg01	
+8046	metinstone_egg01	
+8047	metinstone_egg01	
+8048	metinstone_egg01	
+8049	metinstone_egg01	
+8050	metinstone_egg01	
+8051	metinstone_10	
+8052	metinstone_11	
+8053	metinstone_12	
+8054	metinstone_13	
+8055	metinstone_14	
+8056	metinstone_15	
+8057	metinstone_12	
+8058	metinstone_13	
+8059	metinstone_16	
+8060	metinstone_halloween	
+8061	metinstone_16	
+8062	metinstone_east_01	
+8063	metinstone_east_02	
+8064	metinstone_east_03	
+8065	metinstone_east_04	
+8066	metinstone_east_05	
+8067	metinstone_east_01	
+8068	metinstone_snake_2
+8069	metinstone_snake_3
+8070	metinstone_snake_4
+8071	metinstone_snake_5
+8075	metinstone_snake_1
+8076	metinstone_snake_1
+8077	metin_maimuta	
+8078	metin_orc	
+8079	metin_azrael	
+8080	metin_dragon	
+8101	metinstone_01	
+8102	metinstone_02	
+8103	metinstone_03	
+8104	metinstone_04	
+8105	metinstone_05	
+8106	metinstone_06	
+8107	metinstone_07	
+8108	metinstone_08	
+8109	metinstone_09	
+8110	metinstone_09	
+8111	metinstone_09	
+8112	metinstone_09	
+8115	metinstone_09	
+8116	metinstone_halloween	
+8117	metinstone_halloween	
+8118	metinstone_halloween	
+8119	metinstone_halloween	
+8120	metinstone_09	
+8121	metinstone_01	
+8122	metinstone_06	
+8123	metinstone_02	
+8124	metinstone_12	
+8125	metinstone_13	
+8126	metinstone_16	
+8127	metinstone_16	
+8130	metinstone_09	
+8131	metinstone_01	
+8132	metinstone_06	
+8133	metinstone_02	
+8134	metinstone_12	
+8135	metinstone_13	
+8136	metinstone_16	
+8137	metinstone_16	
+8200	metinstone_valentine01	
+8201	metinstone_valentine02	
+8202	metinstone_icecream	
+8203	metinstone_kareem	
+8204	metinstone_egg01	
+8205	metinstone_egg01	
+8206	metinstone_egg01	
+8501	stray_dog
+8502	stray_dog
+8503	stray_dog
+8504	stray_dog
+8505	stray_dog
+8506	stray_dog
+8507	stray_dog
+8508	stray_dog
+8509	stray_dog
+8510	stray_dog
+8511	stray_dog
+8604	stray_dog
+8605	stray_dog
+8606	stray_dog
+8607	stray_dog
+8608	stray_dog
+8609	stray_dog
+8610	stray_dog
+8611	stray_dog
+8612	stray_dog
+8613	stray_dog
+8614	stray_dog
+8615	stray_dog
+8616	stray_dog
+8617	stray_dog
+8618	stray_dog
+8619	stray_dog
+8620	stray_dog
+8621	stray_dog
+8622	stray_dog
+8623	stray_dog
+8624	stray_dog
+8625	garrison
+8626	garrison_2
+8627	garrison_3
+9001	the_asek_studio_grubcio_1	
+9002	the_asek_studio_gruby	
+9003	the_asek_studio_npc_4	
+9004	bank	
+9005	hotel_grandfa	
+9006	the_asek_studio_babka	
+9007	arms	
+9008	defence	
+9009	sailor	
+9010	goods_02	
+9011	bank_02	
+9012	oldster	
+9013	goods	
+9014	goods
+10001	warp	
+10002	warp	
+10003	warp	
+10004	warp	
+10005	warp	
+10006	warp	
+10007	warp	
+10008	warp	
+10009	warp	
+10010	warp	
+10011	warp	
+10012	warp	
+10013	warp	
+10014	warp	
+10015	warp	
+10016	warp	
+10017	warp	
+10018	warp	
+10019	warp	
+10020	warp	
+10021	warp	
+10022	warp	
+10023	warp	
+10024	warp	
+10025	warp	
+10026	warp	
+10027	warp	
+10028	warp	
+10029	warp	
+10030	warp	
+10031	warp	
+10032	warp	
+10033	warp	
+10034	warp	
+10035	warp	
+10036	warp	
+10037	warp	
+10038	warp	
+10039	warp	
+10040	warp	
+10041	warp	
+10042	warp	
+10043	warp	
+10044	warp	
+10045	warp	
+10046	warp	
+10047	warp	
+10048	warp	
+10049	warp	
+10050	warp	
+10051	warp	
+10052	warp	
+10053	warp	
+10054	warp	
+10055	warp	
+10056	warp	
+10057	warp	
+10058	warp	
+10059	warp	
+10060	warp	
+10061	warp	
+10062	warp	
+10063	warp	
+10064	warp	
+10065	warp	
+10066	warp	
+10067	warp	
+10068	warp	
+10069	warp	
+10070	warp	
+10071	warp	
+10072	warp	
+10073	warp	
+10074	warp	
+10075	warp	
+10076	warp	
+10077	warp	
+10078	warp	
+10079	warp	
+10080	warp	
+10081	warp	
+10082	warp	
+10083	warp	
+10084	warp	
+10085	warp	
+10086	warp	
+10087	warp	
+10088	warp	
+10089	warp	
+10090	warp	
+10091	warp	
+10092	warp	
+10093	warp	
+10094	warp	
+10095	warp	
+10096	warp	
+10097	warp	
+10098	warp	
+10099	warp	
+10100	warp	
+10101	warp	
+10102	warp	
+10103	warp	
+10104	warp	
+10105	warp	
+10107	warp	
+10108	warp	
+10109	warp	
+10110	warp	
+10111	warp	
+10112	warp	
+10113	warp	
+10114	warp	
+10115	warp	
+10116	warp	
+10117	warp	
+10118	warp	
+10119	warp	
+10120	warp	
+10121	warp	
+10122	warp	
+10123	warp	
+10124	warp	
+10126	warp
+10127	warp	
+10128	warp	
+10129	warp	
+10130	warp	
+10131	warp_blue
+10132	warp_blue
+10133	warp_blue
+10134	warp_blue
+10135	warp_blue
+10136	warp
+10137	warp
+10138	warp_blue
+10141	warp_blue
+10204	warp_blue
+10501	warp	
+10502	warp	
+10503	warp	
+10504	warp	
+10505	warp	
+10506	warp	
+10507	warp	
+10508	warp	
+10509	warp	
+10510	warp	
+10511	warp	
+10512	warp	
+10513	warp	
+10514	warp	
+10515	warp	
+10516	warp	
+10517	warp	
+10518	warp	
+10519	warp	
+10520	warp	
+10521	warp	
+10522	warp	
+10523	warp	
+10524	warp	
+10601	warp	
+10602	warp	
+10603	warp	
+10604	warp	
+10605	warp	
+10606	warp	
+10607	warp	
+10608	warp	
+10609	warp	
+10610	warp	
+10611	warp	
+10612	warp	
+10613	warp	
+10614	warp	
+10615	warp	
+10616	warp	
+10617	warp	
+10618	warp	
+10619	warp	
+10620	warp	
+10621	warp	
+10622	warp	
+10623	warp	
+10624	warp	
+10625	warp	
+10626	warp	
+10701	warp	
+10702	warp	
+10703	warp	
+10704	warp	
+10705	warp	
+10706	warp	
+10707	warp	
+10708	warp	
+10709	warp	
+10710	warp	
+10711	warp	
+10712	warp	
+10713	warp	
+10714	warp	
+10715	warp	
+10716	warp	
+10717	warp	
+10718	warp	
+10719	warp	
+10720	warp	
+10721	warp	
+10722	warp	
+10723	warp	
+10724	warp	
+10725	warp	
+10726	warp	
+11000	gangyo_patrol_spear	
+11001	gangyo_patrol_bow	
+11002	jinno_patrol_spear	
+11003	jinno_patrol_bow	
+11004	sinsu_patrol_spear	
+11005	sinsu_patrol_bow	
+11100	sinsu_guard_spear	
+11101	sinsu_guard_bow	
+11102	chenjo_guard_spear	
+11103	chenjo_guard_bow	
+11104	jinno_guard_spear	
+11105	jinno_guard_bow	
+11106	gangyo_patrol_spear	
+11107	gangyo_patrol_bow	
+11108	jinno_patrol_spear	
+11109	jinno_patrol_bow	
+11110	sinsu_patrol_spear	
+11111	sinsu_patrol_bow	
+11112	gangyo_patrol_spear	
+11113	gangyo_patrol_bow	
+11114	jinno_patrol_spear	
+11115	jinno_patrol_bow	
+11116	sinsu_patrol_spear	
+11117	sinsu_patrol_bow	
+11505	goldenfrog	
+11506	signal_fire	
+11507	signal_fire	
+11508	signal_fire	
+11509	signal_fire	
+11510	signal_fire	
+12000	campfire	
+13000	wooden_door	
+13001	stone_door	
+20001	gemshop_2	
+20002	auntie	
+20003	baby_and_mom	
+20004	beggar	
+20005	ceramist	
+20006	girl_lost_elder_brother	
+20007	hotel_grandfa	
+20008	mr_restaurant	
+20009	oldster	
+20010	plechi_cursed_mage	
+20011	plant_researcher	
+20012	rice_cake_seller	
+20013	sailor	
+20014	timid_boy	
+20015	ace_hacker	
+20016	blacksmith	
+20017	musician	
+20018	doctor	
+20019	hunter	
+20020	old_pirate	
+20021	widow	
+20022	young_merchant	
+20023	bookworm	
+20024	yu_hwa_rang	
+20029	pony_normal	
+20030	pony_normal	
+20032	christmas_tree_01	
+20033	christmas_tree_02	
+20034	christmas_tree_03	
+20035	flag_red	
+20036	flag_blue	
+20037	flag_yellow	
+20040	jinno_patrol_spear	
+20041	beggar	
+20042	peddler	
+20044	blacksmith	
+20045	blacksmith	
+20046	blacksmith	
+20047	diamond	
+20048	amber	
+20049	fossil_tree	
+20050	copper	
+20051	silver	
+20052	gold	
+20053	jade	
+20054	ebony	
+20055	pearl	
+20056	white_gold	
+20057	quartz	
+20058	amethyst	
+20059	chunru	
+20060	alchemist	
+20061	alchemist	
+20062	alchemist	
+20063	alchemist	
+20064	alchemist	
+20065	alchemist	
+20066	alchemist	
+20067	alchemist	
+20068	alchemist	
+20069	alchemist	
+20070	alchemist	
+20071	alchemist	
+20072	alchemist	
+20073	seal_stone	
+20074	blacksmith	
+20075	blacksmith	
+20076	blacksmith	
+20077	jinno_patrol_spear	
+20078	jinno_patrol_spear	
+20079	jinno_patrol_spear	
+20080	plant_researcher	
+20081	seal_stone	
+20082	GM	
+20083	oldster	
+20084	plechi_noble_npc1	
+20086	wondaim	
+20087	handaup	
+20088	visamun	
+20089	jinmoo	
+20090	drugo12	
+20091	backchon	
+20092	ayuka	
+20093	visal	
+20094	drugo17	
+20095	sinseon	
+20096	seal_stone	
+20097	sinsu_warpgate	
+20098	chenjo_warpgate	
+20099	jinno_warpgate	
+20101	pony_normal	
+20102	pony_member	
+20103	pony_master	
+20104	horse_normal	
+20105	horse_member	
+20106	horse_master	
+20107	horse2_normal	
+20108	horse2_member	
+20109	horse2_master	
+20110	boar	
+20111	dog_god	
+20112	fire_tiger	
+20113	lion	
+20114	lion_white	
+20115	boar_2	
+20116	dog_god_2	
+20117	fire_tiger_2	
+20118	lion_2	
+20119	horse_event1	
+20120	fire_tiger_blue	
+20121	fire_tiger_darkred	
+20122	fire_tiger_gold	
+20123	fire_tiger_green	
+20124	fire_tiger_pied	
+20125	fire_tiger_white	
+20126	santa	
+20127	flag_a	
+20128	flag_b	
+20129	flag_c	
+20130	flag_d	
+20131	flag_1	
+20132	flag_2	
+20133	flag_3	
+20134	flag_d_03	
+20135	flag_d_05	
+20138	flag_d_02	
+20142	flag_d_04	
+20143	flag_d_06	
+20201	boar_0	
+20202	dog_god_0	
+20203	fire_tiger_0	
+20204	lion_0	
+20205	boar_2	
+20206	dog_god_2	
+20207	fire_tiger_2	
+20208	lion_2	
+20209	boar_3	
+20210	dog_god_3	
+20211	fire_tiger_3	
+20212	lion_3	
+20213	reindeer_male1	
+20214	reindeer_male2	
+20215	reindeer_male3	
+20216	reindeer_female1	
+20217	reindeer_female2	
+20218	reindeer_female3	
+20219	horse_halloween1	
+20220	reindeer_male1_christmas1	
+20221	bear	
+20222	panda	
+20223	dinosaur_1	
+20224	dinosaur_2	
+20225	dinosaur_3	
+20226	unicorn	
+20227	unicorn1	
+20228	turkey_1	
+20229	turkey_2	
+20230	turkey_3	
+20231	leopard_black	
+20232	leopard_yellow	
+20233	chick_yellow1	
+20234	chick_white1	
+20235	chick_yellow2	
+20236	chick_white2	
+20237	chick_yellow3	
+20238	chick_white3	
+20239	christmas_2015_reindeer_female	
+20240	christmas_2015_reindeer_male	
+20241	chick_blue1	
+20242	chick_pink1	
+20243	horse_pepsi	
+20244	halloween_2016_dragon_gold_01	
+20245	halloween_2016_dragon_silver_02	
+20246	christmas_2016_mammoth_01	
+20247	christmas_2016_mammoth_02	
+9353	christmas_2016_mammoth_04
+20248	ramadan_2017_camel_01	
+20249	ramadan_2017_camel_02	
+20250	halloween_2017_volcano_beast_01	
+20251	halloween_2017_volcano_beast_02	
+20252	reddragon_fly	
+20253	horse_normal02	
+20254	easter_2018_rabbit_01	
+20255	easter_2018_rabbit_02	
+20257	christmas_2017_sleddog_01	
+20258	christmas_2017_sleddog_02	
+20259	halloween_2018_cerberos_01	
+20260	halloween_2018_cerberos_02	
+20300	sinsu_patrol_spear	
+20301	sinsu_patrol_spear	
+20302	sinsu_patrol_spear	
+20303	sinsu_patrol_spear	
+20304	sinsu_patrol_spear	
+20305	sinsu_patrol_spear	
+20306	sinsu_patrol_spear	
+20307	sinsu_patrol_spear	
+20320	gangyo_patrol_spear	
+20321	gangyo_patrol_spear	
+20322	gangyo_patrol_spear	
+20323	gangyo_patrol_spear	
+20324	gangyo_patrol_spear	
+20325	gangyo_patrol_spear	
+20326	gangyo_patrol_spear	
+20327	gangyo_patrol_spear	
+20340	jinno_patrol_spear	
+20341	jinno_patrol_spear	
+20342	jinno_patrol_spear	
+20343	jinno_patrol_spear	
+20344	jinno_patrol_spear	
+20345	jinno_patrol_spear	
+20346	jinno_patrol_spear	
+20347	jinno_patrol_spear	
+20349	jinno_patrol_spear	
+20350	jinno_patrol_spear	
+20351	jinno_patrol_spear	
+20352	tombstone	
+20353	tombstone1	
+20354	guard_leader	
+20355	guard_leader	
+20356	mirinae_brother	
+20357	moonstone	
+20358	nnflower	
+20359	mailbox	
+20360	firestone	
+20361	waterstone	
+20362	treestone	
+20363	steelstone	
+20364	naoki	
+20365	steelstone	
+20366	keyholestone	
+20367	jinno_patrol_spear	
+20368	peddler	
+20369	leechung	
+20370	spy1	
+20371	waterstone	
+20372	tombstone	
+20373	jinno_patrol_spear	
+20374	jinno_patrol_spear	
+20375	npc_fence	
+20376	chagirap	
+20377	jinno_patrol_spear_01	
+20378	gangyo_patrol_spear_01	
+20379	spy1_01	
+20380	eojiryu	
+20381	gilaso	
+20382	nnflower	
+20383	blacksmith	
+20384	christmas_tree	
+20385	flame_npc	
+20386	seal_stone	
+20387	bridge_block_chain	
+20388	flame_door_npc	
+20389	keyholestone	
+20390	keyholestone	
+20391	nnflower	
+20392	spy1_01	
+20393	spy1	
+20394	jinno_patrol_spear	
+20395	jinno_patrol_spear	
+20396	redguild_soldier	
+20397	ICE_lionstone	
+20398	ice_keybox	
+20399	ice_stonepillar	
+20466	ice_stonepillar2	
+20400	wolfman_jokjang	
+20401	wolfman_guard	
+20402	wolfman_guard	
+20403	wolfman_guard	
+20404	wolfman_sangin	
+20405	wolfman_sangin	
+20408	redguild_guard_M_4	
+20409	redguild_guard_M	
+20410	redguild_guard_M_2	
+20411	redguild_guard_M_3	
+20412	jinno_patrol_spear	
+20413	japanese_pirate_2	
+20414	redguild_guard_F	
+20415	warp_blue	
+20416	halloween1	
+20417	okey_npc	
+20419	old_magic_M1	
+20420	reddragon_room_box	
+20421	old_magic_M2	
+20422	metinstone_egg02	
+20423	alchemist	
+20424	alchemist	
+20425	alchemist	
+20426	alchemist	
+20427	alchemist	
+20428	alchemist	
+20429	scholar_brown_M1	
+20430	ten	
+20431	peddler_ten	
+20432	metinstone_defensewave	
+20433	defensewave_statue	
+20434	defensewave_sail	
+20435	defensewave_redrock	
+20436	defensewave_steerhandle	
+20437	defensewave_woodrepair	
+20438	scholar_brown_M	
+20439	warp_blue	
+20440	warp_blue	
+20441	warp_blue	
+20442	warp_blue	
+20443	warp_blue	
+20444	warp_blue	
+20445	warp_blue	
+20446	warp_blue	
+20447	warp_blue	
+20448	warp_blue	
+20449	warp_blue	
+20450	warp_blue	
+20451	peddler_ten	
+20452	12zi_statue_mouse_npc	
+20453	12zi_statue_cow_npc	
+20454	12zi_statue_tiger_npc	
+20455	12zi_statue_rabbit_npc	
+20456	12zi_statue_dragon_npc	
+20457	12zi_statue_snake_npc	
+20458	12zi_statue_horse_npc	
+20459	12zi_statue_sheep_npc	
+20460	12zi_statue_monkey_npc	
+20461	12zi_statue_chicken_npc	
+20462	12zi_statue_dog_npc	
+20463	12zi_statue_pig_npc	
+20464	12zi_target_daepo	
+20470	npc_turtlestone_01	
+20471	npc_turtlestone_awake_01	
+20472	npc_turtlestone_awake_01	
+20473	npc_turtlestone_01	
+20474	npc_turtlestone_01	
+20475	blacksmith	
+20476	blacksmith	
+20477	blacksmith	
+20478	blacksmith	
+20479	blacksmith	
+20480	redguild_guard_F
+20481	redguild_guard_F
+20500	metinstone_egg02	
+20501	reddragon_room_box	
+20502	yut_npc	
+20503	scholar_beige_M2	
+20504	gemshop	
+20505	yut	
+20506	king_npc	
+20510	suraghost	
+20511	flame_npc	
+20512	keyholestone	
+20513	seal_stone	
+20514	bridge_block_chain	
+20515	flame_door_npc	
+20516	ICE_lionstone	
+20517	ice_keybox	
+20518	ice_stonepillar	
+20519	redguild_guard_M	
+20520	redguild_guard_M_2	
+20521	redguild_guard_M_3	
+20522	jinno_patrol_spear	
+20530	suraghost	
+20531	flame_npc	
+20532	keyholestone	
+20533	seal_stone	
+20534	bridge_block_chain	
+20535	flame_door_npc	
+20536	ICE_lionstone	
+20537	ice_keybox	
+20538	ice_stonepillar	
+20539	redguild_guard_M	
+20540	redguild_guard_M_2	
+20541	redguild_guard_M_3	
+20542	jinno_patrol_spear	
+20650	scholar_brown_M1	
+20406	plechi_great_shaman	
+20660	alchemist
+20661	alchemist
+20662	alchemist
+20663	alchemist
+20702	shrine_02	
+20703	shrine_01	
+20704	shrine_03	
+20705	shrine_04	
+20706	shrine_05	
+20707	warp	
+20710	reddragon_room_box	
+20711	metinstone_15	
+20713	metinstone_15	
+20714	ice_keybox	
+20799	nnflower	
+20800	spy1	
+20802	sinsu_patrol_spear	
+20803	jinno_guard_bow	
+20804	jinno_guard_bow
+20805	jinno_guard_bow	
+20806	jinno_guard_bow	
+20807	snake_statue
+20808	east_wl_soldier	
+20809	gilaso	
+20810	chagirap_02	
+20811	chagirap	
+20812	gangyo_patrol_spear_01	
+20813	jinno_guard_bow	
+20814	sinsu_patrol_spear	
+20822	scholar_beige_M1	
+20823	blacksmith	
+20825	blacksmith	
+20826	young_merchant	
+20827	jinno_patrol_spear	
+20828	blacksmith	
+20829	blacksmith
+20830	jinno_patrol_spear	
+20831	jinno_patrol_spear	
+20832	gangyo_patrol_spear_01	
+20833	nnflower	
+20834	npc_empirestone	
+20835	goods	
+20841	hunter
+20842	snake_smith_01
+20844	snake_statue
+20850	npc_empirestone
+30000	privateshop	
+30001	privateshop2	
+30002	privateshop_1	
+30003	privateshop_2	
+30004	privateshop_3	
+30005	privateshop_4	
+30006	privateshop_5	
+30007	privateshop_6	
+30008	privateshop_7	
+30101	zombie_key_stone	
+30102	zombie_god_stone	
+30103	zombie_security_stone	
+30104	zombie_warp_stone	
+30111	zombie_ghost_door	
+30112	zombie_ghost_door	
+30113	zombie_ghost_door	
+30114	zombie_ghost_door	
+30115	zombie_ghost_door	
+30116	zombie_ghost_door	
+30117	zombie_ghost_door	
+30118	zombie_ghost_door	
+30119	zombie_ghost_door	
+30120	obj_bag003	
+30121	suraghost	
+30122	warriorghost	
+30123	worship_dragon	
+30124	sura_skeleton1	
+30125	sura_skeleton2	
+30126	sura_skeleton3	
+30127	sura_skeleton4	
+30128	sura_skeleton5	
+30129	rabbit	
+30130	waterstone	
+30131	Easter_Day_rabbit	
+30132	Easter_Day_rabbit	
+30301	mineral2	
+30302	mineral2_ruby	
+30303	mineral2_garnet	
+30304	mineral2_bery	
+30305	mineral2_sapphire	
+30306	mineral2	
+30307	plechi_lady_npc1	
+30308	postbox_npc	
+30309	mineral2_steel
+30310	mineral2_steel_yellow
+30311	mineral2_crystal_dark
+30312	mineral2_crystal_violet
+30313	mineral2_steel
+33001	sura_skeleton3	
+33002	historian	
+33003	starveling	
+33004	starveling2	
+33005	starveling3	
+33006	starveling4	
+33007	starveling5	
+33008	halloween1	
+34001	phoenix1	
+34002	reindeer_young1	
+34003	phoenix2	
+34004	pwahuang1	
+34005	pig_young1	
+34006	dog_young1	
+34007	hellboy_pet	
+34008	ringring_pet	
+34009	threewolf_pet	
+34010	reindeer_young1_christmas1	
+34011	bear_young1	
+34012	panda_young1	
+34013	redthief2_officer_young1	
+34014	redthief2_officer_young2	
+34015	halloween_bonedog1	
+34016	phoenix3	
+34017	pig_young1_white	
+34018	dog_young1_white	
+34019	tiger_young1_white	
+34020	lion_young1_white	
+34021	egg_pet	
+34022	rabbit_pet	
+34023	leopard_young1_black	
+34024	leopard_young1_yellow	
+34025	phoenix1	
+34026	halloween_pumpkin_pet	
+34027	halloween_broom	
+34028	christmas_pet1	
+34029	christmas_pet2	
+34030	valentine_angel	
+34031	valentine_heart	
+34032	ramadan_pet	
+34033	ramadan_pet_02	
+34034	lamb_white_pet	
+34035	lamb_blue_pet	
+34036	blue_dragon_young1	
+34037	blue_dragon_young2	
+34039	skipia_general_young1	
+34041	monkey_young1	
+34042	monkey_young2	
+34045	spider_redpoison_young1	
+34046	spider_redpoison_young2	
+34047	pve_dragon_young_1	
+34048	pve_dragon_young_2	
+34049	yamachun_young1	
+34050	yamachun_young2	
+34053	hanma_young1	
+34054	hanma_young2	
+34055	halloween_bet_pet1	
+34056	halloween_bet_pet2	
+34057	halloween_bet_pet1	
+34058	zeus_mark
+34059	valentine_2016_bear_F	
+34060	valentine_2016_bear_M	
+34061	valentine_2016_bear_F	
+34062	ramadan_pet_03	
+34063	ramadan_pet_04	
+34064	red_dragon_young1	
+34065	red_dragon_young2	
+34066	ten_warrior_pet	
+34067	halloween_2016_gangsi_1	
+34068	halloween_2016_gangsi_2	
+34069	halloween_2016_gangsi_1	
+34070	christmas_2016_Goblin_1	
+34071	christmas_2016_Goblin_2	
+34072	christmas_2016_Goblin_1	
+34073	pwahuang1_3	
+34074	pwahuang1_4	
+34075	redthief2_officer_young3	
+34076	redthief2_officer_young4	
+34080	luck_sheep_young1	
+34081	luck_sheep_young2	
+34082	defensewave_hydra_pet_1	
+34083	defensewave_hydra_pet_2	
+34084	easter_2017_rabbit_2	
+34085	easter_2017_rabbit_1	
+34086	halloween_2017_ghost_1	
+34087	halloween_2017_ghost_2	
+34088	halloween_2017_ghost_1	
+34089	reddragon_human	
+34090	ramadan_2018_karim_1	
+34091	ramadan_2018_karim_2	
+34092	christmas_2017_penguin_1	
+34093	christmas_2017_penguin_2	
+34094	christmas_2017_penguin_1	
+34095	zshop_griffon_1	
+34096	zshop_griffon_2	
+34097	halloween_2018_witch_01	
+34098	halloween_2018_witch_02	
+34099	halloween_2018_witch_01	
+34100	worldcup_2018_wolfman_1	
+34101	worldcup_2018_wolfman_2	
+34102	worldcup_2018_wolfman_1	
+34103	easter_2019_peacock_1	
+34104	easter_2019_peacock_2	
+34105	easter_2019_peacock_1	
+50000	goods	
+50001	goods	
+50002	goods	
+60000	old_master_M	
+60001	old_master_M	
+60002	old_master_M	
+60003	scholar_beige_M1	
+34106	christmas_2018_nutcracker_01	
+34107	christmas_2018_nutcracker_02	
+34108	christmas_2018_nutcracker_01	
+34109	ramadan_2019_camel_1	
+34110	ramadan_2019_camel_2	
+34111	ramadan_2019_camel_1	
+34112	pet_ice_snow_insect	
+34113	pet_ice_snow_insect	
+34114	halloween_2019_3eyecat_01	
+34115	halloween_2019_3eyecat_02	
+34116	halloween_2019_3eyecat_01	
+33009	altar_blood	
+34120	skipia_general_young2	
+34121	skipia_general_young3	
+34122	ten_warrior_pet	
+34123	ten_warrior_pet	
+34124	elemental_pet_pawn_5	
+34125	elemental_pet_pawn_1	
+34126	elemental_pet_pawn_4	
+34127	elemental_pet_pawn_2	
+34128	elemental_pet_pawn_6	
+34129	elemental_pet_pawn_3	
+34117	christmas_2019_santa_01	
+34118	christmas_2019_santa_02	
+34119	christmas_2019_santa_01	
+34130	valentine_2020_dog_1	
+34131	valentine_2020_dog_2	
+34132	valentine_2020_dog_1	
+34133	summer_2020_crustacean	
+34134	summer_2020_crustacean
+34135	halloween_2020_mummy_01
+34136	halloween_2020_mummy_02
+34137	halloween_2020_mummy_01
+34138	christmas_2020_tree
+34139	christmas_2020_tree_2
+34140	christmas_2020_tree
+6800	maze_gnoll_soldier
+6801	maze_gnoll_soldier
+6802	maze_gnoll_magic
+6803	maze_gnoll_general
+6804	maze_gnoll_boss
+6805	maze_gnoll_boss
+6806	maze_gnoll_soldier
+6807	maze_gnoll_soldier
+6808	maze_gnoll_magic
+6809	maze_gnoll_general
+6810	maze_keindog_soldier
+6811	maze_keindog_soldier
+6812	maze_keindog_magic
+6813	maze_keindog_general
+6814	maze_keindog_boss
+6815	maze_keindog_boss
+6816	maze_keindog_soldier
+6817	maze_keindog_magic
+6818	maze_keindog_general
+6819	maze_keingnoll_boss
+6820	maze_keingnoll_boss
+6850	snaketemple_pawn_2
+6851	snaketemple_s_pawn_2
+6852	snaketemple_knight03_2
+6853	snaketemple_knight01_2
+6854	snaketemple_knight02_2
+6855	snaketemple_s_knight_2
+6856	snaketemple_boss_2
+6860	empire_jianbing
+6861	empire_qiangbing
+6862	empire_maobing
+6863	empire_gongbing
+6864	empire_caocao_boss
+6865	empire_jianbing_2
+6866	empire_qiangbing_2
+6867	empire_maobing_2
+6868	empire_gongbing_2
+6869	empire_caocao_boss_2
+6870	empire_zhanglu_3
+6871	empire_zhanglu
+20836	east_wl_soldier
+20837	warp_blue
+20838	warp_blue
+20839	warp_blue
+20840	warp_blue
+20407	plechi_old_alchemist
+20290	plechi_majestic_griffin
+20291	plechi_maajestic_horse
+20292	christmas_2016_mammoth_05
+20293	christmas_2016_mammoth_06
+20294	christmas_2016_mammoth_07
+20295	christmas_2016_mammoth_08
+20296	christmas_2016_mammoth_09
+20297	christmas_2016_mammoth_10
+20298	christmas_2016_mammoth_11
+20299	christmas_2016_mammoth_12
+20300	christmas_2016_mammoth_13
+34077	phoenix1
+20144	deimos_mount_regal_1	
+20145	deimos_mount_regal_2	
+34901	pet_royalguard_01	
+34902	pet_royalguard_02	
+34998	threewolf_pet
+34999	threewolf_pet
+35000	threewolf_pet
+20148	halloween_2021_ninetail_1
+20149	halloween_2021_ninetail_2
+34903	draiken_slade
+34904	draiken_slade_1
+34905	plechi_darkcult_pet
+20153	plechi_darkcult_mount
+20154	plechi_ice_cerberos
+20155	plechi_lava_cerberos
+20156	plechi_shadow_lion
+20157	plechi_demonic_beast
+20158	plechi_wild_mount02
+20159	plechi_frosty_wolf
+53257	plechi_lady_npc6
+53001	phoenix1
+53258	dt_vaslui
+34906	emperor_pet
+20160	pewi_mount_horse
+

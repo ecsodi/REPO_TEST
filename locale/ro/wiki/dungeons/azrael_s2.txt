@@ -1,0 +1,51 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/azrael.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 75 - 105
+*Entrance Ticket: Shrunken Head (not for the entrance but for the 3rd floor)
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/30319.tga; Y=15; X=482]
+
+
+[X_PADDING=463]Shrunken Head
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Devil's Catacomb has a 2 hours cooldown.
+*The Devil's Catacomb can be entered with or without a group.
+*The Devil's Catacomb has a time limit of 60 minutes.
+*Every Player needs a Shrunken Head.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 1
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=175; X=490]
+[IMG=d:/ymir work/ui/wiki/30311.tga; Y=181; X=496]
+
+[X_PADDING=20]Kill monster until you drop a Soul Crystal Key.
+[X_PADDING=20]Drag and Drop the Soul Crystal Key at the end of the Level on Kud Statue.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 2
+
+[X_PADDING=20]Fight your way through the Gate of Perdition until you reach the Tortoise Rock in the end of the floor.
+[X_PADDING=20]Click on the Tortoise Rock.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 3
+
+[X_PADDING=20]In this floor you find 7 Metin of Retaliation, destroy the correct one.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 4
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=355; X=490]
+[IMG=d:/ymir work/ui/wiki/30312.tga; Y=361; X=496]
+
+[X_PADDING=20]Find and kill Tartaros, he is in one of the rooms beneath the mountain.
+[X_PADDING=20]Drag and Drop the Grimace Totem at the top of the mountain on Basalt Obelisk.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 5
+
+[X_PADDING=20]Kill all monster and Charon
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 6
+
+[X_PADDING=20]Kill Azrael
+[IMG=d:/ymir work/ui/wiki/Azrael.tga; Y=430; X=382]
+

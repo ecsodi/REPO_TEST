@@ -1,0 +1,73 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/basicguide.tga]
+[CENTER_ALIGN;FONT_SIZE=30]The basic Guide
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=30; CENTER_ALIGN]
+
+[CENTER_ALIGN]Here you can find the most important hotkeys!
+
+
+[X_PADDING=135;FONT_SIZE=15]* Open the Uppitem storage
+
+[X_PADDING=135;FONT_SIZE=15]* Open the Dragon Stone Alchemy
+
+[X_PADDING=135;FONT_SIZE=15]* Clears the itemname field in the Shopsearch
+
+[X_PADDING=135;FONT_SIZE=15]* Completes the itemname in the Shopsearch
+
+[X_PADDING=135;FONT_SIZE=15]* Open the Quest Timer
+
+[X_PADDING=135;FONT_SIZE=15]* Opens the Switchbot
+
+[X_PADDING=135;FONT_SIZE=15]* Open the Camera Tool
+
+[X_PADDING=135;FONT_SIZE=15]* To mount and unmount your mount
+
+[X_PADDING=135;FONT_SIZE=15]* To mount and unmount your mount
+
+[X_PADDING=135;FONT_SIZE=15]* Activate and deactivates the first Dragon Stone Alchemy page
+
+[X_PADDING=135;FONT_SIZE=15]* Activate and deactivates the second Dragon Stone Alchemy page
+
+[X_PADDING=135;FONT_SIZE=15]* Reloads the environment
+
+[X_PADDING=135;FONT_SIZE=15]* Open X pieces of the selected Chest
+
+[X_PADDING=135;FONT_SIZE=15]* Sets 10 Statuspoints at once
+
+[X_PADDING=135;FONT_SIZE=15]* Moves the Item faster into Storage, Tradewindow and Shop
+
+[X_PADDING=135;FONT_SIZE=15]* Sells all marked Items to a Shop
+
+[X_PADDING=135;FONT_SIZE=15]* Searchs immediately for the selected item
+
+
+[IMG=d:/ymir work/ui/wiki/emoji/u.tga; Y=70; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/o.tga; Y=97; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/esc.tga; Y=125; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/tab.tga; Y=150; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f6.tga; Y=178; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f7.tga; Y=205; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f10.tga; Y=232; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=259; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/g.tga; Y=259; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=287; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/h.tga; Y=287; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=313; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/o.tga; Y=313; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=341; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/p.tga; Y=341; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=368; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f5.tga; Y=368; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=368; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f5.tga; Y=368; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=395; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/mouse_right.tga; Y=392; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=420; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/mouse_left.tga; Y=420; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=449; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/mouse_left.tga; Y=448; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=476; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/mouse_left.tga; Y=476; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=504; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/shift.tga; Y=504; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/mouse_right.tga; Y=503; X=110]

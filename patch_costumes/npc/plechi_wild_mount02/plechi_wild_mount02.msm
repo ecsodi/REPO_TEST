@@ -1,0 +1,225 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\Ymir Work\npc\plechi_wild_mount02\plechi_wild_mount02.GR2"
+
+Group ShapeData
+{
+	PathName 		 "D:\Ymir Work\npc\plechi_wild_mount02\"
+	ShapeDataCount 		 1
+	Group ShapeData00
+	{
+		ShapeIndex			0
+		Model				"plechi_wild_mount02.gr2"
+		SourceSkin			"plechito_tex.dds"
+		TargetSkin			"plechito_tex.dds"
+	}
+}
+
+Group AttachingData
+{
+    AttachingDataCount       16
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          0
+        AttachingModelIndex  0
+        AttachingBoneName    "horse_bip01"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           100.000000
+            Position         0.000000 0.000000 100.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          0
+        AttachingModelIndex  0
+        AttachingBoneName    "horse_bip01"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           110.000000
+            Position         0.000000 0.000000 100.000000
+        }
+    }
+    Group AttachingData02
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-L-Finger11"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData03
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-R-Finger11"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData04
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-L-Hand"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData05
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-R-Hand"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData06
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-R-Toe11"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData07
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-R-Foot"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData08
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-L-Toe11"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData09
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-L-Foot"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData10
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-Shoulder_R06"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\wing_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData11
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-Shoulder_L04"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\wing_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData12
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-Shoulder_L05"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\wing_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData13
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-Shoulder_L06"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\wing_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData14
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-Shoulder_R04"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\wing_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    Group AttachingData15
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-Shoulder_R05"
+        
+        EffectScriptName     "D:\Ymir Work\npc\plechi_wild_mount02\wing_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+}

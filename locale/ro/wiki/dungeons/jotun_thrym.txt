@@ -1,0 +1,24 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/jotun.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 105
+*Entrance Ticket: Stone of the Dryads
+[RIGHT_ALIGN]Stone of the Dryads
+[IMG=d:/ymir work/ui/wiki/30613.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Jotun Thrym dungeon has 180 minutes cooldown.
+*The dungeon can be entered with or without a group.
+*Mounts cannot be used.
+*Jotun Thrym can drop 5 - 10 Jotun Thrym Chests.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Phases:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1
+
+[X_PADDING=20]Kill Bagjanamu.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase2
+
+[X_PADDING=20]Kill Jotun Thrym.

@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/apedungeon.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 35 - 60
+*Entrance Ticket: Herb of Monkey
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/31064.tga; Y=15; X=482]
+
+
+[X_PADDING=467]Herb of Monkey
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Ape Hideout has a 1 hour cooldown.
+*The Ape Hideout can be entered with or without a group.
+*The Ape Hideout has a time limit of 60 minutes.
+*Every Player needs a Herb of Normal Monkeys.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=148; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1
+
+[X_PADDING=20]Destroy all 6 Metinstones in the room.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 2
+
+[X_PADDING=20]Defeat the Ape Lord and his comrades
+[IMG=d:/ymir work/ui/wiki/Affen-Lord.tga; Y=160; X=320]

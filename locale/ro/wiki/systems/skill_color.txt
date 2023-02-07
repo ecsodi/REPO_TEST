@@ -1,0 +1,51 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/skilcolor.tga]
+[CENTER_ALIGN]The Skill Color System introduces more individuality for your skills. 
+[CENTER_ALIGN]Customize all of them with special colors...
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. The mission 'Customize yourself?'.
+*2. How to customize all of your skills.
+*3. Customizable fields & Cool Combinations.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. The mission 'Customize yourself?
+
+Description: Go to the Gaya Merchant.
+Mission: Destroy 250 Metinstones over 85Lv.
+Reward: You have permission to change the color palette for a specific skill.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How to customize all of your skills.
+
+Using a Dye you can select 1 skill to fully customize (including Buffi skills). When you have the color palette unlocked, 
+right click it and select all the colors you like for your skill.
+Anytime you want, you can reset the skills to their standard color by clicking the 'Standard' button.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=295; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Customizable fields & Cool Combinations.
+
+A skill constists of the combination of many fields. For the purpose of individuality, we have divided 
+each skill to 5 different fields that you can customize and get a total of 100% customizable skill.
+If you change 1 out of 5 fields, it doesn't mean your skill will be 100% the color you picked. 
+Only a part of it will be, so get started playing with the colors...
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=410; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Cool Combinations.
+
+[X_PADDING=20]*0% Red + 0% Green + 0% Blue = Black.
+[X_PADDING=20]*100% Red + 100% Green + 100% Blue = White.
+[X_PADDING=20]*100% Red + 100% Green + 0% Blue = Yellow.
+[X_PADDING=20]*100% Red + 0% Green + 100% Blue = Purple.
+[X_PADDING=20]*0% Red + 100% Green + 100% Blue = Light Blue.
+[X_PADDING=20]*50% Red + 50% Green + 50% Blue = Grey.
+
+[X_PADDING=20]And so on... Keep on recoloring!
+
+

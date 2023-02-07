@@ -1,0 +1,5 @@
+ScriptType               MotionData
+
+MotionFileName           "D:\ymir work\npc\plechi_shadow_lion\walk.GR2"
+MotionDuration           1.333333
+Accumulation             0.00	-285.51	0.00

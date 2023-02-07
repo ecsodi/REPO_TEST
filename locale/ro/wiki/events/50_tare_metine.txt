@@ -1,0 +1,14 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners2/50_tare_metine.png]
+[CENTER_ALIGN;FONT_SIZE=18]Bonus 50% Tare Metine
+
+[COLOR=0xffd700;FONT_SIZE=15]Conþinut:
+*1. Informaþii despre eveniment
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=85; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informaþii despre eveniment
+
+Acest eveniment va fi activ în fiecare Sâmbãtã de la 20:00 pânã la 22:00.
+Acest eveniment vã oferã un bonus de 50% tare împotriva metinelor.
+
+

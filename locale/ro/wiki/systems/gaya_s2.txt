@@ -1,0 +1,40 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/gaya.tga]
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information.
+*2. How can I get Gaya?
+*3. What can I buy with Gaya?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=80; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Information.
+
+You can see your actual Gaya balance left to your Yang balance.
+Gaya can be traded with a Gaya Voucher from the Gaya Market.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=165; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How can I get Gaya?
+
+Gaya can be crafted at the Gaya Merchant with 10 Gemstones, 500.000 Yang an 1 Stone +0 - 3.
+There is the option to craft 10 Gaya at one time, for this you need 100 Gemstones, 5.000.000 Yang an 10 Stones +0 - 3.
+To craft Gaya is always 100% and can't fail.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=260; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 How can I get Gemstones?
+
+Gemstones can be obtained from most of the bosses and boss chests, also from events.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=330; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. What can I buy with Gaya?
+
+With Gaya you can buy some valuable items at the Gaya Market which always have 12 items.
+
+
+
+

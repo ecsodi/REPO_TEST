@@ -1,0 +1,41 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/beransetoul.tga]
+[COLOR=0xffd700;FONT_SIZE=15]General:
+*Wymagany poziom: 75 - 115
+*Odstęp: 1 godzina 30minut
+*Czas: 1 godzina
+*Bonus: -
+*Element: Pioruny
+*Przepustka: Zakręcony klucz
+[X_PADDING=20]*Pochodzenie: Maester Aemon
+[X_PADDING=425;Y_PADDING=-100;FONT_SIZE=15;COLOR=0xffd700;]Twisted Key
+[IMG=d:/ymir work/ui/wiki/pictures/30179.tga; Y=17; X=444]
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=108; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+[COLOR=0xffd700;FONT_SIZE=15;CENTER_ALIGN]Dungeon Stages:
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 1
+[X_PADDING=20]Zabij 4x Metin Zemsty.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 2
+[X_PADDING=20]Zabij 150 potworów.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 3
+[X_PADDING=20]Pojawi się General Huashin lub General Yonghan.
+[X_PADDING=20]Zabij go.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 4
+[X_PADDING=20]Zabij 4x Metin Zemsty.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 5
+[X_PADDING=20]Zabij Berana Setaou.
+
+[IMG=d:/ymir work/ui/wiki/pictures/Beran Setaou.tga; Y=185; X=325]

@@ -1,0 +1,62 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/banner_weapons.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 110
+*Entrance Ticket: Passageticket+
+[RIGHT_ALIGN]Passageticket+
+[IMG=d:/ymir work/ui/wiki/93264.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*You only have 45 minutes to finish the dungeon!
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Phases:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1
+
+[X_PADDING=20]Defeat all the monsters and then destroy the Metinstone.
+[X_PADDING=20]Drag the Poison to the Barrel.
+[X_PADDING=20]Then open the gate with the key.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 2
+
+[X_PADDING=20]Destroy the 4 Metinstones and then the monster wave.
+[X_PADDING=20]Finally, destroy the plant and open the gate with the key.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 3
+
+[X_PADDING=20]The goal of this level is to destroy all the barrels.
+[X_PADDING=20]Defeat all the monsters and then the metinstone.
+[X_PADDING=20]Drag the Lymph Stone that you dropped to the Enchanted Fountain.
+[X_PADDING=20]Then destroy the metinstones again and drag the Lymph Stone
+[X_PADDING=20]back to the Enchanted Fountain in the end of the floor.
+[X_PADDING=20]Defeat all the monsters and then the Metinstone.
+[X_PADDING=20]Drag the dropped Lymph Stone to the Fountain and then
+[X_PADDING=20]defeat the 2 Plants.
+[X_PADDING=20]Drag the Lymph Stone back to the Fountain and then 
+[X_PADDING=20]defeat the Bush Plants.
+[X_PADDING=20]Lastly, drag the dropped Lymph Stone to the last Fountain
+[X_PADDING=20]and open the gate with the key.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 4
+
+[X_PADDING=20]Destroy the 4 Metinstones and then the monster wave.
+[X_PADDING=20]Then repeat, destroying all metinstones and the new monster wave.
+[X_PADDING=20]Lastly, defeat Raguwan and open the gate with the dropped key.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 5
+
+[X_PADDING=20]Click on the Poisoned Botani in the beginning of the floor.
+[X_PADDING=20]Then, defeat all the monsters and both Bush Plants.
+[X_PADDING=20]Drag and drop the Garden Water that you received to the Poisoned Botani.
+[X_PADDING=20]Now, search for mushrooms, click them and bring the Mushroom back to the Poisoned Botani.
+[X_PADDING=20]Lastly, open the gate with the key.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 6
+
+[X_PADDING=20]Defeat all the monsters and then the metinstones until you get the Evil Garden Fire.
+[X_PADDING=20]Pick it up and place it in the Honey Hive. 
+[X_PADDING=20]Defeat the Infected Bees now.
+[X_PADDING=20]Repeat until you destroy all the Honey Hives the same way.
+[X_PADDING=20]Defeat both Raguwans and then the final boss.

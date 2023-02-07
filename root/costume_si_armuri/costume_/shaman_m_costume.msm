@@ -1,0 +1,530 @@
+Group CrownData
+{
+	PathName	"d:/ymir work/item/accesorii/"
+
+	CrownDataCount 			999
+	Group CrownData00
+	{
+		CrownIndex			1
+		Model				"masca_1/masca_1_shaman_m.gr2"
+		SourceSkin			"masca_1/textura_masca1.dds"
+		TargetSkin			"masca_1/textura_masca1.dds"
+	}
+	Group CrownData01
+	{
+		CrownIndex			2
+		Model				"masca_1/masca_1_shaman_m.gr2"
+		SourceSkin			"masca_1/textura_masca1.dds"
+		TargetSkin			"masca_1/masca_albastra.dds"
+	}
+	Group CrownData02
+	{
+		CrownIndex			3
+		Model				"masca_1/masca_1_shaman_m.gr2"
+		SourceSkin			"masca_1/textura_masca1.dds"
+		TargetSkin			"masca_1/masca_rosie.dds"
+	}
+	Group CrownData03
+	{
+		CrownIndex			4
+		Model				"masca_1/masca_1_shaman_m.gr2"
+		SourceSkin			"masca_1/textura_masca1.dds"
+		TargetSkin			"masca_1/masca_verde.dds"
+	}
+	Group CrownData04
+	{
+		CrownIndex			5
+		Model				"masca_2/masca_2_shaman_m.gr2"
+		SourceSkin			"masca_2/textura_masca2.dds"
+		TargetSkin			"masca_2/textura_masca2.dds"
+	}
+	Group CrownData05
+	{
+		CrownIndex			6
+		Model				"masca_2/masca_2_shaman_m.gr2"
+		SourceSkin			"masca_2/textura_masca2.dds"
+		TargetSkin			"masca_2/textura_masca2_albastra.dds"
+	}
+	Group CrownData06
+	{
+		CrownIndex			7
+		Model				"masca_2/masca_2_shaman_m.gr2"
+		SourceSkin			"masca_2/textura_masca2.dds"
+		TargetSkin			"masca_2/textura_masca2_rosie.dds"
+	}
+	Group CrownData07
+	{
+		CrownIndex			8
+		Model				"masca_2/masca_2_shaman_m.gr2"
+		SourceSkin			"masca_2/textura_masca2.dds"
+		TargetSkin			"masca_2/textura_masca2_verde.dds"
+	}
+	Group CrownData08
+	{
+		CrownIndex			9
+		Model				"masca_3/masca_3_shaman_m.gr2"
+		SourceSkin			"masca_3/textura_masca3.dds"
+		TargetSkin			"masca_3/textura_masca3.dds"
+	}
+	Group CrownData09
+	{
+		CrownIndex			10
+		Model				"masca_3/masca_3_shaman_m.gr2"
+		SourceSkin			"masca_3/textura_masca3.dds"
+		TargetSkin			"masca_3/textura_masca3_albastru.dds"
+	}
+	Group CrownData10
+	{
+		CrownIndex			11
+		Model				"masca_3/masca_3_shaman_m.gr2"
+		SourceSkin			"masca_3/textura_masca3.dds"
+		TargetSkin			"masca_3/textura_masca3_rosu.dds"
+	}
+	Group CrownData11
+	{
+		CrownIndex			12
+		Model				"masca_3/masca_3_shaman_m.gr2"
+		SourceSkin			"masca_3/textura_masca3.dds"
+		TargetSkin			"masca_3/textura_masca3_verde.dds"
+	}
+	Group CrownData12
+	{
+		CrownIndex			13
+		Model				"masca_4/masca_4_shaman_m.gr2"
+		SourceSkin			"masca_4/textura_masca_4.dds"
+		TargetSkin			"masca_4/textura_masca_4.dds"
+	}
+	Group CrownData13
+	{
+		CrownIndex			14
+		Model				"masca_5/masca_5_saman_m.gr2"
+		SourceSkin			"masca_5/textura_masca_5_m.dds"
+		TargetSkin			"masca_5/textura_masca_5_m.dds"
+	}
+}
+
+Group HairData
+{
+	PathName	"d:/ymir Work/pc2/shaman/"
+
+	HairDataCount 			999
+	Group HairData00
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/costum_incepator_deimos/"
+		HairIndex			43002
+		Model				"hair/deimos_shaman_m.gr2"
+		SourceSkin			"hair/deimos_textura_par_m_coroana.dds"
+		TargetSkin			"hair/deimos_textura_par_m_coroana.dds"
+	}
+	Group HairData01
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/costum_razador_nemere/"
+		HairIndex			43006
+		Model				"hair/deimos_saman_m.gr2"
+		SourceSkin			"hair/deimos_frizura_razador.dds"
+		TargetSkin			"hair/deimos_frizura_razador.dds"
+	}
+	Group HairData02
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/costum_razador_nemere/"
+		HairIndex			43010
+		Model				"hair/deimos_saman_m.gr2"
+		SourceSkin			"hair/deimos_frizura_razador.dds"
+		TargetSkin			"hair/deimos_frizura_nemere.dds"
+	}
+	Group HairData03
+	{
+		SpecialPath		"d:/ymir work/pc2/shaman/"
+		HairIndex			43014
+		Model				"hair/hair_33_1.gr2"
+		SourceSkin			"hair/hair_33_1.dds"
+		TargetSkin			"hair/hair_33_1.dds"
+	}
+	Group HairData04
+	{
+		HairIndex			43018
+		Model				"hair/hair_77_1.gr2"
+		SourceSkin			"hair/hair_77_1.dds"
+		TargetSkin			"hair/hair_77_1.dds"
+	}
+	Group HairData05
+	{
+		HairIndex			43022
+		Model				"hair/deimos_frizura_emperor.gr2"
+		SourceSkin			"hair/deimos_frizura_emperor.dds"
+		TargetSkin			"hair/deimos_frizura_emperor.dds"
+	}
+	Group HairData06
+	{
+		HairIndex			43026
+		Model				"hair/frizura_deimos_pvm.gr2"
+		SourceSkin			"hair/frizura_deimos_pvm_1.dds"
+		TargetSkin			"hair/frizura_deimos_pvm_1.dds"
+	}
+	Group HairData07
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/dark_cult_costume/"
+		HairIndex			43050
+		Model				"hair/shaman_m.gr2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m.dds"
+	}
+	Group HairData08
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/costum_incepator_deimos/"
+		HairIndex			43030
+		Model				"hair/deimos_shaman_m_negru.gr2"
+		SourceSkin			"hair/deimos_textura_par_m_coroana.dds"
+		TargetSkin			"hair/deimos_textura_par_m_coroana.dds"
+		SourceSkin2			"hair/deimos_textura_par_m.dds"
+		TargetSkin2			"hair/deimos_textura_par_m_negru.dds"
+	}
+	Group HairData09
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/royal_guard_deimos/"
+		HairIndex			43034
+		Model				"hair/deimos_shaman_m.gr2"
+		SourceSkin			"hair/royal_guard_m_original.dds"
+		TargetSkin			"hair/royal_guard_m_original.dds"
+	}
+	Group HairData10
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/royal_guard_deimos/"
+		HairIndex			43038
+		Model				"hair/deimos_shaman_m.gr2"
+		SourceSkin			"hair/royal_guard_m_original.dds"
+		TargetSkin			"hair/royal_guard_m_mov.dds"
+	}
+	Group HairData11
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/demonic_costumes/"
+		HairIndex			43042
+		Model				"hair/shaman_m.gr2"
+		SourceSkin			"hair/plechito_tex_m.dds"
+		TargetSkin			"hair/plechito_tex_m.dds"
+	}
+	Group HairData12
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/valentine2022_1/"
+		HairIndex			43046
+		Model				"hair/shaman_m.gr2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m.dds"
+	}
+	Group HairData13
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/valentine2022_1/"
+		HairIndex			43054
+		Model				"hair/shaman_m.gr2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m_albastru.dds"
+	}
+	Group HairData14
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/valentine2022_1/"
+		HairIndex			43058
+		Model				"hair/shaman_m.gr2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m_rosu.dds"
+	}
+	Group HairData15
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/valentine2022_1/"
+		HairIndex			43062
+		Model				"hair/shaman_m.gr2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m_verde.dds"
+	}
+	Group HairData16
+	{
+		SpecialPath		"d:/ymir work/pc2/shaman/"
+		HairIndex			43066
+		Model				"hair/hair_80_1.gr2"
+		SourceSkin			"hair/hair_80_1.dds"
+		TargetSkin			"hair/hair_80_1.dds"
+	}
+	Group HairData17
+	{
+		HairIndex			43070
+		Model				"hair/hair_80_1.gr2"
+		SourceSkin			"hair/hair_80_1.dds"
+		TargetSkin			"hair/hair_80_2.dds"
+	}
+	Group HairData18
+	{
+		HairIndex			43074
+		Model				"hair/hair_80_1.gr2"
+		SourceSkin			"hair/hair_80_1.dds"
+		TargetSkin			"hair/hair_80_3.dds"
+	}
+	Group HairData19
+	{
+		HairIndex			43078
+		Model				"hair/hair_80_1.gr2"
+		SourceSkin			"hair/hair_80_1.dds"
+		TargetSkin			"hair/hair_80_4.dds"
+	}
+	Group HairData20
+	{
+		HairIndex			43082
+		Model				"hair/hair_80_1.gr2"
+		SourceSkin			"hair/hair_80_1.dds"
+		TargetSkin			"hair/hair_80_5.dds"
+	}
+	Group HairData21
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/easter2022_2/"
+		HairIndex			43086
+		Model				"hair/shaman_m.gr2"
+		SourceSkin			"hair/plechito_tex_m.dds"
+		TargetSkin			"hair/plechito_tex_m.dds"
+	}
+}
+
+Group ShapeData
+{
+	PathName	"d:/ymir Work/pc2/shaman/"
+
+	ShapeDataCount				999
+
+	Group ShapeData00
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/costum_incepator_deimos/"
+		ShapeIndex			43000
+		Model				"deimos_shaman_m.GR2"
+		SourceSkin			"deimos_textura_capa_m.dds"
+		TargetSkin			"deimos_textura_capa_m.dds"
+		SourceSkin2			"deimos_textura_corp_m.dds"
+		TargetSkin2			"deimos_textura_corp_m.dds"
+		SourceSkin3			"deimos.dds"
+		TargetSkin3			"deimos.dds"
+	}
+	Group ShapeData01
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/costum_razador_nemere/"
+		ShapeIndex			43004
+		Model				"deimos_shaman_m.GR2"
+		SourceSkin			"deimos_costum_razador.dds"
+		TargetSkin			"deimos_costum_razador.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData02
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/costum_razador_nemere/"
+		ShapeIndex			43008
+		Model				"deimos_shaman_m.GR2"
+		SourceSkin			"deimos_costum_razador.dds"
+		TargetSkin			"deimos_costum_nemere.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData03
+	{
+		SpecialPath			"d:/ymir work/pc2/shaman/"
+		ShapeIndex			43012
+		Model				"deimos_costum_azrael.GR2"
+		SourceSkin			"deimos_costum_azrael.dds"
+		TargetSkin			"deimos_costum_azrael.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData04
+	{
+		ShapeIndex			43016
+		Model				"deimos_costum_beran.GR2"
+		SourceSkin			"deimos_costum_beran.dds"
+		TargetSkin			"deimos_costum_beran.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData05
+	{
+		ShapeIndex			43020
+		Model				"deimos_costum_emperor.GR2"
+		SourceSkin			"deimos_costum_emperor.dds"
+		TargetSkin			"deimos_costum_emperor.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData06
+	{
+		ShapeIndex			43024
+		Model				"deimos_costum_pvm.GR2"
+		SourceSkin			"costum_deimos_pvm.dds"
+		TargetSkin			"costum_deimos_pvm.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData07
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/dark_cult_costume/"
+		ShapeIndex			43048
+		Model				"shaman_m.GR2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m.dds"
+	}
+	Group ShapeData08
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/costum_incepator_deimos/"
+		ShapeIndex			43028
+		Model				"deimos_shaman_m.GR2"
+		SourceSkin			"deimos_textura_capa_m.dds"
+		TargetSkin			"deimos_textura_capa_m_negru.dds"
+		SourceSkin2			"deimos_textura_corp_m.dds"
+		TargetSkin2			"deimos_textura_corp_m_negru.dds"
+		SourceSkin3			"deimos.dds"
+		TargetSkin3			"deimos.dds"
+	}
+	Group ShapeData09
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/royal_guard_deimos/"
+		ShapeIndex			43032
+		Model				"deimos_shaman_m.GR2"
+		SourceSkin			"royal_guard_m_original.dds"
+		TargetSkin			"royal_guard_m_original.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData10
+	{
+		SpecialPath		"d:/ymir work/seturi_costume_deimos/royal_guard_deimos/"
+		ShapeIndex			43036
+		Model				"deimos_shaman_m.GR2"
+		SourceSkin			"royal_guard_m_original.dds"
+		TargetSkin			"royal_guard_m_mov.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData11
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/demonic_costumes/"
+		ShapeIndex			43040
+		Model				"shaman_m.GR2"
+		SourceSkin			"plechito_tex_m_sh.dds"
+		TargetSkin			"plechito_tex_m_sh.dds"
+	}
+	Group ShapeData12
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/valentine2022_1/"
+		ShapeIndex			43044
+		Model				"shaman_m.GR2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m.dds"
+	}
+	Group ShapeData13
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/valentine2022_1/"
+		ShapeIndex			43052
+		Model				"shaman_m.GR2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m_albastru.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData14
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/valentine2022_1/"
+		ShapeIndex			43056
+		Model				"shaman_m.GR2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m_rosu.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData15
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/valentine2022_1/"
+		ShapeIndex			43060
+		Model				"shaman_m.GR2"
+		SourceSkin			"plechito_tex_m.dds"
+		TargetSkin			"plechito_tex_m_verde.dds"
+		SourceSkin2			"deimos.dds"
+		TargetSkin2			"deimos.dds"
+	}
+	Group ShapeData16
+	{
+		SpecialPath		"d:/ymir work/pc2/shaman/"
+		ShapeIndex			43064
+		Model				"shaman_ramadan_2022.GR2"
+		SourceSkin			"shaman_ramadan_2022_1.dds"
+		TargetSkin			"shaman_ramadan_2022_1.dds"
+	}
+	Group ShapeData17
+	{
+		ShapeIndex			43068
+		Model				"shaman_ramadan_2022.GR2"
+		SourceSkin			"shaman_ramadan_2022_1.dds"
+		TargetSkin			"shaman_ramadan_2022_2.dds"
+	}
+	Group ShapeData18
+	{
+		ShapeIndex			43072
+		Model				"shaman_ramadan_2022.GR2"
+		SourceSkin			"shaman_ramadan_2022_1.dds"
+		TargetSkin			"shaman_ramadan_2022_3.dds"
+	}
+	Group ShapeData19
+	{
+		ShapeIndex			43076
+		Model				"shaman_ramadan_2022.GR2"
+		SourceSkin			"shaman_ramadan_2022_1.dds"
+		TargetSkin			"shaman_ramadan_2022_4.dds"
+	}
+	Group ShapeData20
+	{
+		ShapeIndex			43080
+		Model				"shaman_ramadan_2022.GR2"
+		SourceSkin			"shaman_ramadan_2022_1.dds"
+		TargetSkin			"shaman_ramadan_2022_5.dds"
+	}
+	Group ShapeData21
+	{
+		SpecialPath		"d:/ymir work/pc/plechito/easter2022_2/"
+		ShapeIndex			43084
+		Model				"shaman_m.GR2"
+		SourceSkin			"plechito_tex_m_su.dds"
+		TargetSkin			"plechito_tex_m_su.dds"
+	}
+}
+
+Group AttachingData
+{
+    AttachingDataCount       2
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          0
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           40.000000
+            Position         0.000000 0.000000 90.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          0
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           70.000000
+            Position         0.000000 0.000000 90.000000
+        }
+    }
+}

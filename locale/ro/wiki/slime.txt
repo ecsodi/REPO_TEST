@@ -1,0 +1,42 @@
+
+[BANNER_IMG =  d:/ymir work/ui/wiki/banners/slimedungeon.tga]
+[COLOR=0xffd700;FONT_SIZE=15]General:
+*Wymagany poziom: 50 - 75
+*Odstęp: 1 godzina
+*Czas: 1 godzina
+*Bonus: Zwierzęta
+*Element: Ziemia
+*Przepustka: Slime Menhir
+[X_PADDING=20]*Pochodzenie: Maester Aemon
+[X_PADDING=425;Y_PADDING=-100;FONT_SIZE=15;COLOR=0xffd700;]Slime Menhir
+[IMG=d:/ymir work/ui/wiki/pictures/30723.tga; Y=17; X=446]
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=108; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+[COLOR=0xffd700;FONT_SIZE=15;CENTER_ALIGN]Dungeon Stages:
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 1
+[X_PADDING=20]Zniszcz metiny.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 2
+[X_PADDING=20]Zabij wszystkie potwory.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 3
+[X_PADDING=20]Idz do kolumny.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 4
+[X_PADDING=20]Zniszcz wszystkie metiny.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 5
+[X_PADDING=20]Napełnij wiaderko śluzem i idz do kolumny.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 6
+[X_PADDING=20]Zabij Slime Queen.
+

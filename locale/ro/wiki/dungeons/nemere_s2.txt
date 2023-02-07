@@ -1,0 +1,83 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/nemere.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 100 - 105
+*Entrance Ticket: Passageticket
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/71095.tga; Y=15; X=482]
+
+
+[X_PADDING=469]Passageticket
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Nemere's Watchtower has a 3 hours cooldown.
+*The Nemere's Watchtower can be entered with or without a group.
+*The Nemere's Watchtower has a time limit of 60 minutes.
+*Every Player needs a Passageticket.
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=150; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Level 1
+
+[X_PADDING=20]Kill all monster.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 2
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=240; X=490]
+[IMG=d:/ymir work/ui/wiki/30331.tga; Y=246; X=496]
+
+[X_PADDING=20]Kill monster until you drop Frost Key.
+[X_PADDING=20]Activate the correct Frost Key.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 3
+
+[X_PADDING=20]Kill all monster.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 4
+
+[X_PADDING=20]Kill all monster.
+[X_PADDING=20]There you have to kill 2 waves of monster.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 5
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=460; X=490]
+[IMG=d:/ymir work/ui/wiki/30332.tga; Y=466; X=497]
+
+[X_PADDING=20]Kill monster until you drop North Stars.
+[X_PADDING=20]Drag and Drop the North Stars on the Arctic Cubes until all are gone.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 6
+
+[X_PADDING=20]Kill all monster.
+[X_PADDING=20]Kill Metin of Cold.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 7
+
+[X_PADDING=20]Kill the correct Szel.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 8
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=680; X=490]
+[IMG=d:/ymir work/ui/wiki/30333.tga; Y=686; X=496]
+
+[X_PADDING=20]Kill monster until you drop Frostflower Key.
+[X_PADDING=20]Activate the correct Frostflower Key.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 9
+
+[X_PADDING=20]Kill the North Dragon Pillar.
+[X_PADDING=20]Click on the Ice Lion.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 10
+
+[X_PADDING=20]Kill Nemere.
+[IMG=d:/ymir work/ui/wiki/Nemere.tga; Y=750; X=402]
+
+
+

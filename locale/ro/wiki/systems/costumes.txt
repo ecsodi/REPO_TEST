@@ -1,0 +1,111 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costumes.tga]
+[CENTER_ALIGN]A Costume is a valueable piece of equipment to decorate yourself with some useful bonuses on it. 
+[CENTER_ALIGN]The costume is equipped in the costume system tab, which opens with the costume system button
+[CENTER_ALIGN]on the player's inventory.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Informations
+*2. Armor Costume Bonuses
+*3. Weapon Costume Bonuses
+*4. Hairstyle Costume Bonuses
+*5. Mount Costumes
+*6. How to transfer the bonuses of a Costume
+*7. How to remove the bonuses of a Costume
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Informations
+
+A costume can have a maximum of 5 bonuses. Up to the 3rd bonus, they are added using the 
+Reinforce Weapon Costume(), Reinforce Armor Costume() & Reinforce Hairstyle ().
+
+The 4h and 5th bonuses are added using the 
+Reinforce Weapon Costume+ (), Reinforce Armor Costume+ (), Reinforce Hairstyle+ ().
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=280; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Armor Costume Bonuses
+
+*Max. HP: 2000, 2500, 3000
+*Sword Defense: 10%
+*Two-Handed Defense: 10%
+*Dagger Defense: 10%
+*Arrow Resistance: 10%
+*Bell Defense: 10%
+*Fan Defense: 10%
+*Magic Resistance: 10%
+*Chance to block close-combat hits: 10%
+*Chance to avoid Arrows: 10 %
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=460; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Weapon Costume Bonuses
+
+*Vitality: +12
+*Intelligence: +12
+*Strength: +12
+*Dexterity: +12
+*Strong against Half Human: 10%
+*Chance of Critical Hit: 10%
+*Chance of Piercing Hit: 10%
+*Strong against Animals: 20 %
+*Strong against Orcs: 20 %
+*Strong against Mystic: 20 %
+*Strong against Devils: 20 %
+*Strong against Undead: 20 %
+*Strong against Bosses: 10,15,20 %
+*Strong against Monsters: 10,15,20 %
+*Strong against Metinstones: 10,15,20 %
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=710; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Hairstyle Costume Bonuses
+
+*Max. HP: 1500
+*Strong against Half Human: 5%
+*Strong against Animals: 10 %
+*Strong against Orcs: 10 %
+*Strong against Mystic: 10 %
+*Strong against Devils: 10 %
+*Strong against Undead: 10 %
+*Fracture of Sword Defense: 5%
+*Fracture of Two-Handed Defense: 5%
+*Fracture of Dagger Defense: 5%
+*Fracture of Arrow Resistance: 5%
+*Fracture of Bell Defense: 5%
+*Fracture of Fan Defense: 5%
+*Poison Resistance: 10%
+*Strong against Bosses: 10,15,20 %
+*Strong against Monsters: 10,15,20 %
+*Strong against Metinstones: 10,15,20 %
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=980; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Mount Costumes
+
+Mount Costumes do not have bonuses but they offer a nice look on your mount. 
+Also, some costumes offer a significant movement speed boost.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1080; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. How to transfer the bonuses of a Costume.
+
+You can transfer the bonuses of a Costume to another using a 'Costume Bonus Transfer' at Theowahdan. 
+The costume in the left slot will be emptied and the bonuses will be transfered to the costume in the right slot.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1165; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]7. How to remove the bonuses of a Costume.
+
+You can remove the bonuses of a Costume using a 'Remove Costume Bonus'. This item will allow you to select 1 of the 
+existing bonuses and remove it from the costume. You dont get the bonus back!
+
+
+

@@ -1,0 +1,122 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\ymir work\npc\plechi_shadow_lion\plechi_shadow_lion.GR2"
+
+Group ShapeData
+{
+	PathName 		 "D:\ymir work\npc\plechi_shadow_lion\"
+	ShapeDataCount 		 1
+	Group ShapeData00
+	{
+		ShapeIndex			0
+		Model				"plechi_shadow_lion.gr2"
+		SourceSkin			"plechito_tex.dds"
+		TargetSkin			"plechito_tex.dds"
+	}
+}
+Group AttachingData
+{
+    AttachingDataCount       7
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-Spine1"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           60.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-Spine1"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           70.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData02
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-L-Hand"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_shadow_lion\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData03
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-R-Hand"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_shadow_lion\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData04
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-L-Foot"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_shadow_lion\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData05
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01-R-Foot"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_shadow_lion\foot_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+    
+    Group AttachingData06
+    {
+        AttachingDataType    2
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Effect_armor005"
+        
+        EffectScriptName     "D:\ymir work\npc\plechi_shadow_lion\honr_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+        EffectRotation       0.000000 0.000000 0.000000
+    }
+}
+

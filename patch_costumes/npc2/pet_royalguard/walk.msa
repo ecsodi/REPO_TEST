@@ -1,0 +1,5 @@
+ScriptType               MotionData
+
+MotionFileName           "d:/ymir work/npc2/pet_royalguard/walk.GR2"
+MotionDuration           1.066667
+Accumulation             0.00	-340.00	0.00

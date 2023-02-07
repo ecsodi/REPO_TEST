@@ -1,0 +1,64 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\ymir work\npc\plechi_cursed_mage\plechi_cursed_mage.GR2"
+
+Group ShapeData
+{
+	PathName 		 "d:/ymir work/npc/plechi_cursed_mage/"
+	ShapeDataCount 		 2
+	Group ShapeData00
+	{
+		ShapeIndex			0
+		Model				"plechi_cursed_mage.gr2"
+		SourceSkin			"plechito_tex00.dds"
+		TargetSkin			"plechito_tex00.dds"
+	}
+	Group ShapeData01
+	{
+		ShapeIndex			0
+		Model				"plechi_cursed_mage.gr2"
+		SourceSkin			"plechito_tex01.dds"
+		TargetSkin			"plechito_tex01.dds"
+	}
+}
+
+Group AttachingData
+{
+    AttachingDataCount       2
+    
+    Group AttachingData00
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01"
+        
+        CollisionType        3
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           50.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+    
+    Group AttachingData01
+    {
+        AttachingDataType    1
+        
+        isAttaching          1
+        AttachingModelIndex  0
+        AttachingBoneName    "Bip01"
+        
+        CollisionType        1
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           50.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+}

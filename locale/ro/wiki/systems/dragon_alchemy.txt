@@ -1,0 +1,154 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/dragonstone.tga]
+[CENTER_ALIGN]Dragon Soul Alchemy is a system designed for high level players with the purpose 
+[CENTER_ALIGN]to strengthen your char in a certain direction.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information
+*2. Cor Draconis
+*3. Bonuses of the Dragon Stones
+*4. How to upgrade Dragon Stones
+*5. How to refill Dragon Stone's duration.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=130; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Information
+
+From Patch 3.1 you have the Dragon Stone Alchemy from Lv1. You can farm up to 200 Cor Draconis daily with the 
+Quest 'Power of the Dragon Eye'. 10 Dragon Stone Shards are automatically converted into a Cor Draconis (rough).
+The Dragon Stone Alchemy Window can be opened via the green Button in the Inventory or with the Button "O".
+You can activate the first Alchemy Page with "STRG + O" and the second Alchemy Page with "STRG + P".
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cor Draconis
+
+A Cor Draconis (rough) contains a random Dragon Stone (rough) between all kinds (Diamond, Ruby, Jade, Sapphire,
+Garnet, Onyx). There are several types of Cors such as: Cor Draconis (rough), Cor Draconis (Cut), Cor Draconis (rare), 
+Cor Draconis (antique) and Cor Draconis (Legendary). Cor Alrum (norm.), Cor Diamas (norm.), Cor Granatum (norm.), 
+Cor Jadeit (norm.), Cor Rubinum (norm.), Cor Sapphirum (norm.). Each of this 6 contains a cor of their color.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=360; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Bonuses
+
+[CENTER_ALIGN]The dragon stones have 4 diferent aspects that can be improved:
+[CENTER_ALIGN]Class: Rough, Cut, Rare, Antique, Legendary.
+[CENTER_ALIGN]The higher the class the more bonuses the dragon stone will have.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Clarity: Matt, Clear, Flawless, Brilliant, Excellent.
+
+[X_PADDING=20]The higher the clarity the higher are the bonus on the dragon stone.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Level: +0 to +6
+
+[X_PADDING=20]The higher the level the higher are the bonus on the dragon stone.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Bonus: 2-5 Bonuses.
+
+[X_PADDING=20]A Legendary Dragon Soul Stone has 2 basic bonuses and could have up to 3 extra bonuses for a 
+[X_PADDING=20]total of 5 bonuses. The bonuses of a Dragon Stone can be switched with a 'Refined Enchanting'.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.4 Max Bonuses.
+
+[COLOR=ef4f00]*3.4.1 Diamond (all stones):
+
+[X_PADDING=20]*Intelligence +10
+[X_PADDING=20]*Ice Resistance +10%
+[X_PADDING=20]*Resistance against Skill Damage 15%
+[X_PADDING=20]*Skill Damage 15%
+[X_PADDING=20]*Magic Attack Value +15
+[X_PADDING=20]*Magical Defense +15
+
+[COLOR=ef4f00]*3.4.2 Ruby (all stones):
+
+[X_PADDING=20]*Strength +10
+[X_PADDING=20]*Fire Resistance +10%
+[X_PADDING=20]*Average Damage +15%
+[X_PADDING=20]*Defense +100
+[X_PADDING=20]*Attack Value +120
+[X_PADDING=20]*Average Damage Resistance +15%
+
+[COLOR=ef4f00]*3.4.3 Jade (all stones):
+
+[X_PADDING=20]*+500 SP
+[X_PADDING=20]*Wind Resistance +10%
+[X_PADDING=20]*Max. HP +2500
+[X_PADDING=20]*Max. HP +15%
+[X_PADDING=20]*10% Damage will be absorbed by HP
+[X_PADDING=20]*HP Regeneration +10%
+
+[COLOR=ef4f00]*3.4.4 Sapphire (all stones):
+
+[X_PADDING=20]*Dexterity +10
+[X_PADDING=20]*Resistance to Earth +10%
+[X_PADDING=20]*Strong against Sura/Warrior/Shaman/Ninja +15%
+[X_PADDING=20]*Defence against Ninja Attacks +15%
+
+[COLOR=ef4f00]*3.4.5 Garnet (all stones):
+
+[X_PADDING=20]*Max. HP +1500
+[X_PADDING=20]*Lightning Resistance +10%
+[X_PADDING=20]*Max. SP +1800
+[X_PADDING=20]*Max. SP +15%
+[X_PADDING=20]*10% Damage will be absorbed by SP
+[X_PADDING=20]*Sp Regeneration +10%
+
+[COLOR=ef4f00]*3.4.6 Onyx (all stones):
+
+[X_PADDING=20]*Vitality +10
+[X_PADDING=20]*Resistance to darkness +10%
+[X_PADDING=20]*Defense against Crit. Hits +10%
+[X_PADDING=20]*Defense against Pen. Hits +10%
+[X_PADDING=20]*Chance to block a close-combat attack +10%
+[X_PADDING=20]*Chance to reflect a close combat attack +10%
+[X_PADDING=20]*Chance to avoid Arrows +10%
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1330; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. How to upgrade Dragon Stones.
+
+As mentioned before, a max Dragon Stone has all 4 aspects maxed out. To start off, you need to maximize them in 
+the correct order: Class -> Clarity -> Level. To upgrade the class of a Dragon Stone, you need more 
+Dragon Stones of the same class. Put the needed dragon stone in the appropriate slots and click 
+"Refine" or "Refine All". Once your Dragon Stone becomes Legendary, you can start upgrading it's clarity. 
+To upgrade the clarity of a Dragon Stone, you need more Dragon Stones of the same clarity. Put the needed dragon
+stone in the appropriate slots and click "Refine". Once your Dragon Stone becomes Excellent, you can start upgrading 
+it's level. To upgrade the level of a Dragon Stone you need a Green Dragon Bean or Blue Dragon Bean or 
+Pink Dragon Bean. Put the bean and one dragon stone in the appropriate slots and select "Refine". The process 
+can fail and in this case the level of the Dragon Stone will be reduced by 1. Note that Blue and 
+Pink Dragon Beans have higher success rate, but they still drop the level of the dragon stone in case of a fail.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1525; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. How to refill Dragon Stone's duration.
+
+Tongs of Time will allow you to create a Time Elixir (S). To create it you have to drag it on a non equipped 
+Dragon Soul Stone (the stone will be removed from your DSS inventory and the elixir will appear in your inventory). 
+This process can fail. You can also obtain Time Elixir (m) as a reward from the Golden Decimus Chest, 
+King of the Crystal Dragons, Battlepass of the Tree (Mission: 'Mermaid Island'), Mission Book (hard) and from 
+Kawuco.You can also craft a Time Elixir (L) at Kawuco. When the time runs out in a Dragon Stone, it becomes 
+unusable and you stop receiving it's bonuses. It doesn't disappear.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1660; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Alchemy Set Bonus
+
+If you have 6 Dragon Stones+6 equipped, you get an Alchemy Set Bonus of: 
+
+*Max. HP +2500 
+*Strong against Half Humans +10%
+*Strong against Metinstones +10%
+
+
+

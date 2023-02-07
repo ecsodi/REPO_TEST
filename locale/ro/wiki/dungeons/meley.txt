@@ -1,0 +1,38 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/meleyshort.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 75
+*Entrance Ticket: You don't need a group, but you have to belong to a guild
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*Meley's Hort has 180 minutes cooldown.
+*You have to be in a Guild to enter the Dungeon and you need at least 4 Characters.
+*You have to choose your reward from the Chest in the end of the dungeon. There are two chests to choose from.
+*Up to 16 different characters can enter the dungeon.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Phases:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1
+
+[X_PADDING=20]Damage the Dragon Statues until they have only 75% of their HP left. 
+[X_PADDING=20]After that, an orange shield appears above the Statue and it cannot be further damaged.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 2
+
+[X_PADDING=20]Damage the Dragon Statues until they have only 50% of their HP. 
+[X_PADDING=20]Four dragon Eggs appear every two minutes and as long as they are alive, the Statues receive no damage.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 3
+
+[X_PADDING=20]Four Dragon Watcher Idall appear and they must be defeated. The Dragon Statues can then be 
+[X_PADDING=20]damaged up to 0%. Four Dragon Eggs appear every two Minutes and as long as they are alive, 
+[X_PADDING=20]the Statues receive no damage. Upon reaching 0% HP, the statues will become green.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 4
+
+[X_PADDING=20]Once all four Dragon Statues have reached 0% HP, four players must drag 
+[X_PADDING=20]a Dragon Fire Ring on the Statues within 10 Seconds. Meley is defeated and the Statues disappear. 
+[X_PADDING=20]After that, the Golden Dragon Chest appears from which you can choose your Reward.
+
+

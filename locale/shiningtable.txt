@@ -1,0 +1,148 @@
+40171	"d:/ymir work/effect/plechito/weapons/dark_cult_set/sword_glow.mse"
+40172	"d:/ymir work/effect/plechito/weapons/dark_cult_set/dagger_glow.mse"
+40173	"d:/ymir work/effect/plechito/weapons/dark_cult_set/bow_glow.mse"
+40174	"d:/ymir work/effect/plechito/weapons/dark_cult_set/twohand_glow.mse"
+40175	"d:/ymir work/effect/plechito/weapons/dark_cult_set/bell_glow.mse"
+40176	"d:/ymir work/effect/plechito/weapons/dark_cult_set/fan_glow.mse"
+40177	"d:/ymir work/effect/plechito/weapons/dark_cult_set/claw_glow.mse"
+
+40101	"d:/ymir work/pc/common/effect/sword/element02_fire.mse"
+40102	"d:/ymir work/pc/common/effect/sword/element02_fire_s.mse"
+40103	"d:/ymir work/pc/common/effect/sword/element02_fire_b.mse"
+40104	"d:/ymir work/pc/common/effect/sword/element02_fire.mse"
+40105	"d:/ymir work/pc/common/effect/sword/element02_fire_s.mse"
+40106	"d:/ymir work/pc/common/effect/sword/element02_fire_f.mse"
+40107	"d:/ymir work/pc/common/effect/sword/element02_fire_w.mse"
+
+40108	"d:/ymir work/pc/common/effect/sword/element03_ice.mse"
+40109	"d:/ymir work/pc/common/effect/sword/element03_ice_s.mse"
+40110	"d:/ymir work/pc/common/effect/sword/element03_ice_b.mse"
+40111	"d:/ymir work/pc/common/effect/sword/element03_ice.mse"
+40112	"d:/ymir work/pc/common/effect/sword/element03_ice_s.mse"
+40113	"d:/ymir work/pc/common/effect/sword/element03_ice_f.mse"
+40114	"d:/ymir work/pc/common/effect/sword/element03_ice_w.mse"
+
+40115	"d:/ymir work/pc/common/effect/sword/element06_dark.mse"
+40116	"d:/ymir work/pc/common/effect/sword/element06_dark_s.mse"
+40117	"d:/ymir work/pc/common/effect/sword/element06_dark_b.mse"
+40118	"d:/ymir work/pc/common/effect/sword/element06_dark.mse"
+40119	"d:/ymir work/pc/common/effect/sword/element06_dark_s.mse"
+40120	"d:/ymir work/pc/common/effect/sword/element06_dark_f.mse"
+40121	"d:/ymir work/pc/common/effect/sword/element06_dark_w.mse"
+
+40122	"d:/ymir work/pc/common/effect/sword/element01_electric.mse"
+40123	"d:/ymir work/pc/common/effect/sword/element01_electric_s.mse"
+40124	"d:/ymir work/pc/common/effect/sword/element01_electric_b.mse"
+40125	"d:/ymir work/pc/common/effect/sword/element01_electric.mse"
+40126	"d:/ymir work/pc/common/effect/sword/element01_electric_s.mse"
+40127	"d:/ymir work/pc/common/effect/sword/element01_electric_f.mse"
+40128	"d:/ymir work/pc/common/effect/sword/element01_electric_w.mse"
+
+40129	"d:/ymir work/pc/common/effect/sword/element04_wind.mse"
+40130	"d:/ymir work/pc/common/effect/sword/element04_wind_s.mse"
+40131	"d:/ymir work/pc/common/effect/sword/element04_wind_b.mse"
+40132	"d:/ymir work/pc/common/effect/sword/element04_wind.mse"
+40133	"d:/ymir work/pc/common/effect/sword/element04_wind_s.mse"
+40134	"d:/ymir work/pc/common/effect/sword/element04_wind_f.mse"
+40135	"d:/ymir work/pc/common/effect/sword/element04_wind_w.mse"
+
+43048	"d:/ymir work/effect/plechito/weapons/dark_cult_set/costume_glow.mse"
+43049	"d:/ymir work/effect/plechito/weapons/dark_cult_set/costume_glow.mse"
+43050	"d:/ymir work/effect/plechito/weapons/dark_cult_set/costume_glow.mse"
+43051	"d:/ymir work/effect/plechito/weapons/dark_cult_set/costume_glow.mse"
+
+43036	"d:/ymir work/effect/plechito/weapons/dark_cult_set/glow_garda_regala_safir.mse"
+43037	"d:/ymir work/effect/plechito/weapons/dark_cult_set/glow_garda_regala_safir.mse"
+43032	"d:/ymir work/effect/plechito/weapons/dark_cult_set/glow_garda_regala_rubin.mse"
+43033	"d:/ymir work/effect/plechito/weapons/dark_cult_set/glow_garda_regala_rubin.mse"
+
+
+40192	"d:/ymir work/effect/plechito/weapons/halfmoon_set/sura_sword_glow.mse"
+40193	"d:/ymir work/effect/plechito/weapons/halfmoon_set/dagger_glow.mse"
+40194	"d:/ymir work/effect/plechito/weapons/halfmoon_set/bow_glow.mse"
+40195	"d:/ymir work/effect/plechito/weapons/halfmoon_set/twohand_glow.mse"
+40196	"d:/ymir work/effect/plechito/weapons/halfmoon_set/bell_glow.mse"
+40197	"d:/ymir work/effect/plechito/weapons/halfmoon_set/fan_glow.mse"
+40198	"d:/ymir work/effect/plechito/weapons/halfmoon_set/claw_glow.mse"
+
+40199	"d:/ymir work/effect/plechito/weapons/halfmoon_set/sura_sword_glow_2.mse"
+40200	"d:/ymir work/effect/plechito/weapons/halfmoon_set/dagger_glow_2.mse"
+40201	"d:/ymir work/effect/plechito/weapons/halfmoon_set/bow_glow_2.mse"
+40202	"d:/ymir work/effect/plechito/weapons/halfmoon_set/twohand_glow_2.mse"
+40203	"d:/ymir work/effect/plechito/weapons/halfmoon_set/bell_glow_2.mse"
+40204	"d:/ymir work/effect/plechito/weapons/halfmoon_set/fan_glow_2.mse"
+40205	"d:/ymir work/effect/plechito/weapons/halfmoon_set/claw_glow_2.mse"
+
+40213	"d:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+40214	"d:/ymir work/pc/common/effect/sword/element05_daeji_s.mse"
+40215	"d:/ymir work/pc/common/effect/sword/element05_daeji_b.mse"
+40216	"d:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+40217	"d:/ymir work/pc/common/effect/sword/element05_daeji_s.mse"
+40218	"d:/ymir work/pc/common/effect/sword/element05_daeji_f.mse"
+40219	"d:/ymir work/pc/common/effect/sword/element05_daeji_w.mse"
+
+43044	d:/ymir work/effect/plechito/weapons/valentine2022_1/costume_glow.mse
+43045	d:/ymir work/effect/plechito/weapons/valentine2022_1/costume_glow.mse
+
+40220	d:/ymir work/effect/plechito/weapons/valentine2022_1/sword_glow.mse
+40221	d:/ymir work/effect/plechito/weapons/valentine2022_1/dagger_glow.mse
+40222	d:/ymir work/effect/plechito/weapons/valentine2022_1/bow_glow.mse
+40223	d:/ymir work/effect/plechito/weapons/valentine2022_1/twohnad_glow.mse
+40224	d:/ymir work/effect/plechito/weapons/valentine2022_1/bell_glow.mse
+40225	d:/ymir work/effect/plechito/weapons/valentine2022_1/fan_glow.mse
+40226	d:/ymir work/effect/plechito/weapons/valentine2022_1/claw_glow.mse
+
+43052	d:/ymir work/effect/plechito/weapons/valentine2022_1/costume_glow_silver.mse
+43053	d:/ymir work/effect/plechito/weapons/valentine2022_1/costume_glow_silver.mse
+
+40227	d:/ymir work/effect/plechito/weapons/valentine2022_1/sword_glow_silver.mse
+40228	d:/ymir work/effect/plechito/weapons/valentine2022_1/dagger_glow_silver.mse
+40229	d:/ymir work/effect/plechito/weapons/valentine2022_1/bow_glow_silver.mse
+40230	d:/ymir work/effect/plechito/weapons/valentine2022_1/twohnad_glow_silver.mse
+40231	d:/ymir work/effect/plechito/weapons/valentine2022_1/bell_glow_silver.mse
+40232	d:/ymir work/effect/plechito/weapons/valentine2022_1/fan_glow_silver.mse
+40233	d:/ymir work/effect/plechito/weapons/valentine2022_1/claw_glow_silver.mse
+
+43056	d:/ymir work/effect/plechito/weapons/valentine2022_1/costume_glow.mse
+43057	d:/ymir work/effect/plechito/weapons/valentine2022_1/costume_glow.mse
+
+40234	d:/ymir work/effect/plechito/weapons/valentine2022_1/sword_glow.mse
+40235	d:/ymir work/effect/plechito/weapons/valentine2022_1/dagger_glow.mse
+40236	d:/ymir work/effect/plechito/weapons/valentine2022_1/bow_glow.mse
+40237	d:/ymir work/effect/plechito/weapons/valentine2022_1/twohnad_glow.mse
+40238	d:/ymir work/effect/plechito/weapons/valentine2022_1/bell_glow.mse
+40239	d:/ymir work/effect/plechito/weapons/valentine2022_1/fan_glow.mse
+40240	d:/ymir work/effect/plechito/weapons/valentine2022_1/claw_glow.mse
+
+43060	d:/ymir work/effect/plechito/weapons/valentine2022_1/costume_glow_silver.mse
+43061	d:/ymir work/effect/plechito/weapons/valentine2022_1/costume_glow_silver.mse
+
+40241	d:/ymir work/effect/plechito/weapons/valentine2022_1/sword_glow_silver.mse
+40242	d:/ymir work/effect/plechito/weapons/valentine2022_1/dagger_glow_silver.mse
+40243	d:/ymir work/effect/plechito/weapons/valentine2022_1/bow_glow_silver.mse
+40244	d:/ymir work/effect/plechito/weapons/valentine2022_1/twohnad_glow_silver.mse
+40245	d:/ymir work/effect/plechito/weapons/valentine2022_1/bell_glow_silver.mse
+40246	d:/ymir work/effect/plechito/weapons/valentine2022_1/fan_glow_silver.mse
+40247	d:/ymir work/effect/plechito/weapons/valentine2022_1/claw_glow_silver.mse
+
+43020	d:/ymir work/effect/plechito/weapons/stpatrick_set/costume_glow.mse
+43021	d:/ymir work/effect/plechito/weapons/stpatrick_set/costume_glow.mse
+
+40178	d:/ymir work/effect/plechito/weapons/stpatrick_set/sword_glow.mse
+40179	d:/ymir work/effect/plechito/weapons/stpatrick_set/dagger_glow.mse
+40180	d:/ymir work/effect/plechito/weapons/stpatrick_set/bow_glow.mse
+40181	d:/ymir work/effect/plechito/weapons/stpatrick_set/twohand_glow.mse
+40182	d:/ymir work/effect/plechito/weapons/stpatrick_set/bell_glow.mse
+40183	d:/ymir work/effect/plechito/weapons/stpatrick_set/fan_glow.mse
+40184	d:/ymir work/effect/plechito/weapons/stpatrick_set/claw_glow.mse
+
+43084	d:/ymir work/effect/plechito/weapons/easter2022_2/costume_glow.mse
+43085	d:/ymir work/effect/plechito/weapons/easter2022_2/costume_glow.mse
+
+40248	d:/ymir work/effect/plechito/weapons/easter2022_2/sword_glow.mse
+40249	d:/ymir work/effect/plechito/weapons/easter2022_2/dagger_glow.mse
+40250	d:/ymir work/effect/plechito/weapons/easter2022_2/bow_glow.mse
+40251	d:/ymir work/effect/plechito/weapons/easter2022_2/twohand_glow.mse
+40252	d:/ymir work/effect/plechito/weapons/easter2022_2/bell_glow.mse
+40253	d:/ymir work/effect/plechito/weapons/easter2022_2/fan_glow.mse
+40254	d:/ymir work/effect/plechito/weapons/easter2022_2/claw_glow.mse

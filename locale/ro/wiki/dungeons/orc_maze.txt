@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/orcmaze.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 55-85
+*Entrance Ticket: Orc Parchment
+[RIGHT_ALIGN]Orc Parchment
+[IMG=d:/ymir work/ui/wiki/94031.tga; Y=5; X=493]
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Dungeon can only be entered without a group.
+*The Orc Maze has a 90-minutes cooldown.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Phases:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1
+
+[X_PADDING=20]Kill 4x Metin of Soul
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 2
+
+[X_PADDING=20]Kill the Cursed Chief Orc
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 3
+
+[X_PADDING=20]Kill the Cursed Orc King

@@ -1,0 +1,73 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/zodiactemple.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 90
+*Entrance Ticket: 12 Animaspheres
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Zodiac Temple has no cooldown, but you need 12 Animaspheres per run.
+*Each Player receives 1 Animasphere every hour, whether online or offline.
+*Each Premium player receives 2 Animaspheres every hour, whether online or offline.
+*With an Animasphere Voucher you can get 12 Animaspheres.
+*The Dungeon can be entered with or without a group.
+*There are two portals open every day, and all 12 Portals are open on Sundays.
+*If you die in The Zodiac Temple you need a Prism of Rivival to revive.
+*There are 40 different levels and for each level you have 10 Minutes.
+*If you are fast in a run, there is the possibility to skip levels.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Phases:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1 (Level 1-33)
+
+[X_PADDING=20]You get a random task, which you have to complete in a given time.
+[X_PADDING=20]You can skip levels if you complete certain floors very quick.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 2 (Level 34)
+
+[X_PADDING=20]Kill the respective Zodiac Boss.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 3 (Level 35-39)
+
+[X_PADDING=20]Kill the right Metin stone to be rewarded with Insignias.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 4 (Level 40)
+
+[X_PADDING=20]You can buy Insignias from The Zodiac Dealer (50 Pieces for 12.500.000 Yang).
+[X_PADDING=20]You need them for the Zodiac Calendar.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Calendar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=500; CENTER_ALIGN]
+
+To check a box in the Calendar, 50 Guardian Insignias and Zodiac Insignias are required.
+By clicking in the box, the field is checked. Then, the 100 Insignias are removed from your 
+inventory and a check mark in the respective box appears in the Calendar.
+
+
+In order to obtain the Aventurine Treasure, all green boxes must be ticked. For this, a total of 
+1,500 Guardian Insignias and 1,500 Zodiac Insignias are required. Each Guardian Insignia is needed x250, 
+while each Zodiac Insignia is needed x300. When all the green boxes are ticked, you can receive the 
+reward by clicking the green button in the bottom left of the Calendar.
+
+
+In order to obtain the Aureolin treasure, all yellow boxes must be ticked. For this, a total of 
+1,500 Guardian Insignias and 1,500 Zodiac Insignias are required.
+Each Guardian Insignia is needed x250, while each Zodiac Insignia is needed x300.
+When all the yellow boxes are ticked, you can receive the reward by clicking the yellow button 
+in the bottom left of the Calendar.
+
+
+Only after all the green and yellow boxes have been ticked, you can get the third possible reward. 
+The Astral Treasure. You get each Astral Treasure when all the boxes are ticked.
+It is also possible that, for example, the green Boxes have been checked three times and 
+the yellow ones have only been checked once. In this case, you only get one Astral Treasure.
+But if you tick the yellow boxes twice, you get two more Astral Treasures without ticking the green boxes again.
+you can receive the Astral Treasure by clicking the button in the bottom right of the Calendar.
+
+
+

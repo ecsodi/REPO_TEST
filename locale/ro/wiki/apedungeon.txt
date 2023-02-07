@@ -1,0 +1,38 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/apedungeon.tga]
+[COLOR=0xffd700;FONT_SIZE=15]General:
+*Wymagany poziom: 35 - 60
+*Odstępy: 30 minut
+*Czas: 1 godzina
+*Bonus: Zwierzęta
+*Element: Ziemia
+*Przepustka: Zioło małpy
+[X_PADDING=20]*Pochodzenie: Maester Aemon
+[X_PADDING=420;Y_PADDING=-100;FONT_SIZE=15;COLOR=0xffd700;]Herb of Monkey
+[IMG=d:/ymir work/ui/wiki/pictures/31064.tga; Y=15; X=444]
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=108; CENTER_ALIGN]
+
+
+
+
+
+
+
+
+
+[COLOR=0xffd700;FONT_SIZE=15;CENTER_ALIGN]Dungeon Stages:
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 1
+[X_PADDING=20]Zabijaj potwory aż wydropisz krew małpy.
+[X_PADDING=20]Przeciągnij krew małpy na kolumne.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 2
+[X_PADDING=20]Zabij 8 Metinów małp.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 3
+[X_PADDING=20]Zabij Chodzącą Małpę.
+
+[COLOR=ef4f00;FONT_SIZE=15]*Etap 4
+[X_PADDING=20]Zabij Lorda Małp.
+
+[IMG=d:/ymir work/ui/wiki/pictures/Affen-Lord.tga; Y=150; X=320]

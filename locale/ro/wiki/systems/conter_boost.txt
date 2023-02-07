@@ -1,0 +1,54 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/conterboost.tga]
+[CENTER_ALIGN]The Ward & Boost Skill System aims to evolve your character towards a specific direction. 
+[CENTER_ALIGN]You can teach your character some special skills...
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information & How to Train.
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=90; CENTER_ALIGN]
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1. General Information.
+[X_PADDING=20]*The Ward & Boost skills are a unique way to evolve further more your character's defenses and strengths.
+[X_PADDING=20]*You can skill up all 8 Ward Skills and 1 Boost Skill to P1.
+[X_PADDING=20]*To train a Special Skill from 0 to M1, you'll need to invest 20 Skill Points or read 20 books of the specific skill.
+[X_PADDING=20]*To train a Special Skill from M1 to G1, you'll need a total of 55 Ward or Boosts of this specific skill.
+[X_PADDING=20]*To train a Special Skill from G1 to P1, you'll need Soul Stone+.
+[X_PADDING=20]*Instead of Concentrated Reading & Exorcism Scroll, you now need to use 
+[X_PADDING=20]Legendary Concentrated Reading & Legendary Exorcism Scroll.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=230; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Ward Skills
+[X_PADDING=20]The Ward skills reduce the incoming damage from certain abilities which are: 
+[X_PADDING=20]*Sword Spin
+[X_PADDING=20]*Summon Lightning
+[X_PADDING=20]*Dark Strike
+[X_PADDING=20]*Fire Arrow
+[X_PADDING=20]*Spirit Strike
+[X_PADDING=20]*Shooting Dragon
+[X_PADDING=20]*Finger Strike
+[X_PADDING=20]*Ambush
+[X_PADDING=20]The more the ward skill is trained, the less damage you'll receive from it.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=400; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Boost Skills
+[X_PADDING=20]The Boost skills increase the outgoing damage from certain abilities which are the following:
+[X_PADDING=20]*Warrior Body: Sword Spin.
+[X_PADDING=20]*Warrior Mental: Spirit Strike.
+[X_PADDING=20]*Sura Weaponry: Finger Strike.
+[X_PADDING=20]*Sura Black Magic: Dark Strike.
+[X_PADDING=20]*Ninja Blade-Fight: Ambush.
+[X_PADDING=20]*Ninja Archery: Fire Arrow.
+[X_PADDING=20]*Shaman Healing-Force: Summon Lightning.
+[X_PADDING=20]*Shaman Dragon-Force: Shooting Dragon.
+[X_PADDING=20]You have only 1 active Boost Skill, depending on your class, as described previously.
+[X_PADDING=20]The more the boost skill is trained, the more damage the enemy will receive from it.
+
+
+

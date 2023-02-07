@@ -1,0 +1,120 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costumes.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Informations
+*2. Costume Bonus Adder & Changer
+*3. Hairstyle Bonus
+*4. Armorcostume Bonus
+*5. Weaponcostume Bonus
+*6. Costume Bonus Transfer
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Informations
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN]Costumes can be obtained from the Battlepass, Events oder Players.
+[CENTER_ALIGN]We have 3 different costumes: Hairstyle, Armorcostume and Weaponcostumes. All these Costumes are Permanent.
+[CENTER_ALIGN]A Costume can have 5 bonuses. The Costumes need different Costume Adder and Changer.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Costume Bonus Adder & Changer
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=195; CENTER_ALIGN]
+
+[CENTER_ALIGN]To add the first 3 bonuses you need a Costume Reinforce Item without +.
+[CENTER_ALIGN]To add the 4. and 5. bonus you need a Costume Reinforce Item with +.
+[CENTER_ALIGN]The 4. and 5. bonus can only be added when the first 3 bonuses got added to the Costume.
+[CENTER_ALIGN]It will always add only 1 bonus, also this is 100%.
+
+[CENTER_ALIGN]To change the first 3 bonuses you need Costume Enchant Item without +.
+[CENTER_ALIGN]To change the 4. and 5. bonus you need a Costume Enchant Item with +.
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Hairstyle Bonus
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=350; CENTER_ALIGN]
+
+[COLOR=00EF4F;FONT_SIZE=14]Possible 1. - 3. Bonus:
+*Strong against Devils +5, 8, 10%
+*Strong against Undead +5, 8, 10%
+*Strong against Mystics +5, 8, 10%
+*Strong against Orcs +5, 8, 10%
+*Strong against Animals +5, 8, 10%
+*Poison Resistance +3, 5%
+*Attack Speed +5, 8, 10%
+*Chance to avoid Arrows +5, 8, 10%
+*Chance to block a close-combat attack +3, 5%
+*Chance to reflect close combat hits +3, 5%
+*Max. HP +500, 750, 1000
+
+[COLOR=FF0021;FONT_SIZE=14]Possible 4. - 5. Bonus:
+*Strong against Metinstones +3, 5, 8%
+*Strong against Monster +3, 5, 8%
+*Strong against Bosse +3, 5, 8%
+*Average Damage Resistance +3, 5%
+*Average Damage +3, 5%
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Armorcostume Bonus
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=655; CENTER_ALIGN]
+
+
+[COLOR=00EF4F;FONT_SIZE=14]Possible 1. - 3. Bonus:
+*Max. HP +500, 750, 1000
+*Damage will be absorbed by SP +3, 5%
+*Damage will be absorbed by HP +3, 5%
+*Casting Speed +5, 8, 10%
+*Attack Value +20, 35, 50
+*Ice Resistance +3, 5, 8%
+*Fire Resistance+3, 5, 8%
+*Wind Resistance +3, 5, 8%
+*Lightning Resistance +3, 5, 8%
+*Earth Resistance +3, 5, 8%
+*Darkness Resistance +3, 5, 8%
+
+
+[COLOR=FF0021;FONT_SIZE=14]Possible 4. - 5. Bonus:
+*Strong against Metinstones +3, 5, 8%
+*Strong against Monster +3, 5, 8%
+*Strong against Bosse +3, 5, 8%
+*Resistance against Half Human +3, 5%
+*Resistance against Skill Damage +3, 5%
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Weaponcostume Bonus
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=985; CENTER_ALIGN]
+
+[COLOR=00EF4F;FONT_SIZE=14]Possible 1. - 3. Bonus:
+*Strong against Devils +5, 8, 10%
+*Strong against Undead +5, 8, 10%
+*Strong against Mystics +5, 8, 10%
+*Strong against Orcs +5, 8, 10%
+*Strong against Animals +5, 8, 10%
+*Chance of critical hit +3, 5%
+*Chance of piercing hit +3, 5%
+*Vitality +3, 5, 8
+*Intelligence +3, 5, 8
+*Strength +3, 5, 8
+*Dexterity +3, 5, 8
+
+
+[COLOR=FF0021;FONT_SIZE=14]Possible 4. - 5. Bonus:
+*Strong against Metinstones +3, 5, 8%
+*Strong against Monster +3, 5, 8%
+*Strong against Bosse +3, 5, 8%
+*Strong against Half Human +3, 5%
+*Skill Damage +3, 5%
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Costume Bonus Transfer
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1300; CENTER_ALIGN]
+
+[CENTER_ALIGN]Its possible to transfer the bonuses of a Costume with a Costume Bonus Transfer at Theowahdan to a other Costume.
+[CENTER_ALIGN]The Costume in the left slot will be emptied and the bonuses will be transfered to the Costume in the right slot.
+[CENTER_ALIGN]When you want to transfer the bonuses on a Costume which has bonuses already
+[CENTER_ALIGN]the old bonuses will be overwritten with the new ones.
+

@@ -1,0 +1,116 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/runes.tga]
+[CENTER_ALIGN]Over the past decades, knowledge of the Runes began to spread around Aeldra, 
+[CENTER_ALIGN]as more were unearthed. The world's brightest minds, shamans, have studied thoroughly 
+[CENTER_ALIGN]the ancient glyphs,collected information from the depths of the history and attempted 
+[CENTER_ALIGN]to gather and determine the powers that they could possess. The sheer power held within them, 
+[CENTER_ALIGN]was nowhere close to being translated and manipulated by our hands. Some surmised that their 
+[CENTER_ALIGN]powers lured Jotun Thrym into the, as of today known, world of Aeldra. Those we managed to
+[CENTER_ALIGN]subdue are the ones nowdays people are using. Who knows what else is left in the depths of Metin2.
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Introduction of the Rune System
+*2. How to unlock runes?
+*3. Frequently Used Tree paths & Pro Tips
+*4. How to upgrade runes?
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=190; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Introduction of the Rune System
+
+The system allows players to customize their character growth for specific tasks, such as PvP & PvM, 
+by choosing from a wide variety of Runes. You can reach the system through the F5 shortcut.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Primary Trees
+
+There are 5 different Primary Trees that the player can choose to work on: 
+
+*Precision
+*Dominance
+*Magic
+*Determination
+*Inspiration
+
+After the player has picked his Primary Tree, he selects a Key Rune and 3 more runes 
+to complete his tree based on his needs.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Secondary Trees
+
+Secondary Trees are combined with the Primary Trees to forge a complete Rune Page. 
+The player picks another tree to combine and then selects 2 runes from that tree(Key Runes excluded)
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Control Buttons
+
+In the top right corner of the Rune System Tab, you can find 4 control buttons: 
+
+*Reset
+*Reset Points
+*Buy Points
+*Save
+
+In the bottom right corner of the Rune System Tab, you can find the Rune System Tutorial 
+along with the 4 available Rune Pages. To switch between the Trees, click on the Tree Icon 
+on the top before you save the Rune Page. When all 6 runes have bee unlocked and selected, 
+you can save the current Rune Page to apply it to your character. Saved Runes can be reset 
+with the 'Reset Points' button and saved Rune Pages can be reset with the "Reset" button.
+Runes that are active appear in your affect list, in the top left corner of your screen.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=700; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How to unlock runes?
+
+To unlock a Key Rune (or a normal rune), you need 12 Rune Points.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Rune Points
+
+You can buy 1 Rune Point through the 'Buy Points' button in the top right corner of the Rune System Tab.
+In the beginning and until you have 145 Rune Points, a Rune Point will require items from the 110Lv 
+metin stones, in the 90Lv maps & 6.000.000 yang. After the 145th Rune Point and until the 
+720th Rune Point (max), Rune Points will require items from the Metin of the Tree Beings, 
+in 105Lv maps & 6.000.000 yang.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 Unlocking & Selecting a Rune
+
+When you have 12 points available, click on the Rune you would like to unlock. After that, 
+select the rune with the left mouse button and then press 'Save' for the bonuses to apply.
+Attention: Now your page is saved and you cannot swap trees. If you'd like so, 
+go the the second Rune Page and start over.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=960; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Frequently Used Tree Paths & Pro Tips
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 PvM popular Tree Path (for metin stones)
+
+Primary Tree, Dominance: Soul Robbery, Monster, Boss, Metin.
+Secondary Tree, Precision: Average Damage, Critical Damage.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 PvM popular Tree Path (for bosses)
+
+For boss farming, you usually go with the tree path for metin stones and you change the "Metin" 
+and the others to the most convenient Rune. For example: During a Zodiac Temple run, it's easier 
+if you switch "Metin" to "Zodiac" rune and so on...
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Pro Tips
+
+When killing a boss, switching to 'Thief' and 'Itemdrop' runes in another Rune Page at the last 
+moment will maximize your chances for loot. The Rune 'Reinforced Dew Potions' should be used 
+before you enable dews in order to receive greater amount of buffs. You need 1140 pieces of each 
+item from the 90Lv maps & 3450 pieces of each item from the 105Lv maps to unlock all the available Lv1 runes.
+As soon as you unlock 12/12 runes from your Primary Tree, you also receive a bonus of 
+15% Strong against Half Human & 10% Defense against Half Human.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1260; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. How to upgrade Runes?
+
+Having all the available runes unlocked, will grant you access to Lv2 runes. By clicking the (+) 
+button you can upgrade a specific rune to Lv2, giving you enhanced bonuses (Key Runes excluded)
+
+
+

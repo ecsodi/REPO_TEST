@@ -1,0 +1,97 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shoulder.tga]
+[CENTER_ALIGN]A shoulder sash is a piece of visible equipment, familiar to most of Aeldra players. 
+[CENTER_ALIGN]The shoulder sash is equipped in the costume system tab, which opens with the costume system button
+[CENTER_ALIGN]on the player's inventory. A shoulder sash is permanent and can be equipped from Lv1. 
+[CENTER_ALIGN]Let's get right into the details:
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. The different types of shoulder sashes and how to obtain one.
+*2. How to improve a shoulder sash.
+*3. How to absorb a Weapon/Armor into your Sash.
+*4. How to remove the bonuses from a Sash.
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. The different types of shoulder sashes and how to obtain one.
+
+[CENTER_ALIGN] There are several types of Shoulder Sashes including: 
+[CENTER_ALIGN] Master Sash, Lord Sash, Royal Sash, Sovereign Sash, Anniversary Sash. 
+[CENTER_ALIGN] The difference between the 5 of them is simply the look and the origin.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Master Sash
+[X_PADDING=20]A Master Sash (basic) can be obtained by exchanging 10x Fine Cloths at Theowahdan.
+
+[X_PADDING=20]In addition, Fine Cloth drop from Death Reaper, Spider Baroness, Azrael, Beran Setaou, Razador, Nemere, 
+[X_PADDING=20]Chief Orc Box, Nine Tails Chest,Desert Tortoise Chest, Flame King's Chest, Yellow Tiger Chest, Queen Meley's Chest, 
+[X_PADDING=20]Dragon Watcher's Chest, Moonlight Treasure Chest, Golden Decimus Chest and Golden Fish Chest. 
+
+[X_PADDING=20]Also, a Master Sash (basic) can be obtained as a reward from the Mission Book (normal), 
+[X_PADDING=20]Mission Book (hard), Mission Book (expert) and Mission Book (royal).
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Lord Sash
+[X_PADDING=20]A Lord Sash (basic) can be obtained as a reward from the Mission Book (hard), Mission Book (expert), 
+[X_PADDING=20]Mission Book (royal), Golden Decimus Chest and from the Item Shop.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Royal Sash
+[X_PADDING=20]A Royal Sash (basic) can be obtained as a reward from the Mission Book (hard), Mission Book (expert), 
+[X_PADDING=20]Mission Book (royal), Golden Decimus Chest, Razador Chest and Nemere Chest.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.4 Sovereign Sash
+[X_PADDING=20]A Sovereign Sash (basic) can be obtained as a reward from the Mission Book (hard), Mission Book (expert), 
+[X_PADDING=20]Mission Book (royal), Golden Decimus Chest, Razador Chest and Nemere Chest.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.5 Anniversary Sash
+[X_PADDING=20]The Anniversary Sash was part of a special Item Shop offer from 16.07.2018 - 22.07.2018. 
+[X_PADDING=20]It belongs to the museum nowadays...
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.6 Christmas Sash
+[X_PADDING=20]The Christmas Sash was part of the Christmas Event 2018. 
+[X_PADDING=20]You got it from the Itemshop and from the Christmas Battlepass.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=690; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How to improve a shoulder sash.
+
+A shoulder sash has 4 different grades of quality: basic, fine, noble and custom.
+Sashes of the same grade of quality can be combined to craft a higher quality sash, although this process can fail.
+When it does so, the second sash in the Combination Window is destroyed. The Combination Window is reachable 
+through the "Combination" option from Theowahdan. A custom sash can be improved by combining it with another 
+custom sash (any type). The improvement, if successfull, will increase the absorbtion rate from 1 to 5%
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=815; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. How to absorb a Weapon/Armor into your Sash.
+
+You can use a sash to absorb the bonus from any weapon or armor. 
+The armor or weapon used to be absorbed WILL BE DESTROYED.
+
+*Basic Sashes absorb 1% of the bonus from an armor or weapon.
+*Fine Sashes absorb 5% of the bonus from an armor or weapon.
+*Noble Sashes absorb 10% of the bonus from an armor or weapon.
+*Custom Sashes absorb 11% - 25% of the bonus from an armor or weapon.
+
+The Bonus Absorption Window is reachable through the "Bonus Absorption" option from Theowahdan. 
+Place the Sash in the left slot, the weapon or armour in the right slot, and you can see the final result in the bottom.
+The process will transfer the % of both bonuses and stats of the Weapon/Armor to the sash 
+(All the decimal digits are rounded decreasingly.)
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1025; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. How to remove the bonuses from a Sash.
+
+Say that you made a mistake and absorbed the wrong Armor/Weapon to your Sash. Happens to everyone... or not.
+Well, in that case, you cannot get your armor/weapon back but you can clear the bonuses 
+from your Shoulder Sash with a Certificate of Reversal.
+
+

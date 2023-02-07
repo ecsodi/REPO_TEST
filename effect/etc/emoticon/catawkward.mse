@@ -1,0 +1,214 @@
+BoundingSphereRadius   50.000000
+BoundingSpherePosition 0.000000 0.000000 90.000000
+
+Group Particle
+{
+    StartTime           0.000000
+    List TimeEventPosition
+    {
+        0.000000 "MOVING_TYPE_DIRECT" 0.000000 0.000000 90.000000
+    }
+    
+    Group EmitterProperty
+    {
+        MaxEmissionCount        1
+    
+        CycleLength             2.500000
+        CycleLoopEnable         0
+        LoopCount               0
+    
+        EmitterShape            0
+        EmitterAdvancedType     0
+        EmitterEmitFromEdgeFlag  0
+        EmittingDirection       0.000000 0.000000 0.000000
+    
+        List TimeEventEmittingSize
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmittingAngularVelocity
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmittingDirectionX
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmittingDirectionY
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmittingDirectionZ
+        {
+        }
+        List TimeEventEmittingVelocity
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmissionCountPerSecond
+        {
+            0.000000 20.000000
+        }
+        List TimeEventLifeTime
+        {
+            0.000000 2.500000
+        }
+        List TimeEventSizeX
+        {
+            0.000000 15.000000
+        }
+        List TimeEventSizeY
+        {
+            0.000000 15.000000
+        }
+    }
+    
+    Group ParticleProperty
+    {
+        SrcBlendType                 5
+        DestBlendType                6
+        ColorOperationType           4
+        BillboardType                1
+        RotationType                 0
+        RotationSpeed                0.000000
+        RotationRandomStartingBegin  0
+        RotationRandomStartingEnd    0
+    
+        AttachEnable                 1
+        StretchEnable                0
+    
+        TexAniType                   1
+        TexAniDelay                  0.109000
+        TexAniRandomStartFrameEnable 0
+    
+        List TimeEventGravity
+        {
+        }
+        List TimeEventAirResistance
+        {
+        }
+        List TimeEventScaleX
+        {
+            0.000000 0.500000
+            0.050000 2.500000
+            0.070000 2.000000
+        }
+        List TimeEventScaleY
+        {
+            0.000000 0.500000
+            0.050000 2.500000
+            0.070000 2.000000
+        }
+        List TimeEventColorRed
+        {
+            0.000000 0.900000
+        }
+        List TimeEventColorGreen
+        {
+            0.000000 1.000000
+        }
+        List TimeEventColorBlue
+        {
+            0.000000 1.000000
+        }
+        List TimeEventAlpha
+        {
+            0.500000 1.000000
+            0.950000 0.900000
+            1.000000 0.000000
+        }
+        List TimeEventRotation
+        {
+            0.000000 0.000000
+        }
+        List TextureFiles
+        {
+            "catawkward/frame_00.png"
+            "catawkward/frame_01.png"
+            "catawkward/frame_02.png"
+            "catawkward/frame_03.png"
+            "catawkward/frame_04.png"
+            "catawkward/frame_05.png"
+            "catawkward/frame_06.png"
+            "catawkward/frame_07.png"
+            "catawkward/frame_08.png"
+            "catawkward/frame_09.png"
+            "catawkward/frame_10.png"
+            "catawkward/frame_11.png"
+            "catawkward/frame_12.png"
+            "catawkward/frame_13.png"
+            "catawkward/frame_14.png"
+            "catawkward/frame_15.png"
+            "catawkward/frame_16.png"
+            "catawkward/frame_17.png"
+            "catawkward/frame_18.png"
+            "catawkward/frame_19.png"
+            "catawkward/frame_20.png"
+            "catawkward/frame_21.png"
+            "catawkward/frame_22.png"
+            "catawkward/frame_23.png"
+            "catawkward/frame_24.png"
+            "catawkward/frame_25.png"
+            "catawkward/frame_26.png"
+            "catawkward/frame_27.png"
+            "catawkward/frame_28.png"
+            "catawkward/frame_29.png"
+            "catawkward/frame_30.png"
+            "catawkward/frame_31.png"
+            "catawkward/frame_32.png"
+            "catawkward/frame_33.png"
+            "catawkward/frame_34.png"
+            "catawkward/frame_35.png"
+            "catawkward/frame_36.png"
+            "catawkward/frame_37.png"
+            "catawkward/frame_38.png"
+            "catawkward/frame_39.png"
+            "catawkward/frame_40.png"
+            "catawkward/frame_41.png"
+            "catawkward/frame_42.png"
+            "catawkward/frame_43.png"
+            "catawkward/frame_44.png"
+            "catawkward/frame_45.png"
+            "catawkward/frame_46.png"
+            "catawkward/frame_47.png"
+            "catawkward/frame_48.png"
+            "catawkward/frame_49.png"
+            "catawkward/frame_50.png"
+            "catawkward/frame_51.png"
+            "catawkward/frame_52.png"
+            "catawkward/frame_53.png"
+            "catawkward/frame_54.png"
+            "catawkward/frame_55.png"
+            "catawkward/frame_56.png"
+            "catawkward/frame_57.png"
+            "catawkward/frame_58.png"
+            "catawkward/frame_59.png"
+            "catawkward/frame_60.png"
+            "catawkward/frame_61.png"
+            "catawkward/frame_62.png"
+            "catawkward/frame_63.png"
+            "catawkward/frame_64.png"
+            "catawkward/frame_65.png"
+            "catawkward/frame_66.png"
+            "catawkward/frame_67.png"
+            "catawkward/frame_68.png"
+            "catawkward/frame_69.png"
+            "catawkward/frame_70.png" 
+			"catawkward/frame_71.png"
+            "catawkward/frame_72.png"
+            "catawkward/frame_73.png"
+            "catawkward/frame_74.png"
+            "catawkward/frame_75.png"
+            "catawkward/frame_76.png"
+            "catawkward/frame_77.png"
+            "catawkward/frame_78.png"
+            "catawkward/frame_79.png"
+            "catawkward/frame_80.png"
+			"catawkward/frame_81.png"
+            "catawkward/frame_82.png"
+            "catawkward/frame_83.png"
+            "catawkward/frame_84.png"
+		}
+    }
+}
+

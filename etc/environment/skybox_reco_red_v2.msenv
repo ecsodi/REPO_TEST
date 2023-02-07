@@ -1,0 +1,79 @@
+ScriptType         EnvrionmentData
+ScriptVersion      1.0000
+
+Group DirectionalLight
+{
+    Direction     0.500000 0.500000 -0.500000
+
+    Group Background
+    {
+        Enable        1
+        Diffuse       1.000000 1.000000 1.000000 1.000000
+        Ambient       0.247059 0.317647 0.309804 1.000000
+    }
+    
+    Group Character
+    {
+        Enable        1
+        Diffuse       1.000000 1.000000 1.000000 1.000000
+        Ambient       0.397059 0.467647 0.459804 1.000000
+    }
+}
+Group Material
+{
+    Diffuse       0.670588 0.203922 0.203922 1.000000
+    Ambient       0.925490 0.082353 0.250980 1.000000
+    Emissive      0.019608 0.019608 0.019608 1.000000
+}
+
+Group Fog
+{
+    Enable        1
+    NearDistance  20000.000000
+    FarDistance   50000.000000
+    Color         0.541176 0.101961 0.101961 1.000000
+}
+
+Group Filter
+{
+    Enable        0
+    Color         0.298039 0.098039 0.098039 0.000000
+    AlphaSrc      2
+    AlphaDest     2
+}
+
+Group SkyBox
+{
+    bTextureRenderMode    1
+    Scale                 3500.000000 3500.000000 3500.000000
+    GradientLevelUpper    0
+    GradientLevelLower    0
+    FrontFaceFileName	   "D:\ymir work\environment\skyboxen_reco\red_sky\v2\red_sky_v2_front.dds"
+    BackFaceFileName	   "D:\ymir work\environment\skyboxen_reco\red_sky\v2\red_sky_v2_back.dds"
+    LeftFaceFileName	   "D:\ymir work\environment\skyboxen_reco\red_sky\v2\red_sky_v2_left.dds"
+    RightFaceFileName	   "D:\ymir work\environment\skyboxen_reco\red_sky\v2\red_sky_v2_right.dds"
+    TopFaceFileName	   "D:\ymir work\environment\skyboxen_reco\red_sky\v2\red_sky_v2_top.dds"
+    BottomFaceFileName	   "D:\ymir work\environment\skyboxen_reco\red_sky\v2\red_sky_v2_bottom.dds"
+    
+    CloudScale            200000.000000 200000.000000
+    CloudHeight           30000.000000
+    CloudTextureScale     4.000000 4.000000
+    CloudSpeed            0.001000 0.001000
+    CloudTextureFileName  ""
+    List CloudColor
+    {
+        0.000000 0.000000 0.000000 0.000000
+        0.000000 0.000000 0.000000 0.000000
+    }
+}
+
+Group LensFlare
+{
+    Enable                     0
+    BrightnessColor            0.980392 0.980392 0.980392 1.000000
+    MaxBrightness              1.000000
+    MainFlareEnable            0
+    MainFlareTextureFileName   ""
+    MainFlareSize              0.200000
+}
+

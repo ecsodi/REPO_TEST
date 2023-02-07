@@ -1,0 +1,87 @@
+ScriptType         EnvrionmentData
+ScriptVersion      1.0000
+
+Group DirectionalLight
+{
+    Direction     -0.828502 0.423529 -0.366343
+
+    Group Background
+    {
+        Enable        1
+        Diffuse       0.772549 0.650980 0.270588 1.000000
+        Ambient       1.000000 0.000000 0.364706 1.000000
+    }
+    
+    Group Character
+    {
+        Enable        1
+        Diffuse       0.772549 0.650980 0.270588 1.000000
+        Ambient       1.150000 0.150000 0.514706 1.000000
+    }
+}
+Group Material
+{
+    Diffuse       0.494118 0.521569 0.074510 1.000000
+    Ambient       0.066667 0.211765 0.058824 1.000000
+    Emissive      0.411765 0.364706 0.364706 1.000000
+}
+
+Group Fog
+{
+    Enable        1
+    NearDistance  500.000000
+    FarDistance   12000.000000
+    Color         0.011765 0.058824 0.074510 1.000000
+}
+
+Group Filter
+{
+    Enable        0
+    Color         0.294118 0.094118 0.094118 0.000000
+    AlphaSrc      2
+    AlphaDest     2
+}
+
+Group SkyBox
+{
+    bTextureRenderMode    0
+    Scale                 3500.000000 3500.000000 3500.000000
+    GradientLevelUpper    1
+    GradientLevelLower    1
+    FrontFaceFileName	   ""
+    BackFaceFileName	   ""
+    LeftFaceFileName	   ""
+    RightFaceFileName	   ""
+    TopFaceFileName	   ""
+    BottomFaceFileName	   ""
+    
+    CloudScale            200000.000000 200000.000000
+    CloudHeight           30000.000000
+    CloudTextureScale     4.000000 4.000000
+    CloudSpeed            0.001000 0.001000
+    CloudTextureFileName  ""
+    List CloudColor
+    {
+        0.000000 0.000000 0.000000 0.000000
+        0.000000 0.000000 0.000000 0.000000
+    }
+    List Gradient
+    {
+        0.000000 0.000000 0.000000 0.000000
+        0.000000 0.000000 0.000000 0.000000
+        
+        0.000000 0.000000 0.000000 0.000000
+        0.000000 0.000000 0.000000 0.000000
+    }
+}
+
+Group LensFlare
+{
+    Enable                     0
+    BrightnessColor            0.976471 0.976471 0.976471 1.000000
+    MaxBrightness              1.000000
+    MainFlareEnable            0
+    MainFlareTextureFileName   ""
+    MainFlareSize              0.200000
+}
+

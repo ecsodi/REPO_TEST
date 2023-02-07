@@ -1,0 +1,163 @@
+BoundingSphereRadius   50.000000
+BoundingSpherePosition 0.000000 0.000000 90.000000
+
+Group Particle
+{
+    StartTime           0.000000
+    List TimeEventPosition
+    {
+        0.000000 "MOVING_TYPE_DIRECT" 0.000000 0.000000 90.000000
+    }
+    
+    Group EmitterProperty
+    {
+        MaxEmissionCount        1
+    
+        CycleLength             1.000000
+        CycleLoopEnable         0
+        LoopCount               0
+    
+        EmitterShape            0
+        EmitterAdvancedType     0
+        EmitterEmitFromEdgeFlag  0
+        EmittingDirection       0.000000 0.000000 0.000000
+    
+        List TimeEventEmittingSize
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmittingAngularVelocity
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmittingDirectionX
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmittingDirectionY
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmittingDirectionZ
+        {
+        }
+        List TimeEventEmittingVelocity
+        {
+            0.000000 0.000000
+        }
+        List TimeEventEmissionCountPerSecond
+        {
+            0.000000 20.000000
+        }
+        List TimeEventLifeTime
+        {
+            0.000000 2.300000
+        }
+        List TimeEventSizeX
+        {
+            0.000000 15.000000
+        }
+        List TimeEventSizeY
+        {
+            0.000000 15.000000
+        }
+    }
+    
+    Group ParticleProperty
+    {
+        SrcBlendType                 5
+        DestBlendType                6
+        ColorOperationType           4
+        BillboardType                1
+        RotationType                 0
+        RotationSpeed                0.000000
+        RotationRandomStartingBegin  0
+        RotationRandomStartingEnd    0
+    
+        AttachEnable                 1
+        StretchEnable                0
+    
+        TexAniType                   1
+        TexAniDelay                  0.084000
+        TexAniRandomStartFrameEnable 0
+    
+        List TimeEventGravity
+        {
+        }
+        List TimeEventAirResistance
+        {
+        }
+        List TimeEventScaleX
+        {
+            0.000000 0.500000
+            0.050000 2.500000
+            0.070000 2.000000
+        }
+        List TimeEventScaleY
+        {
+            0.000000 0.500000
+            0.050000 2.500000
+            0.070000 2.000000
+        }
+        List TimeEventColorRed
+        {
+            0.000000 0.900000
+        }
+        List TimeEventColorGreen
+        {
+            0.000000 1.000000
+        }
+        List TimeEventColorBlue
+        {
+            0.000000 1.000000
+        }
+        List TimeEventAlpha
+        {
+            0.500000 1.000000
+            0.950000 0.900000
+            1.000000 0.000000
+        }
+        List TimeEventRotation
+        {
+            0.000000 0.000000
+        }
+        List TextureFiles
+        {
+            "suspiciouspepe/0.png"
+            "suspiciouspepe/1.png"
+            "suspiciouspepe/2.png"
+            "suspiciouspepe/3.png"
+            "suspiciouspepe/4.png"
+            "suspiciouspepe/5.png"
+            "suspiciouspepe/6.png"
+            "suspiciouspepe/7.png"
+            "suspiciouspepe/8.png"
+            "suspiciouspepe/9.png"
+            "suspiciouspepe/10.png"
+            "suspiciouspepe/11.png"
+            "suspiciouspepe/12.png"
+            "suspiciouspepe/13.png"
+            "suspiciouspepe/14.png"
+            "suspiciouspepe/15.png"
+            "suspiciouspepe/16.png"
+            "suspiciouspepe/17.png"
+            "suspiciouspepe/18.png"
+            "suspiciouspepe/19.png"
+            "suspiciouspepe/20.png"
+            "suspiciouspepe/21.png"
+            "suspiciouspepe/22.png"
+            "suspiciouspepe/23.png"
+            "suspiciouspepe/24.png"
+            "suspiciouspepe/25.png"
+            "suspiciouspepe/26.png"
+            "suspiciouspepe/27.png"
+            "suspiciouspepe/28.png"
+            "suspiciouspepe/29.png"
+            "suspiciouspepe/29.png"
+            "suspiciouspepe/29.png"
+            "suspiciouspepe/29.png"
+            "suspiciouspepe/29.png"
+        }
+    }
+}
+

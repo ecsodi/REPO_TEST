@@ -1,0 +1,7 @@
+title subImage
+version 1.0
+image "new_buttons_c_board.tga"
+left 12
+top 24
+right 25
+bottom 35

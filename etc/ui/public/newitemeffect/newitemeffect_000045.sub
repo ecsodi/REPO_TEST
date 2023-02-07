@@ -1,0 +1,7 @@
+title subImage
+version 1.0
+image "newitemeffect.dds"
+left 256
+top 160
+right 288
+bottom 224

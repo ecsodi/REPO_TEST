@@ -1,0 +1,7 @@
+title subImage
+version 1.0
+image "inventory_refresh_btn.tga"
+left 45
+top 0
+right 60
+bottom 14

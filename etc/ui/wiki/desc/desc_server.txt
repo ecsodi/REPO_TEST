@@ -1,0 +1,37 @@
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+|Ed:/ymir work/ui/wiki/arrow_2.tga|e1. General
+|Ed:/ymir work/ui/wiki/arrow_2.tga|e2. LMA romania
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=80; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=15;COLOR=0xffd700]1. General
+
+|Ed:/ymir work/ui/wiki/arrow_2.tga|e Panourile de umar fac parte din echipamentul vizibil.
+|Ed:/ymir work/ui/wiki/arrow_2.tga|e Numai armele pot fi absorbite de ceva.
+|Ed:/ymir work/ui/wiki/arrow_2.tga|e Valoarea maxima de absorbtie este de 25.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=165; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=15;COLOR=0xffd700]2. LMA romania
+
+[CENTER_ALIGN]|Ed:/ymir work/ui/wiki/arrow_2.tga|e Panourile de umar pot fi fabricate la Theowahdan
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Esarfa Master
+Master Sash (usor) Poate fi realizat din 40 de rochii galbene.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 Esarfa Lord
+A Lord Sash (de baza) Poate fi creat din 40 de rochii rosii.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.3 Esarfa King
+King Sash poate fi creata cu 40 de rochii gay.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.4 Esarfa Royala
+Royal Sash poate fi creata cu ajutorul unei mic-unelte speciale!
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=418; CENTER_ALIGN]
